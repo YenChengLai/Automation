@@ -3,7 +3,7 @@ name: Run Python Script and Update CSV
 on:
   workflow_dispatch:
   schedule:
-    - cron: '05 21 * * *' # Runs every day at 9:05 PM (in UTC)
+    - cron: '15 21 * * *' # Runs every day at 9:05 PM (in UTC)
 
 jobs:
   run-script:
@@ -26,7 +26,7 @@ jobs:
         git config --global user.name "GitHub Actions Bot"
         git config --global user.email "github-actions-bot@users.noreply.github.com"
     - name: Run Python script
-      working-directory: ${{ github.workspace }} # Set the working directory to the repository root
+      working-directory: ./ # Set the working directory to the repository root
       env:
         MY_SOCRATA_USERNAME: ${{ secrets.MY_SOCRATA_USERNAME }}
         MY_SOCRATA_PASSWORD: ${{ secrets.MY_SOCRATA_PASSWORD }}

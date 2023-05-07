@@ -3,7 +3,7 @@ name: Run Python Script and Update CSV
 on:
   workflow_dispatch:
   schedule:
-    - cron: '2 21 * * *' # Runs every day at 9:20 PM (in UTC)
+    - cron: '29 21 * * *' # Runs every day at 9:20 PM (in UTC)
 
 jobs:
   run-script:

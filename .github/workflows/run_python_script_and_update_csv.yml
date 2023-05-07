@@ -1,8 +1,9 @@
 name: Run Python Script and Update CSV
 
 on:
+  workflow_dispatch:
   schedule:
-    - cron: '50 20 * * *' # Runs every day at midnight (in UTC)
+    - cron: '55 20 * * *' # Runs every day at midnight (in UTC)
 
 jobs:
   run-script:

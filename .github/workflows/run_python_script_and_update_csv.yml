@@ -1,7 +1,6 @@
 name: Run Python Script and Update CSV
 
 on:
-  workflow_dispatch:
   schedule:
     - cron: '*/1 * * * *'
 

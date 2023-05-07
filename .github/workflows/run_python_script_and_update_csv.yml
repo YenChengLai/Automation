@@ -3,7 +3,7 @@ name: Run Python Script and Update CSV
 on:
   workflow_dispatch:
   schedule:
-    - cron: '20 21 * * *' # Runs every day at 9:20 PM (in UTC)
+    - cron: '2 21 * * *' # Runs every day at 9:20 PM (in UTC)
 
 jobs:
   run-script:
@@ -37,9 +37,3 @@ jobs:
         MY_SOCRATA_PASSWORD: ${{ secrets.MY_SOCRATA_PASSWORD }}
       run: |
         python "${{ github.workspace }}/update-script.py"
-
-    - name: Commit and push changes
-      run: |
-        git add .
-        git diff-index --quiet HEAD || git commit -m "Update Asset_Type_by_AgencyV4.csv"
-        git push

@@ -26,6 +26,7 @@ jobs:
         git config --global user.name "GitHub Actions Bot"
         git config --global user.email "github-actions-bot@users.noreply.github.com"
     - name: Run Python script
+      working-directory: ${{ github.workspace }} # Set the working directory to the repository root
       env:
         MY_SOCRATA_USERNAME: ${{ secrets.MY_SOCRATA_USERNAME }}
         MY_SOCRATA_PASSWORD: ${{ secrets.MY_SOCRATA_PASSWORD }}

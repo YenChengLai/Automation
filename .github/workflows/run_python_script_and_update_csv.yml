@@ -2,7 +2,7 @@ name: Run Python Script and Update CSV
 
 on:
   schedule:
-    - cron: '*/1 * * * *'
+    - cron: '0 0 * * *'
 
 jobs:
   run-script:

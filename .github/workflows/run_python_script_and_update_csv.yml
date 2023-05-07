@@ -36,7 +36,7 @@ jobs:
         MY_SOCRATA_USERNAME: ${{ secrets.MY_SOCRATA_USERNAME }}
         MY_SOCRATA_PASSWORD: ${{ secrets.MY_SOCRATA_PASSWORD }}
       run: |
-        python "${{ github.workspace }}/update_script.py"
+        python "${{ github.workspace }}/update-script.py"
 
     - name: Commit and push changes
       run: |

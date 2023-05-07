@@ -27,10 +27,6 @@ jobs:
         git config --global user.name "GitHub Actions Bot"
         git config --global user.email "github-actions-bot@users.noreply.github.com"
 
-    - name: Find update_script.py
-      run: |
-        find . -iname "update_script.py"
-
     - name: Run Python script
       env:
         MY_SOCRATA_USERNAME: ${{ secrets.MY_SOCRATA_USERNAME }}

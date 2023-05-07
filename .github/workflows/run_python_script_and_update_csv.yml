@@ -1,7 +1,7 @@
 name: Run Python Script and Update CSV
 
 on:
-  workflow_dispatch:
+  workflow_dispatch: ${{ github.workspace }}
   schedule:
     - cron: '55 20 * * *' # Runs every day at midnight (in UTC)
 

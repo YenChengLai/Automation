@@ -6,8 +6,8 @@ import sys
 
 # Azure Blob Storage details
 connect_str = os.getenv('AZURE_STORAGE_CONNECTION_STRING')
-container_name = 'mycontainer'
-blob_name = 'myblob.csv'
+container_name = 'siteanalysis'
+blob_name = 'SiteAnalytics_AssetAccess_test.csv'
 
 # Initialize the BlobServiceClient
 blob_service_client = BlobServiceClient.from_connection_string(connect_str)

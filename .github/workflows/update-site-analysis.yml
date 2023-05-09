@@ -30,5 +30,6 @@ jobs:
       env:
         MY_SOCRATA_USERNAME: ${{ secrets.MY_SOCRATA_USERNAME }}
         MY_SOCRATA_PASSWORD: ${{ secrets.MY_SOCRATA_PASSWORD }}
+        AZURE_STORAGE_CONNECTION_STRING: ${{ secrets.AZURE_STORAGE_CONNECTION_STRING }}
       run: |
         python "${{ github.workspace }}/site-update-script.py"

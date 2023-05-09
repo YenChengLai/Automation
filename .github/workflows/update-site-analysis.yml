@@ -20,7 +20,7 @@ jobs:
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        pip install sodapy socrata-py~=1.1.0
+        pip install sodapy socrata-py~=1.1.0 azure-storage-blob
 
     - name: Set up Git user
       run: |

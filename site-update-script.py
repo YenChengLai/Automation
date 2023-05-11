@@ -3,6 +3,8 @@ from socrata import Socrata
 from azure.storage.blob import BlobServiceClient
 import os
 import sys
+import json
+import requests
 
 # Azure Blob Storage details
 connect_str = os.getenv('AZURE_STORAGE_CONNECTION_STRING')
@@ -34,3 +36,27 @@ with open('SiteAnalytics_AssetAccess_test.csv', 'rb') as my_file:
 # Upload the processed file back to Azure Blob Storage
 with open('SiteAnalytics_AssetAccess_test.csv', 'rb') as data:
     blob_client.upload_blob(data, overwrite=True)
+  
+# This is the full path to the metadata API on the domain that you care about
+url = 'https://data.wa.gov/api/views/metadata/v1'
+
+# This is the unique identifier of the dataset you care about
+uid = 'y56a-jizm'
+
+# And this is your login information
+username = os.environ['MY_SOCRATA_USERNAME']
+password = os.environ['MY_SOCRATA_PASSWORD']
+
+headers = {'Content-Type': 'application/json'}
+
+# These are the fields you want to update
+data = {'private': True}
+
+response = requests.patch('{}/{}'.format(url, uid),
+                          auth=(username, password),
+                          headers=headers,
+                          # the data has to be passed as a string
+                          data=json.dumps(data))
+
+print(response.json())
+print(response.headers)

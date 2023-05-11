@@ -19,7 +19,8 @@ with open('Asset_Type_by_AgencyV4.csv', 'rb') as my_file:
   # These next 2 lines are optional - once the job is started from the previous line, the
   # script can exit; these next lines just block until the job completes
   job = job.wait_for_finish(progress = lambda job: print('Job progress:', job.attributes['status']))
-  sys.exit(0 if job.attributes['status'] == 'successful' else 1)
+  if job.attributes['status'] != 'successful':
+    sys.exit(1)
   
 # This is the full path to the metadata API on the domain that you care about
 url = 'https://data.wa.gov/api/views/metadata/v1'

@@ -31,7 +31,9 @@ view = socrata.views.lookup('y56a-jizm')
 with open('SiteAnalytics_AssetAccess_test.csv', 'rb') as my_file:
   (revision, job) = socrata.using_config('SiteAnalytics_AssetAccess_test_05-09-2023_c502', view).csv(my_file)
   job = job.wait_for_finish(progress = lambda job: print('Job progress:', job.attributes['status']))
-  sys.exit(0 if job.attributes['status'] == 'successful' else 1)
+  # Check if the job was successful
+  if job.attributes['status'] != 'successful':
+    sys.exit(1)
 
 # Upload the processed file back to Azure Blob Storage
 with open('SiteAnalytics_AssetAccess_test.csv', 'rb') as data:

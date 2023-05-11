@@ -2,6 +2,8 @@ from socrata.authorization import Authorization
 from socrata import Socrata
 import os
 import sys
+import json
+import requests
 
 auth = Authorization(
   'data.wa.gov',
@@ -18,3 +20,6 @@ with open('Asset_Type_by_AgencyV4.csv', 'rb') as my_file:
   # script can exit; these next lines just block until the job completes
   job = job.wait_for_finish(progress = lambda job: print('Job progress:', job.attributes['status']))
   sys.exit(0 if job.attributes['status'] == 'successful' else 1)
+  
+response = requests.get(url)
+print(response.headers)

@@ -1,3 +1,28 @@
+# Data Pipeline Setup
+## _Explanation and Walkthrough_
+![Socrata Logo](https://www.drupal.org/files/styles/grid-3-2x/public/project-images/socrata_vertical_thumb.jpg?itok=u9t1pXc7)
+
+This Documentation will guide you on how to set up the automation pipeline to update dataset on [Data.wa](https://data.wa.gov/) utilizing:
+- _**GitHub Action**_ as task scheduler
+- _**Azure Cloud Storage**_ as data storage solution
+- 
+
+## Flow Chart
+
+
+
+## Setup
+
+### Credentials
+
+| Name | Value |
+| ------ | ------ |
+| MY_SOCRATA_USERNAME | the username of the service account |
+| MY_SOCRATA_PASSWORD | the password of the service account |
+|AZURE_STORAGE_CONNECTION_STRING| the connection string retrieved from Azure service |
+
+
+
 # Automation
 Purpose: Automatically update data in the csv file to chosen dataset in Data.wa platform
 Steps: 

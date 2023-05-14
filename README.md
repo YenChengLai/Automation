@@ -1,6 +1,5 @@
 # Data Pipeline Setup
 ## _Explanation and Walkthrough_
-![Socrata Logo](https://www.drupal.org/files/styles/grid-3-2x/public/project-images/socrata_vertical_thumb.jpg?itok=u9t1pXc7)
 
 This Documentation will guide you on how to set up the automation pipeline to update dataset on [Data.wa](https://data.wa.gov/) utilizing:
 - _**GitHub Action**_ as task scheduler

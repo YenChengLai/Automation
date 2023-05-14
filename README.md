@@ -5,7 +5,7 @@
 This Documentation will guide you on how to set up the automation pipeline to update dataset on [Data.wa](https://data.wa.gov/) utilizing:
 - _**GitHub Action**_ as task scheduler
 - _**Azure Cloud Storage**_ as data storage solution
-- 
+
 
 ## Flow Chart
 ![Alt text](./FlowChart.png)

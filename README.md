@@ -9,6 +9,16 @@ This Documentation will guide you on how to set up the automation pipeline to up
 ## Flow Chart
 ![Alt text](./FlowChart_Updated.png)
 
+1. Execute MetadataFromAPI.py to retrieve the latest Metadata and store the generated file (MetadataFromAPI_py.xlsx) to Azure data storage.
+2. Execute MetricVisualization.py, which will read the data from MetadataFromAPI_py.xlsx and generate two new csv files (Metric3.csv and Metric4.csv).
+3. Execute SiteAnalyticsCSV.py to merge data to the existing file (SiteAnalytics_AssetAccess_test.csv) in Azure.
+4. Execute three update scripts to update the data corresponding to three datasets.
+
+| File name | Corresponding Dataset | Corresponding Metrics Name |
+| ----------| ----------------------| ---------------------------|
+| Metric3.csv | Metadata for Assets on Open Data Portal | Number of assets hosted on data.wa.gov(Measure) </br> Number of datasets with visualizations(Metric) </br> Number of datasets with stories(Metric) |
+| Metric4.csv | Open data portal access by category | Access of assets hosted on data.wa.gov& Most popular assets(Measure) |
+| SiteAnalytics_AssetAccess_test.csv | Asset Access Data | Access of assets hosted on data.wa.gov& Most popular assets(Measure) |
 
 ## Setup
 

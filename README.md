@@ -9,8 +9,8 @@ This Documentation will guide you on how to set up the automation pipeline to up
 ## Flow Chart
 ![Alt text](./FlowChart_Updated.png)
 
-1. Execute MetadataFromAPI.py to retrieve the latest Metadata and store the generated file (MetadataFromAPI_py.xlsx) to Azure data storage.
-2. Execute MetricVisualization.py, which will read the data from MetadataFromAPI_py.xlsx and generate two new csv files (Metric3.csv and Metric4.csv).
+1. Execute MetadataFromAPI.py to retrieve the latest Metadata and generate a file (MetadataFromAPI_py.xlsx) to Azure data storage.
+2. Execute MetricVisualization.py, which will generate two new csv files (Metric3.csv and Metric4.csv).
 3. Execute SiteAnalyticsCSV.py to merge data to the existing file (SiteAnalytics_AssetAccess_test.csv) in Azure.
 4. Execute three update scripts to update the data corresponding to three datasets.
 

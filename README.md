@@ -28,8 +28,14 @@ This Documentation will guide you on how to set up the automation pipeline to up
 | ------ | ------ |
 | MY_SOCRATA_USERNAME | the username of the service account |
 | MY_SOCRATA_PASSWORD | the password of the service account |
-|AZURE_STORAGE_CONNECTION_STRING| the connection string retrieved from Azure service |
+| AZURE_STORAGE_CONNECTION_STRING | the connection string retrieved from Azure service |
 
+How to get your credentials:
+
+***If your are going to create a service account to run the scripts, make sure it has enough permission to access the target datasets on Data.wa website***
+1. MY_SOCRATA_USERNAME: this is the username of the service account
+2. MY_SOCRATA_PASSWORD: this is the password of the service account
+3. AZURE_STORAGE_CONNECTION_STRING: this is the access key under your Azure Storage Account
 
 
 # Automation

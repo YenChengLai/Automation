@@ -7,7 +7,7 @@ This Documentation will guide you on how to set up the automation pipeline to up
 
 
 ## Flow Chart
-![Alt text](./FlowChart.png)
+![Alt text](./FlowChart_Updated.png)
 
 
 ## Setup

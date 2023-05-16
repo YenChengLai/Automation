@@ -114,6 +114,6 @@ _***The container name here will directly influence your execution result. Be su
 
 ![Alt text](./Pictures/Choose_Action_Workflow.png)
 
-3. If you want to add a manual trigger to a specific action, you can do it by adding "workflow_dispatch:" under the "on" section in the corresponding .yml file. Please keep in mind that you need to make sure the indentation, order, and colon is as stated as the below picture because it will affect the .yml compile result.
+3. If you want to add a manual trigger to a specific action, you can do it by adding "workflow_dispatch:" under the "on" section in the corresponding .yml file. Please keep in mind that you need to make sure the indentation, order, and colon are as stated as the below picture because it will affect the .yml compiling result.
 
 ![Alt text](./Pictures/YAML_Setting.png)

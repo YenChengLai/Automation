@@ -28,8 +28,23 @@ auth = Authorization(
 socrata = Socrata(auth)
 view = socrata.views.lookup('y56a-jizm')
 
+# These are the fields you want to update
+dataset_name = 'SiteAnalytics_AssetAccess_test_05-09-2023_c502'
+metadata = { 'name': dataset_name }
+action_type = 'update'
+permission = 'private'
+
+revision_json = json.dumps({ 
+    'metadata': metadata, 
+    'action': { 
+        'type': action_type, 
+        'permission': permission 
+    } 
+})
+
 with open('SiteAnalytics_AssetAccess_test.csv', 'rb') as my_file:
-  (revision, job) = socrata.using_config('SiteAnalytics_AssetAccess_test_05-09-2023_c502', view).csv(my_file)
+  # Here, we're adding the revision_json to the .csv() method call
+  (revision, job) = socrata.using_config('SiteAnalytics_AssetAccess_test_05-09-2023_c502', view).csv(my_file, revision_json)
   job = job.wait_for_finish(progress = lambda job: print('Job progress:', job.attributes['status']))
   # Check if the job was successful
   if job.attributes['status'] != 'successful':
@@ -38,27 +53,3 @@ with open('SiteAnalytics_AssetAccess_test.csv', 'rb') as my_file:
 # Upload the processed file back to Azure Blob Storage
 with open('SiteAnalytics_AssetAccess_test.csv', 'rb') as data:
     blob_client.upload_blob(data, overwrite=True)
-  
-# This is the full path to the metadata API on the domain that you care about
-url = 'https://data.wa.gov/api/views/metadata/v1'
-
-# This is the unique identifier of the dataset you care about
-uid = 'y56a-jizm'
-
-# And this is your login information
-username = os.environ['MY_SOCRATA_USERNAME']
-password = os.environ['MY_SOCRATA_PASSWORD']
-
-headers = {'Content-Type': 'application/json'}
-
-# These are the fields you want to update
-data = {'private': True}
-
-response = requests.patch('{}/{}'.format(url, uid),
-                          auth=(username, password),
-                          headers=headers,
-                          # the data has to be passed as a string
-                          data=json.dumps(data))
-
-print(response.json())
-print(response.headers)

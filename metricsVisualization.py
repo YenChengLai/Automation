@@ -129,11 +129,6 @@ def metric4(pd_access):
 def download_blob(blob_client, local_file_name):
     with open(local_file_name, "wb") as file:
         file.write(blob_client.download_blob().readall())
-        
-def upload_file_to_azure(blob_service_client, container_name, local_file_name, blob_name):
-    blob_client = blob_service_client.get_blob_client(container_name, blob_name)
-    with open(local_file_name, "rb") as data:
-        blob_client.upload_blob(data, overwrite=True)
 
 def main():
     agency = pd.read_csv('UserAgencies.csv')
@@ -184,18 +179,20 @@ def main():
     # Write metric3 and metric4 to CSV files
     df_metric3.to_csv('Metric3.csv', index=False)
     df_metric4.to_csv('Metric4.csv', index=False)
-            
+    
     # Upload the generated files to Azure Blob Storage
     connect_str = os.getenv('AZURE_STORAGE_CONNECTION_STRING')
     blob_service_client = BlobServiceClient.from_connection_string(connect_str)
     container_name = os.getenv('CONTAINER_NAME')  # Get the container name from the environment variable
 
-    # Upload the Metric3.csv file
-    upload_file_to_azure(blob_service_client, container_name, 'Metric3.csv', 'Metric3.csv')
+    # Upload the generated files to Azure Blob Storage
+    for file_name in ['Metric3.csv', 'Metric4.csv']:
+        # Create a blob client using the local file name as the name for the blob
+        blob_client = blob_service_client.get_blob_client(container_name, file_name)
 
-    # Upload the Metric4.csv file
-    upload_file_to_azure(blob_service_client, container_name, 'Metric4.csv', 'Metric4.csv')
-
+        # Upload the created file
+        with open(file_name, "rb") as data:
+            blob_client.upload_blob(data, overwrite=True)
 
 if __name__ == "__main__":
     main()

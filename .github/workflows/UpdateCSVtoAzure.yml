@@ -23,6 +23,6 @@ jobs:
         pip install pandas requests xlsxwriter azure-storage-blob
     - name: Run script
       run: |
-        python your_script.py
+        metadataFromAPI.py
       env:
         AZURE_STORAGE_CONNECTION_STRING: ${{ secrets.AZURE_STORAGE_CONNECTION_STRING }}

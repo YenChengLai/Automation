@@ -1,6 +1,7 @@
 name: Run Python Script and Upload to Azure Blob
 
 on:
+  workflow_dispatch:
   push:
     branches: [main]
   schedule:

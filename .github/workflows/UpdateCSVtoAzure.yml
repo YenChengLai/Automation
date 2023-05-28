@@ -2,13 +2,12 @@ name: Run Python Script and Upload to Azure Blob
 
 on:
   push:
-    branches: [ main ]
+    branches: [main]
   schedule:
     - cron: '0 0 * * *' # runs every day at midnight
 
 jobs:
   build:
-
     runs-on: ubuntu-latest
 
     steps:
@@ -23,6 +22,7 @@ jobs:
         pip install pandas requests xlsxwriter azure-storage-blob
     - name: Run script
       run: |
-        metadataFromAPI.py
+        python metadataFromAPI.py
       env:
         AZURE_STORAGE_CONNECTION_STRING: ${{ secrets.AZURE_STORAGE_CONNECTION_STRING }}
+        CONTAINER_NAME: ${{ secrets.CONTAINER_NAME }}

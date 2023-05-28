@@ -1,0 +1,2536 @@
+asset id,asset parent id,Parent asset type,Asset Agency,Parent Agency
+qxh8-f4bd,,,"Health, Department of (DOH)",
+k356-mc56,qxh8-f4bd,dataset,"Financial Management, Office of (OFM)","Health, Department of (DOH)"
+9xsr-tz9m,vtkh-65is,dataset,Washington State Technology Solutions (CTS),"Ecology, Department of (ECY)"
+xiqj-45bf,vtkh-65is,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Ecology, Department of (ECY)"
+9nnw-c693,,,Public Disclosure Commission (PDC),
+we9k-a58y,,,"Ecology, Department of (ECY)",
+tx5i-i2ja,,,"Financial Management, Office of (OFM)",
+pqu3-uhwj,6du3-3h9e,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Accountancy, State Board of (WBOA)(ACB)"
+aug9-4a7g,,,"Licensing, Department of (DOL)",
+m8qx-ubtq,,,"Labor & Industries, Department of (LNI)",
+n2ij-uduu,gpri-47xz,dataset,"Financial Management, Office of (OFM)","Attorney General, Office of the (ATG)"
+4xxd-wv4w,eiss-ghr9,parent asset is private or deleted,"Labor & Industries, Department of (LNI)",parent asset is private or deleted
+4xxd-wv4w,pd47-hngh,map,"Labor & Industries, Department of (LNI)","Public Instruction, Office of Superintendent of (OSPI)"
+688k-siuy,qxh8-f4bd,dataset,"Ecology, Department of (ECY)","Health, Department of (DOH)"
+irv9-b275,ei6b-djpx,map,Recreation and Conservation Office (RCO),"Public Instruction, Office of Superintendent of (OSPI)"
+irv9-b275,uyg8-hybx,parent asset is private or deleted,Recreation and Conservation Office (RCO),parent asset is private or deleted
+irv9-b275,isxq-iqdy,chart,Recreation and Conservation Office (RCO),Recreation and Conservation Office (RCO)
+msaf-rcj2,,,Recreation and Conservation Office (RCO),
+kv7h-kjye,,,Public Disclosure Commission (PDC),
+tijg-9zyp,,,Public Disclosure Commission (PDC),
+hsbt-ipx7,aug9-4a7g,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Licensing, Department of (DOL)"
+f6w7-q2d2,,,"Licensing, Department of (DOL)",
+58r6-eukc,5pxv-mthc,parent asset is private or deleted,"Public Instruction, Office of Superintendent of (OSPI)",parent asset is private or deleted
+auvb-4rvk,,,"Fish and Wildlife, Department of (DFW)",
+gpri-47xz,,,"Attorney General, Office of the (ATG)",
+gzrx-79x2,pzcu-jpab,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Accountancy, State Board of (WBOA)(ACB)"
+k5r7-nvip,gpri-47xz,dataset,Other external user,"Attorney General, Office of the (ATG)"
+rpr4-cgyd,,,"Licensing, Department of (DOL)",
+xcku-b9qq,,,"Financial Management, Office of (OFM)",
+gkwx-zwe8,69ff-eep2,parent asset is private or deleted,"Public Instruction, Office of Superintendent of (OSPI)",parent asset is private or deleted
+xvg3-xcf3,gpri-47xz,dataset,"Financial Management, Office of (OFM)","Attorney General, Office of the (ATG)"
+mcp7-tcwf,,,"Fish and Wildlife, Department of (DFW)",
+yccr-zbpr,tn3n-uv4s,parent asset is private or deleted,"Public Instruction, Office of Superintendent of (OSPI)",parent asset is private or deleted
+v62z-bcji,vz5p-qvth,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Attorney General, Office of the (ATG)"
+fupg-pfci,gpri-47xz,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Attorney General, Office of the (ATG)"
+wt8r-5xui,,,"Public Instruction, Office of Superintendent of (OSPI)",
+gtd3-scga,,,"Public Instruction, Office of Superintendent of (OSPI)",
+9bgs-8ktt,gpri-47xz,dataset,"Salmon Recovery Office, Governor's (GSRO)","Attorney General, Office of the (ATG)"
+n8q6-4twj,,,"Enterprise Services, Department of (DES)",
+9i5d-c2m8,,,"Public Instruction, Office of Superintendent of (OSPI)",
+nvpc-yr7b,,,"Public Instruction, Office of Superintendent of (OSPI)",
+6du3-3h9e,,,"Accountancy, State Board of (WBOA)(ACB)",
+gsbj-bwqj,,,"Labor & Industries, Department of (LNI)",
+vxd3-yfzv,qxh8-f4bd,dataset,"Financial Management, Office of (OFM)","Health, Department of (DOH)"
+fgyz-n3uk,,,"Fish and Wildlife, Department of (DFW)",
+cvrw-ujje,,,"Health, Department of (DOH)",
+qtus-455b,,,"Public Instruction, Office of Superintendent of (OSPI)",
+ncqh-ypvf,,,"Fish and Wildlife, Department of (DFW)",
+3xkp-u89m,fci6-869y,chart,Washington State Technology Solutions (CTS),"Public Instruction, Office of Superintendent of (OSPI)"
+3xkp-u89m,sfab-vw47,chart,Washington State Technology Solutions (CTS),"Public Instruction, Office of Superintendent of (OSPI)"
+3xkp-u89m,4dxz-msu8,chart,Washington State Technology Solutions (CTS),Other external user
+3xkp-u89m,r5ki-dmfz,dataset,Washington State Technology Solutions (CTS),"Criminal Justice Training Commission, Washington State (CJTC)"
+3xkp-u89m,eawc-zx8r,map,Washington State Technology Solutions (CTS),"Public Instruction, Office of Superintendent of (OSPI)"
+ciwg-agsx,,,"Labor & Industries, Department of (LNI)",
+q2gn-dkyk,qxh8-f4bd,dataset,"Accountancy, State Board of (WBOA)(ACB)","Health, Department of (DOH)"
+g526-rd4x,m8qx-ubtq,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Labor & Industries, Department of (LNI)"
+bhmw-igtj,f6w7-q2d2,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Licensing, Department of (DOL)"
+5y3z-mgxd,,,"Public Instruction, Office of Superintendent of (OSPI)",
+j78t-andi,,,Public Disclosure Commission (PDC),
+vss8-8j5n,,,"Public Instruction, Office of Superintendent of (OSPI)",
+ymi4-syjv,,,"Public Instruction, Office of Superintendent of (OSPI)",
+7qr9-q2c9,,,Public Disclosure Commission (PDC),
+u4gd-6wxx,,,"Public Instruction, Office of Superintendent of (OSPI)",
+vgcw-qfjm,,,Liquor and Cannabis Board (LCB),
+kuv4-tmbd,jvx2-m4u3,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Ecology, Department of (ECY)"
+dpgd-62sr,,,Timberland Regional Library,
+idhm-59de,,,"Ecology, Department of (ECY)",
+smxa-ttv3,f6w7-q2d2,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Licensing, Department of (DOL)"
+3h9x-7bvm,,,Public Disclosure Commission (PDC),
+5r58-ib3h,9f5q-vk4q,dataset,"Secretary of State, Office of the (SECSTATE)",Washington State Technology Solutions (CTS)
+qhn8-3a9e,,,"Health, Department of (DOH)",
+x5aq-6f3n,,,"Labor & Industries, Department of (LNI)",
+2jwd-akfb,kv7h-kjye,dataset,"Financial Management, Office of (OFM)",Public Disclosure Commission (PDC)
+h9ai-7h4s,wvrf-jdmh,parent asset is private or deleted,"Fish and Wildlife, Department of (DFW)",parent asset is private or deleted
+mcr6-ujqw,,,"Labor & Industries, Department of (LNI)",
+292v-tb9r,,,"Public Instruction, Office of Superintendent of (OSPI)",
+f9jk-mm39,,,"Financial Management, Office of (OFM)",
+b83e-f7n2,qxh8-f4bd,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Health, Department of (DOH)"
+rxjk-6ieq,,,"Public Instruction, Office of Superintendent of (OSPI)",
+um6h-4brj,,,"Financial Management, Office of (OFM)",
+e239-pe5z,vtkh-65is,dataset,"Ecology, Department of (ECY)","Ecology, Department of (ECY)"
+6iji-4nux,,,"Public Instruction, Office of Superintendent of (OSPI)",
+xfwh-dmij,,,"Enterprise Services, Department of (DES)",
+buf8-6px9,,,"Enterprise Services, Department of (DES)",
+pcn2-jime,,,"Labor & Industries, Department of (LNI)",
+t9je-9qwa,,,"Labor & Industries, Department of (LNI)",
+8y5c-ekcc,,,"Health, Department of (DOH)",
+8ydb-ddzd,thnz-yg58,parent asset is private or deleted,"Health, Department of (DOH)",parent asset is private or deleted
+5sqj-8rp7,,,"Ecology, Department of (ECY)",
+gges-4vcv,,,"Public Instruction, Office of Superintendent of (OSPI)",
+vtkh-65is,,,"Ecology, Department of (ECY)",
+pzcu-jpab,,,"Accountancy, State Board of (WBOA)(ACB)",
+qd59-xzg5,,,"Public Instruction, Office of Superintendent of (OSPI)",
+hjdc-v2n4,,,"Fish and Wildlife, Department of (DFW)",
+i89p-imif,,,"Health, Department of (DOH)",
+8xvp-mkxj,gpri-47xz,dataset,"Licensing, Department of (DOL)","Attorney General, Office of the (ATG)"
+t5e7-p2d6,qxh8-f4bd,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Health, Department of (DOH)"
+rrud-rd4u,,,"Public Instruction, Office of Superintendent of (OSPI)",
+67cp-h962,,,Public Disclosure Commission (PDC),
+e6ip-wkqq,,,"Financial Management, Office of (OFM)",
+7yrf-pays,m8qx-ubtq,dataset,"Labor & Industries, Department of (LNI)","Labor & Industries, Department of (LNI)"
+5ncp-48yu,,,"Children, Youth, and Families, Department of (DCYF)",
+ehbc-shxw,,,Public Disclosure Commission (PDC),
+brw6-jymh,,,"Licensing, Department of (DOL)",
+c425-xvu2,,,"Labor & Industries, Department of (LNI)",
+cki8-rxms,f6w7-q2d2,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Licensing, Department of (DOL)"
+769e-73q6,,,"Licensing, Department of (DOL)",
+gi9j-78eu,,,"Insurance Commissioner, Office of the (OIC)",
+fvrz-yz45,,,"Attorney General, Office of the (ATG)",
+icqj-j27g,,,"Employment Security, Department of (ESD)",
+mthi-ii8j,,,"Fish and Wildlife, Department of (DFW)",
+sk7q-fh86,,,"Public Instruction, Office of Superintendent of (OSPI)",
+9ncw-tqjn,,,"Labor & Industries, Department of (LNI)",
+jeuk-pueh,,,"Enterprise Services, Department of (DES)",
+9i3z-i596,qxh8-f4bd,dataset,Kennewick School District,"Health, Department of (DOH)"
+9dvy-pnhx,,,"Public Instruction, Office of Superintendent of (OSPI)",
+87uq-bpim,,,"Enterprise Services, Department of (DES)",
+ie96-cgrn,,,"Health, Department of (DOH)",
+7cyv-xbef,m8qx-ubtq,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Labor & Industries, Department of (LNI)"
+9fkm-pdg8,9ncw-tqjn,dataset,Kennewick School District,"Labor & Industries, Department of (LNI)"
+d886-d5q2,,,"Licensing, Department of (DOL)",
+6iab-kcxu,,,"Secretary of State, Office of the (SECSTATE)",
+2xik-t628,55hd-c2d5,parent asset is private or deleted,"Public Instruction, Office of Superintendent of (OSPI)",parent asset is private or deleted
+fwgq-q5ti,,,"Public Instruction, Office of Superintendent of (OSPI)",
+xupn-4ych,,,"Financial Management, Office of (OFM)",
+idwx-fext,,,"Fish and Wildlife, Department of (DFW)",
+brpd-b6zd,,,Liquor and Cannabis Board (LCB),
+23d3-v4ba,vtkh-65is,dataset,,"Ecology, Department of (ECY)"
+s4zn-ybky,auvb-4rvk,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Fish and Wildlife, Department of (DFW)"
+b9iy-rshy,vtkh-65is,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Ecology, Department of (ECY)"
+xaex-8gn6,qxh8-f4bd,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Health, Department of (DOH)"
+mu24-67ke,,,"Financial Management, Office of (OFM)",
+fjjv-ikwf,qxh8-f4bd,dataset,"Fish and Wildlife, Department of (DFW)","Health, Department of (DOH)"
+39uh-rsgs,,,"Financial Management, Office of (OFM)",
+3r6b-hsaa,,,Public Disclosure Commission (PDC),
+q57g-ay7d,,,Recreation and Conservation Office (RCO),
+iana-jw8c,qxh8-f4bd,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Health, Department of (DOH)"
+7pin-awi8,vzry-t2nc,dataset,"Public Instruction, Office of Superintendent of (OSPI)",Other external user
+agvw-ch2s,,,"Enterprise Services, Department of (DES)",
+6fex-3r7d,,,"Fish and Wildlife, Department of (DFW)",
+irc2-87d5,,,Recreation and Conservation Office (RCO),
+iz23-7xxj,,,Public Disclosure Commission (PDC),
+h9yj-vui4,,,"Fish and Wildlife, Department of (DFW)",
+62bq-q9ck,qxh8-f4bd,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Health, Department of (DOH)"
+qi6z-wzah,d886-d5q2,dataset,"Health, Department of (DOH)","Licensing, Department of (DOL)"
+8bva-rkeb,,,Public Disclosure Commission (PDC),
+rgra-syy5,,,"Ecology, Department of (ECY)",
+scqv-y9et,,,"Public Instruction, Office of Superintendent of (OSPI)",
+i278-it6c,,,Recreation and Conservation Office (RCO),
+mpef-t92p,,,"Public Instruction, Office of Superintendent of (OSPI)",
+32fu-jamm,mcp7-tcwf,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Fish and Wildlife, Department of (DFW)"
+4xk5-x9j6,,,"Labor & Industries, Department of (LNI)",
+9zru-c2kz,,,"Health, Department of (DOH)",
+7ma7-qs6m,,,"Financial Management, Office of (OFM)",
+ydb3-3dnq,,,Recreation and Conservation Office (RCO),
+2ctu-fcyb,,,"Public Instruction, Office of Superintendent of (OSPI)",
+y3ds-rkew,,,Washington State Technology Solutions (CTS),
+s8nh-j5f4,,,"Public Instruction, Office of Superintendent of (OSPI)",
+t29s-ahtk,,,"Public Instruction, Office of Superintendent of (OSPI)",
+d958-q2ci,,,"Ecology, Department of (ECY)",
+yb3y-nvmi,,,"Public Instruction, Office of Superintendent of (OSPI)",
+8wih-9h9v,,,Recreation and Conservation Office (RCO),
+xhn7-64im,,,Public Disclosure Commission (PDC),
+bjzy-b2zg,qxh8-f4bd,dataset,Other external user,"Health, Department of (DOH)"
+nzk7-nuv6,auvb-4rvk,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Fish and Wildlife, Department of (DFW)"
+c4ag-3cmj,,,Public Disclosure Commission (PDC),
+9456-mbuy,,,"Public Instruction, Office of Superintendent of (OSPI)",
+cqra-s74n,,,"Fish and Wildlife, Department of (DFW)",
+ikwr-f47z,,,"Ecology, Department of (ECY)",
+3d5d-sdqb,,,"Licensing, Department of (DOL)",
+bk33-dzdv,,,Other external user,
+3cnt-qzd8,,,Public Disclosure Commission (PDC),
+spyf-ga46,,,"Public Instruction, Office of Superintendent of (OSPI)",
+y344-6hfy,qxh8-f4bd,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Health, Department of (DOH)"
+vaqt-qn8b,,,"Public Instruction, Office of Superintendent of (OSPI)",
+f7s5-ednc,qxh8-f4bd,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Health, Department of (DOH)"
+cz3x-ijnh,,,"Public Instruction, Office of Superintendent of (OSPI)",
+r6r4-h2x4,,,"Enterprise Services, Department of (DES)",
+x574-csgd,,,"Labor & Industries, Department of (LNI)",
+hy3f-t287,qxh8-f4bd,dataset,"Salmon Recovery Office, Governor's (GSRO)","Health, Department of (DOH)"
+tkg7-xxjz,e3k6-5ngk,filter,"Employment Security, Department of (ESD)","Public Instruction, Office of Superintendent of (OSPI)"
+tkg7-xxjz,pxpn-hgrc,filter,"Employment Security, Department of (ESD)","Public Instruction, Office of Superintendent of (OSPI)"
+3ckw-vp8n,qxh8-f4bd,dataset,Public Disclosure Commission (PDC),"Health, Department of (DOH)"
+vyis-ich4,5s66-2kbs,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Health, Department of (DOH)"
+d3bu-6mf8,vzry-t2nc,dataset,"Fish and Wildlife, Department of (DFW)",Other external user
+cef6-tnvw,qxh8-f4bd,dataset,"Licensing, Department of (DOL)","Health, Department of (DOH)"
+3f3v-gugf,,,"Enterprise Services, Department of (DES)",
+3kwi-7zsj,,,"Enterprise Services, Department of (DES)",
+28ar-n972,,,"Health, Department of (DOH)",
+eeui-dkag,,,"Public Instruction, Office of Superintendent of (OSPI)",
+jupx-avkw,auvb-4rvk,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Fish and Wildlife, Department of (DFW)"
+d2ig-r3q4,,,Public Disclosure Commission (PDC),
+8d7d-8in5,,,"Fish and Wildlife, Department of (DFW)",
+wsf2-vpuw,gpri-47xz,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Attorney General, Office of the (ATG)"
+q2jk-dthc,dwbh-u4rr,parent asset is private or deleted,"Accountancy, State Board of (WBOA)(ACB)",parent asset is private or deleted
+xs9a-phgh,,,"Public Instruction, Office of Superintendent of (OSPI)",
+f6iy-gbqv,vzry-t2nc,dataset,"Public Instruction, Office of Superintendent of (OSPI)",Other external user
+ndgf-xnuy,ncqh-ypvf,dataset,"Financial Management, Office of (OFM)","Fish and Wildlife, Department of (DFW)"
+di4y-k8za,,,"Financial Management, Office of (OFM)",
+nnqi-nktf,,,"Public Instruction, Office of Superintendent of (OSPI)",
+nuxu-axvx,ebqc-wddc,parent asset is private or deleted,Asotin County Library,parent asset is private or deleted
+k5fe-2e4s,,,"Ecology, Department of (ECY)",
+ewuk-q8pu,qxh8-f4bd,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Health, Department of (DOH)"
+fs63-sd8y,,,"Public Instruction, Office of Superintendent of (OSPI)",
+sb4j-ca4h,,,"Attorney General, Office of the (ATG)",
+2h2e-g4je,rpr4-cgyd,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Licensing, Department of (DOL)"
+biux-xiwe,,,Public Disclosure Commission (PDC),
+bzff-4fmt,,,"Labor & Industries, Department of (LNI)",
+mx83-wxi5,,,"Health, Department of (DOH)",
+73ff-hunk,idhm-59de,dataset,Timberland Regional Library,"Ecology, Department of (ECY)"
+7xsn-jhyc,,,"Labor & Industries, Department of (LNI)",
+i7iu-f74k,,,"Ecology, Department of (ECY)",
+k3fc-rj2x,bhmw-igtj,map,"Financial Management, Office of (OFM)","Public Instruction, Office of Superintendent of (OSPI)"
+k3fc-rj2x,yu7n-qgtd,chart,"Financial Management, Office of (OFM)",Asotin County Library
+ddbi-4iat,,,"Public Instruction, Office of Superintendent of (OSPI)",
+ti55-mvy5,,,Public Disclosure Commission (PDC),
+7364-4xgh,qxh8-f4bd,dataset,Timberland Regional Library,"Health, Department of (DOH)"
+bv9x-jtbr,,,"Ecology, Department of (ECY)",
+yu7n-qgtd,rpr4-cgyd,dataset,Asotin County Library,"Licensing, Department of (DOL)"
+qjnp-3r9c,,,Washington State Technology Solutions (CTS),
+bp5b-jrti,,,Public Disclosure Commission (PDC),
+9kcu-2bem,,,Public Disclosure Commission (PDC),
+wn8y-jzwn,ncri-v6ym,dataset,"Ecology, Department of (ECY)","Ecology, Department of (ECY)"
+ncvg-8pc3,,,"Public Instruction, Office of Superintendent of (OSPI)",
+qp8s-a5uf,,,"Labor & Industries, Department of (LNI)",
+89me-k7y5,,,"Financial Management, Office of (OFM)",
+bdai-8ppi,9ncw-tqjn,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Labor & Industries, Department of (LNI)"
+knq3-eqnv,qxh8-f4bd,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Health, Department of (DOH)"
+e7sd-jbuy,,,Public Disclosure Commission (PDC),
+kg5k-8pyt,,,"Public Instruction, Office of Superintendent of (OSPI)",
+qgtz-buis,,,"Commerce, Department of (COM)",
+72ja-e4r2,t9je-9qwa,dataset,Timberland Regional Library,"Labor & Industries, Department of (LNI)"
+6pgw-z496,j59h-dkq5,dataset,"Financial Management, Office of (OFM)","Enterprise Services, Department of (DES)"
+d97t-gm7x,qxh8-f4bd,dataset,"Ecology, Department of (ECY)","Health, Department of (DOH)"
+3vxk-ghwr,,,Washington State Technology Solutions (CTS),
+4zgm-xva7,qxh8-f4bd,dataset,"Labor & Industries, Department of (LNI)","Health, Department of (DOH)"
+9d84-b364,auvb-4rvk,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Fish and Wildlife, Department of (DFW)"
+ijvn-uemp,,,"Labor & Industries, Department of (LNI)",
+jbe2-ek4r,,,"Ecology, Department of (ECY)",
+yr5j-kyei,,,Recreation and Conservation Office (RCO),
+xnnc-wpua,,,"Public Instruction, Office of Superintendent of (OSPI)",
+kp4i-3mdm,hdw4-yhs4,dataset,Asotin County Library,"Ecology, Department of (ECY)"
+fnp9-sdhr,6du3-3h9e,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Accountancy, State Board of (WBOA)(ACB)"
+v928-8kke,,,"Public Instruction, Office of Superintendent of (OSPI)",
+ma99-sxnd,,,"Secretary of State, Office of the (SECSTATE)",
+s7ge-wicw,,,"Labor & Industries, Department of (LNI)",
+inqc-k3vt,,,"Public Instruction, Office of Superintendent of (OSPI)",
+ty2s-4gdy,hdw4-yhs4,dataset,"Financial Management, Office of (OFM)","Ecology, Department of (ECY)"
+agzj-c944,syjk-ymxm,filter,"Enterprise Services, Department of (DES)",Washington State Technology Solutions (CTS)
+agzj-c944,yeed-tnk5,parent asset is private or deleted,"Enterprise Services, Department of (DES)",parent asset is private or deleted
+nu8y-srfd,rgra-syy5,dataset,Asotin County Library,"Ecology, Department of (ECY)"
+52rt-f8sb,,,"Public Instruction, Office of Superintendent of (OSPI)",
+9dee-kzm5,,,Liquor and Cannabis Board (LCB),
+hsx3-pn9g,,,Washington State Technology Solutions (CTS),
+gtyb-56w7,idhm-59de,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Ecology, Department of (ECY)"
+t7dd-pcfx,9dee-kzm5,dataset,"Health, Department of (DOH)",Liquor and Cannabis Board (LCB)
+jjzs-eqzk,auvb-4rvk,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Fish and Wildlife, Department of (DFW)"
+rd48-d4y8,i3e8-j9am,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Health, Department of (DOH)"
+n2vz-2wid,,,"Labor & Industries, Department of (LNI)",
+tak8-xdcp,rpr4-cgyd,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Licensing, Department of (DOL)"
+h7j9-vgr3,,,"Ecology, Department of (ECY)",
+f4cq-c24e,,,"Public Instruction, Office of Superintendent of (OSPI)",
+fwbr-3ker,,,"Public Instruction, Office of Superintendent of (OSPI)",
+i3e8-j9am,,,"Health, Department of (DOH)",
+mjwb-szba,,,Public Disclosure Commission (PDC),
+j59h-dkq5,,,"Enterprise Services, Department of (DES)",
+8z6z-zpwg,qxh8-f4bd,dataset,"Health, Department of (DOH)","Health, Department of (DOH)"
+f4wb-hxgz,3p3u-qc84,dataset,"Public Instruction, Office of Superintendent of (OSPI)",Other external user
+9bjy-hi93,,,"Financial Management, Office of (OFM)",
+2zsf-krin,,,"Public Instruction, Office of Superintendent of (OSPI)",
+gexj-mqiq,,,"Financial Management, Office of (OFM)",
+u5i2-5q6t,fvrz-yz45,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Attorney General, Office of the (ATG)"
+xfwu-9qse,y3ds-rkew,dataset,"Enterprise Services, Department of (DES)",Washington State Technology Solutions (CTS)
+uj4q-wr8d,,,"Public Instruction, Office of Superintendent of (OSPI)",
+cdk6-5kdf,,,"Licensing, Department of (DOL)",
+krwu-jcs7,qxh8-f4bd,dataset,"Financial Management, Office of (OFM)","Health, Department of (DOH)"
+kmpx-ezrh,a6d8-msj5,parent asset is private or deleted,"Public Instruction, Office of Superintendent of (OSPI)",parent asset is private or deleted
+xjth-3vtg,,,"Labor & Industries, Department of (LNI)",
+kt76-825t,,,"Secretary of State, Office of the (SECSTATE)",
+df3b-7bms,,,"Public Instruction, Office of Superintendent of (OSPI)",
+vuxe-zkgc,vtkh-65is,dataset,"Ecology, Department of (ECY)","Ecology, Department of (ECY)"
+qjpj-7bg6,fvrz-yz45,dataset,Washington State Technology Solutions (CTS),"Attorney General, Office of the (ATG)"
+fntr-5ajf,vtkh-65is,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Ecology, Department of (ECY)"
+mj3m-v2m2,auvb-4rvk,dataset,Timberland Regional Library,"Fish and Wildlife, Department of (DFW)"
+uie2-nw4g,,,Washington State Technology Solutions (CTS),
+qbwu-c9dz,qxh8-f4bd,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Health, Department of (DOH)"
+3ghg-qqp6,auvb-4rvk,dataset,Asotin County Library,"Fish and Wildlife, Department of (DFW)"
+hgcy-zq8m,9ncw-tqjn,dataset,"Salmon Recovery Office, Governor's (GSRO)","Labor & Industries, Department of (LNI)"
+im25-68dw,6fpy-npmv,dataset,"Ecology, Department of (ECY)",Washington State Technology Solutions (CTS)
+37cr-k5cr,,,Public Disclosure Commission (PDC),
+jsfy-j9xm,,,Washington State Technology Solutions (CTS),
+vdfh-vn22,,,"Public Instruction, Office of Superintendent of (OSPI)",
+y7h5-2yxh,,,"Public Instruction, Office of Superintendent of (OSPI)",
+hdw4-yhs4,,,"Ecology, Department of (ECY)",
+8suz-ii6t,gpri-47xz,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Attorney General, Office of the (ATG)"
+ynd2-ud55,qxh8-f4bd,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Health, Department of (DOH)"
+bik9-dtcz,auvb-4rvk,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Fish and Wildlife, Department of (DFW)"
+scyf-iix8,h7j9-vgr3,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Ecology, Department of (ECY)"
+tzm4-avnz,,,"Public Instruction, Office of Superintendent of (OSPI)",
+3v2j-kqbi,,,Public Disclosure Commission (PDC),
+5tvk-w2c5,,,"Public Instruction, Office of Superintendent of (OSPI)",
+swyb-gmfy,,,Washington State Technology Solutions (CTS),
+p2c3-pm28,,,"Financial Management, Office of (OFM)",
+vdrf-uvie,y3ds-rkew,dataset,"Public Instruction, Office of Superintendent of (OSPI)",Washington State Technology Solutions (CTS)
+xawg-cey9,fvrz-yz45,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Attorney General, Office of the (ATG)"
+swuj-ccgu,,,"Financial Management, Office of (OFM)",
+xguq-ngdm,,,"Enterprise Services, Department of (DES)",
+5ikh-48ry,,,Asotin County Library,
+rwnw-rgrc,gdw2-uv4h,dataset,"Public Instruction, Office of Superintendent of (OSPI)",Washington State Technology Solutions (CTS)
+hrqw-gnde,,,"Public Instruction, Office of Superintendent of (OSPI)",
+bt94-6bm8,k5p7-4crk,dataset,"Licensing, Department of (DOL)",Other external user
+f93f-gp3w,,,"Financial Management, Office of (OFM)",
+xr77-82dz,qxh8-f4bd,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Health, Department of (DOH)"
+c6k8-zyhf,,,Asotin County Library,
+eduz-zrij,28ar-n972,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Health, Department of (DOH)"
+gs3k-hp7i,,,"Labor & Industries, Department of (LNI)",
+ejey-6v5s,,,"Financial Management, Office of (OFM)",
+rkfz-gdvx,533j-4nbp,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Ecology, Department of (ECY)"
+d8mu-pcf6,,,"Fish and Wildlife, Department of (DFW)",
+9tkb-7qab,,,Recreation and Conservation Office (RCO),
+6tzg-46qn,auvb-4rvk,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Fish and Wildlife, Department of (DFW)"
+hq8f-9u23,,,"Public Instruction, Office of Superintendent of (OSPI)",
+cy7a-d8rn,6fct-dcwh,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Licensing, Department of (DOL)"
+cy7a-d8rn,5c5e-xz7u,filter,"Public Instruction, Office of Superintendent of (OSPI)","Public Instruction, Office of Superintendent of (OSPI)"
+wnxa-5v7e,h7j9-vgr3,dataset,"Salmon Recovery Office, Governor's (GSRO)","Ecology, Department of (ECY)"
+ekqp-bfke,hdw4-yhs4,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Ecology, Department of (ECY)"
+bndy-4htf,,,"Public Instruction, Office of Superintendent of (OSPI)",
+5ndz-hdpi,,,"Public Instruction, Office of Superintendent of (OSPI)",
+s4ak-zfv9,vtkh-65is,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Ecology, Department of (ECY)"
+6hhi-hcn2,gpri-47xz,dataset,"Financial Management, Office of (OFM)","Attorney General, Office of the (ATG)"
+xz2f-5ydn,,,"Public Instruction, Office of Superintendent of (OSPI)",
+ihw4-an2p,,,"Public Instruction, Office of Superintendent of (OSPI)",
+qjxb-pa27,uie2-nw4g,dataset,Washington State Technology Solutions (CTS),Washington State Technology Solutions (CTS)
+5e3y-yit2,kv7h-kjye,dataset,"Financial Management, Office of (OFM)",Public Disclosure Commission (PDC)
+9zij-tfi5,idhm-59de,dataset,"Salmon Recovery Office, Governor's (GSRO)","Ecology, Department of (ECY)"
+raxi-vijr,,,"Health, Department of (DOH)",
+a2n7-rij5,,,"Licensing, Department of (DOL)",
+8hpi-9m3m,,,"Public Instruction, Office of Superintendent of (OSPI)",
+crrp-awfs,3d5d-sdqb,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Licensing, Department of (DOL)"
+2nz6-y756,,,"Public Instruction, Office of Superintendent of (OSPI)",
+9ewh-76mt,k5fe-2e4s,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Ecology, Department of (ECY)"
+fth5-2ey4,,,"Public Instruction, Office of Superintendent of (OSPI)",
+ksw2-4gt2,,,"Ecology, Department of (ECY)",
+7jcx-yszx,,,"Public Instruction, Office of Superintendent of (OSPI)",
+sibs-5k6j,,,"Ecology, Department of (ECY)",
+usje-6wbk,,,"Public Instruction, Office of Superintendent of (OSPI)",
+a4ma-dq6s,,,Public Disclosure Commission (PDC),
+ufi5-ki2f,,,"Public Instruction, Office of Superintendent of (OSPI)",
+nfpj-mzp6,,,"Public Instruction, Office of Superintendent of (OSPI)",
+wv59-qt8g,cqra-s74n,dataset,Other external user,"Fish and Wildlife, Department of (DFW)"
+mpxt-wffm,,,Recreation and Conservation Office (RCO),
+9vf7-7een,,,"Health, Department of (DOH)",
+yiu7-u23p,vgcw-qfjm,dataset,"Public Instruction, Office of Superintendent of (OSPI)",Liquor and Cannabis Board (LCB)
+34y8-8dsi,,,"Public Instruction, Office of Superintendent of (OSPI)",
+ixni-jq78,,,"Licensing, Department of (DOL)",
+r58e-z6et,xupn-4ych,dataset,"Health, Department of (DOH)","Financial Management, Office of (OFM)"
+j8hx-ebr2,,,"Financial Management, Office of (OFM)",
+a6d4-k94m,9ncw-tqjn,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Labor & Industries, Department of (LNI)"
+29kb-bn26,,,"Public Instruction, Office of Superintendent of (OSPI)",
+y85c-tmgt,,,"Public Instruction, Office of Superintendent of (OSPI)",
+khgf-tcd2,ie96-cgrn,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Health, Department of (DOH)"
+qau6-fd9y,,,"Public Instruction, Office of Superintendent of (OSPI)",
+nv8a-ueib,h7j9-vgr3,dataset,Asotin County Library,"Ecology, Department of (ECY)"
+3cbn-54c3,,,Public Disclosure Commission (PDC),
+e24k-h92w,ncqh-ypvf,dataset,"Ecology, Department of (ECY)","Fish and Wildlife, Department of (DFW)"
+h95x-vpyj,,,"Labor & Industries, Department of (LNI)",
+fv66-gety,vcpx-q9s7,parent asset is private or deleted,"Public Instruction, Office of Superintendent of (OSPI)",parent asset is private or deleted
+hw7n-fcif,,,Washington State Technology Solutions (CTS),
+skwx-kz8s,,,"Public Instruction, Office of Superintendent of (OSPI)",
+jjrr-uy75,,,"Public Instruction, Office of Superintendent of (OSPI)",
+dn4d-x42e,,,"Ecology, Department of (ECY)",
+5buj-apj8,qgtz-buis,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Commerce, Department of (COM)"
+4wur-kfnr,,,"Public Instruction, Office of Superintendent of (OSPI)",
+w9k2-96gh,,,"Ecology, Department of (ECY)",
+9bjx-dbbs,kv7h-kjye,dataset,"Salmon Recovery Office, Governor's (GSRO)",Public Disclosure Commission (PDC)
+9ubj-qhc6,m8qx-ubtq,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Labor & Industries, Department of (LNI)"
+i9gq-g35m,,,"Public Instruction, Office of Superintendent of (OSPI)",
+w7p9-rkyi,auvb-4rvk,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Fish and Wildlife, Department of (DFW)"
+vefa-kmn2,,,"Public Instruction, Office of Superintendent of (OSPI)",
+8w2k-q4ck,,,Timberland Regional Library,
+9f5q-vk4q,,,Washington State Technology Solutions (CTS),
+7c7d-g7ss,m8qx-ubtq,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Labor & Industries, Department of (LNI)"
+jnpn-n7h3,brw6-jymh,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Licensing, Department of (DOL)"
+7m7a-urs7,,,"Public Instruction, Office of Superintendent of (OSPI)",
+2qvq-spdg,t9je-9qwa,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Labor & Industries, Department of (LNI)"
+mryz-i32a,gdw2-uv4h,dataset,Recreation and Conservation Office (RCO),Washington State Technology Solutions (CTS)
+7sdm-u7qf,qxh8-f4bd,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Health, Department of (DOH)"
+dbhx-5q9k,auvb-4rvk,dataset,"Ecology, Department of (ECY)","Fish and Wildlife, Department of (DFW)"
+5u4d-iirb,,,"Public Instruction, Office of Superintendent of (OSPI)",
+2dwu-pywu,,,"Ecology, Department of (ECY)",
+6hhp-ynqb,,,"Public Instruction, Office of Superintendent of (OSPI)",
+q5qv-gkcz,3d5d-sdqb,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Licensing, Department of (DOL)"
+sj3h-wfmm,qxh8-f4bd,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Health, Department of (DOH)"
+iama-739a,h4ip-8hec,parent asset is private or deleted,"Public Instruction, Office of Superintendent of (OSPI)",parent asset is private or deleted
+btpf-dv7h,qxh8-f4bd,dataset,"Licensing, Department of (DOL)","Health, Department of (DOH)"
+ev9m-cv84,56tp-5t8v,dataset,"Public Instruction, Office of Superintendent of (OSPI)",Other external user
+ge4m-a8fv,qgtz-buis,dataset,Washington State Technology Solutions (CTS),"Commerce, Department of (COM)"
+tk4f-cxhb,,,"Children, Youth, and Families, Department of (DCYF)",
+dq2q-43tp,,,"Enterprise Services, Department of (DES)",
+9mju-mxty,,,"Fish and Wildlife, Department of (DFW)",
+bagp-e2xt,qxh8-f4bd,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Health, Department of (DOH)"
+wajg-ig9g,,,Washington State Technology Solutions (CTS),
+htv5-4vhw,5piy-sp8f,parent asset is private or deleted,Washington State Technology Solutions (CTS),parent asset is private or deleted
+384s-ygbu,,,"Public Instruction, Office of Superintendent of (OSPI)",
+rzgf-vi75,,,"Public Instruction, Office of Superintendent of (OSPI)",
+2ci3-df4x,idhm-59de,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Ecology, Department of (ECY)"
+6nf5-ryhg,auvb-4rvk,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Fish and Wildlife, Department of (DFW)"
+fpm2-ybbt,qxh8-f4bd,dataset,"Enterprise Services, Department of (DES)","Health, Department of (DOH)"
+tyfh-n7g3,hdw4-yhs4,dataset,"Financial Management, Office of (OFM)","Ecology, Department of (ECY)"
+r5ki-dmfz,,,"Criminal Justice Training Commission, Washington State (CJTC)",
+6i3q-gfgy,,,"Ecology, Department of (ECY)",
+v78e-wdan,9ncw-tqjn,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Labor & Industries, Department of (LNI)"
+dyxg-h3je,,,"Ecology, Department of (ECY)",
+kck7-yb2v,,,"Health, Department of (DOH)",
+efcw-k4fa,,,Public Disclosure Commission (PDC),
+nxmy-bggx,,,"Public Instruction, Office of Superintendent of (OSPI)",
+9h8u-ctsr,jhtx-qxim,parent asset is private or deleted,Kennewick School District,parent asset is private or deleted
+udag-wz3k,,,"Financial Management, Office of (OFM)",
+cqb6-7fsp,auvb-4rvk,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Fish and Wildlife, Department of (DFW)"
+x2x6-7bd8,,,Public Disclosure Commission (PDC),
+ckjd-qav7,,,"Public Instruction, Office of Superintendent of (OSPI)",
+vqzx-2f78,5piy-sp8f,parent asset is private or deleted,"Licensing, Department of (DOL)",parent asset is private or deleted
+iy4g-ve9t,auvb-4rvk,dataset,"Licensing, Department of (DOL)","Fish and Wildlife, Department of (DFW)"
+y59b-6pu8,,,"Public Instruction, Office of Superintendent of (OSPI)",
+nvf9-ggc5,,,"Public Instruction, Office of Superintendent of (OSPI)",
+8gye-fsha,hdw4-yhs4,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Ecology, Department of (ECY)"
+syjk-ymxm,qxh8-f4bd,dataset,Washington State Technology Solutions (CTS),"Health, Department of (DOH)"
+prdz-hjxr,,,"Public Instruction, Office of Superintendent of (OSPI)",
+eyjn-wt6n,qxh8-f4bd,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Health, Department of (DOH)"
+n38a-fveh,spnc-z2pw,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Salmon Recovery Office, Governor's (GSRO)"
+syiw-nuu5,h7j9-vgr3,dataset,Washington State Technology Solutions (CTS),"Ecology, Department of (ECY)"
+wzin-vviu,brw6-jymh,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Licensing, Department of (DOL)"
+ajpq-2bg9,,,"Public Instruction, Office of Superintendent of (OSPI)",
+ethk-yi44,,,"Public Instruction, Office of Superintendent of (OSPI)",
+5tg8-d76m,ed66-842c,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Health, Department of (DOH)"
+2hia-rqet,,,"Financial Management, Office of (OFM)",
+js5f-3yhb,,,Washington State Technology Solutions (CTS),
+2rac-ken8,,,"Public Instruction, Office of Superintendent of (OSPI)",
+sm49-bmar,6nhy-s9k7,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Ecology, Department of (ECY)"
+kwfp-ref5,qxh8-f4bd,dataset,Asotin County Library,"Health, Department of (DOH)"
+havq-59yp,6i3q-gfgy,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Ecology, Department of (ECY)"
+xkg9-xapr,xupn-4ych,dataset,"Financial Management, Office of (OFM)","Financial Management, Office of (OFM)"
+7vmi-4m9e,j78t-andi,dataset,"Public Instruction, Office of Superintendent of (OSPI)",Public Disclosure Commission (PDC)
+hx5r-xfmn,auvb-4rvk,dataset,"Salmon Recovery Office, Governor's (GSRO)","Fish and Wildlife, Department of (DFW)"
+mz6u-izgp,hdw4-yhs4,dataset,Asotin County Library,"Ecology, Department of (ECY)"
+qb7g-hu6x,,,"Financial Management, Office of (OFM)",
+6kyv-jfts,qgmw-2awv,parent asset is private or deleted,"Public Instruction, Office of Superintendent of (OSPI)",parent asset is private or deleted
+4mhf-2apj,brpd-b6zd,dataset,Other external user,Liquor and Cannabis Board (LCB)
+h6d9-mv58,qxh8-f4bd,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Health, Department of (DOH)"
+an8w-eri3,jxh8-8i6p,parent asset is private or deleted,"Public Instruction, Office of Superintendent of (OSPI)",parent asset is private or deleted
+23xs-9xx7,spy8-d7us,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Ecology, Department of (ECY)"
+cgyr-atrn,hdw4-yhs4,dataset,"Health, Department of (DOH)","Ecology, Department of (ECY)"
+visb-dxrt,,,"Administrative Hearings, Office of (OAH)",
+wdb7-jbuv,,,"Ecology, Department of (ECY)",
+xk9k-f7k7,,,"Financial Management, Office of (OFM)",
+99na-8u5p,qxh8-f4bd,dataset,Timberland Regional Library,"Health, Department of (DOH)"
+mgne-w2kv,,,"Health, Department of (DOH)",
+si84-up2c,hjdc-v2n4,dataset,"Salmon Recovery Office, Governor's (GSRO)","Fish and Wildlife, Department of (DFW)"
+a7f7-bq4u,h7j9-vgr3,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Ecology, Department of (ECY)"
+7hx3-t3pn,,,"Financial Management, Office of (OFM)",
+q5ug-jwtw,9dee-kzm5,dataset,"Public Instruction, Office of Superintendent of (OSPI)",Liquor and Cannabis Board (LCB)
+bfp6-w5ja,qxh8-f4bd,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Health, Department of (DOH)"
+asjc-htyz,,,Washington Student Achievement Council (WSAC),
+99f3-ybku,,,Timberland Regional Library,
+3dit-vgvf,qxh8-f4bd,dataset,"Licensing, Department of (DOL)","Health, Department of (DOH)"
+s4q5-shz5,auvb-4rvk,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Fish and Wildlife, Department of (DFW)"
+533j-4nbp,,,"Ecology, Department of (ECY)",
+mdib-p7c7,qxh8-f4bd,dataset,"Labor & Industries, Department of (LNI)","Health, Department of (DOH)"
+84sk-uvcj,hdw4-yhs4,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Ecology, Department of (ECY)"
+3gag-qj4x,,,Asotin County Library,
+3nrj-de9w,,,"Health, Department of (DOH)",
+hhjh-rgd2,w9k2-96gh,dataset,Asotin County Library,"Ecology, Department of (ECY)"
+f8in-e8mn,gpri-47xz,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Attorney General, Office of the (ATG)"
+9qmj-3nym,tf7e-z5t7,dataset,"Fish and Wildlife, Department of (DFW)","Health, Department of (DOH)"
+gxyp-49kf,hdw4-yhs4,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Ecology, Department of (ECY)"
+vq4v-ge6r,5piy-sp8f,parent asset is private or deleted,"Natural Resources, Department of (DNR)",parent asset is private or deleted
+pe6s-sg9w,,,"Ecology, Department of (ECY)",
+9q4e-xhag,,,"Fish and Wildlife, Department of (DFW)",
+8zka-ik69,fri6-n6k5,dataset,"Health, Department of (DOH)","Ecology, Department of (ECY)"
+gwn8-u882,auvb-4rvk,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Fish and Wildlife, Department of (DFW)"
+ehhg-5cge,28ar-n972,dataset,Public Disclosure Commission (PDC),"Health, Department of (DOH)"
+wnuz-es3h,r6r4-h2x4,dataset,"Salmon Recovery Office, Governor's (GSRO)","Enterprise Services, Department of (DES)"
+5de4-8ezn,,,Asotin County Library,
+wnng-dhxk,,,"Salmon Recovery Office, Governor's (GSRO)",
+k43v-q6mx,,,"Labor & Industries, Department of (LNI)",
+45wf-b5c5,qb6f-d9a6,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Salmon Recovery Office, Governor's (GSRO)"
+aqa5-4cee,,,Washington Student Achievement Council (WSAC),
+4m5j-xuvx,,,Other external user,
+xay9-khix,jeuk-pueh,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Enterprise Services, Department of (DES)"
+958t-wifj,f6w7-q2d2,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Licensing, Department of (DOL)"
+pchc-4957,,,Washington State Technology Solutions (CTS),
+64wy-7nf7,h7j9-vgr3,dataset,"Financial Management, Office of (OFM)","Ecology, Department of (ECY)"
+fdfj-3az2,,,Asotin County Library,
+5cwj-w2ft,knvg-qm85,dataset,"Public Instruction, Office of Superintendent of (OSPI)",Other external user
+ugys-a4e2,auvb-4rvk,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Fish and Wildlife, Department of (DFW)"
+k4bq-gfcs,iyhw-cfx7,parent asset is private or deleted,"Public Instruction, Office of Superintendent of (OSPI)",parent asset is private or deleted
+b5fq-trvj,gpri-47xz,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Attorney General, Office of the (ATG)"
+rwqe-ktra,,,"Public Instruction, Office of Superintendent of (OSPI)",
+e3nv-j5r9,jth9-gdxk,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Health, Department of (DOH)"
+2evw-m7au,,,Timberland Regional Library,
+vpaj-t6cn,hdw4-yhs4,dataset,"Natural Resources, Department of (DNR)","Ecology, Department of (ECY)"
+y8qh-965v,,,"Financial Management, Office of (OFM)",
+y5bz-gn2d,qxh8-f4bd,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Health, Department of (DOH)"
+jpfc-mfcm,,,Asotin County Library,
+dxeq-g7ug,7iwq-4tne,dataset,Washington State Technology Solutions (CTS),"Salmon Recovery Office, Governor's (GSRO)"
+bhxj-teac,thnz-yg58,parent asset is private or deleted,"Public Instruction, Office of Superintendent of (OSPI)",parent asset is private or deleted
+bhxj-teac,8ydb-ddzd,filter,"Public Instruction, Office of Superintendent of (OSPI)","Health, Department of (DOH)"
+5bn5-93y7,qxh8-f4bd,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Health, Department of (DOH)"
+2smq-atst,auvb-4rvk,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Fish and Wildlife, Department of (DFW)"
+7qaw-cgfu,,,"Public Instruction, Office of Superintendent of (OSPI)",
+n93e-32bj,h7j9-vgr3,dataset,"Enterprise Services, Department of (DES)","Ecology, Department of (ECY)"
+k7td-c7w4,7iwq-4tne,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Salmon Recovery Office, Governor's (GSRO)"
+6tav-7uxn,,,"Public Instruction, Office of Superintendent of (OSPI)",
+y8vk-3hy9,,,"Salmon Recovery Office, Governor's (GSRO)",
+xadz-skmk,qb6f-d9a6,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Salmon Recovery Office, Governor's (GSRO)"
+ebuj-znrn,j78t-andi,dataset,"Public Instruction, Office of Superintendent of (OSPI)",Public Disclosure Commission (PDC)
+5br6-ksf8,t6qr-f2pq,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Health, Department of (DOH)"
+3pgg-snut,hdw4-yhs4,dataset,Other external user,"Ecology, Department of (ECY)"
+wpvr-8crs,y8vk-3hy9,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Salmon Recovery Office, Governor's (GSRO)"
+chyd-2e93,9nnw-c693,dataset,"Health, Department of (DOH)",Public Disclosure Commission (PDC)
+dtz7-yh8r,fgyz-n3uk,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Fish and Wildlife, Department of (DFW)"
+d5xq-sbq7,h7j9-vgr3,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Ecology, Department of (ECY)"
+pd47-hngh,eiss-ghr9,parent asset is private or deleted,"Public Instruction, Office of Superintendent of (OSPI)",parent asset is private or deleted
+5my5-gbc9,,,"Children, Youth, and Families, Department of (DCYF)",
+reg9-mjd3,,,"Enterprise Services, Department of (DES)",
+rkfi-xpuf,dwbh-u4rr,parent asset is private or deleted,"Public Instruction, Office of Superintendent of (OSPI)",parent asset is private or deleted
+rkfi-xpuf,q2jk-dthc,filter,"Public Instruction, Office of Superintendent of (OSPI)","Accountancy, State Board of (WBOA)(ACB)"
+fi9n-3fgf,qxh8-f4bd,dataset,"Fish and Wildlife, Department of (DFW)","Health, Department of (DOH)"
+84ua-fhbx,idhm-59de,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Ecology, Department of (ECY)"
+umug-kh7n,,,"Employment Security, Department of (ESD)",
+86js-bk33,idhm-59de,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Ecology, Department of (ECY)"
+fut4-qez5,,,"Public Instruction, Office of Superintendent of (OSPI)",
+k3q3-prmt,h7j9-vgr3,dataset,"Financial Management, Office of (OFM)","Ecology, Department of (ECY)"
+eavu-b2qa,,,"Public Instruction, Office of Superintendent of (OSPI)",
+9h3w-95aq,t6qr-f2pq,dataset,Kennewick School District,"Health, Department of (DOH)"
+byam-m4a8,,,Asotin County Library,
+eq79-bz4a,gdw2-uv4h,dataset,Asotin County Library,Washington State Technology Solutions (CTS)
+4v67-2a7a,hdw4-yhs4,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Ecology, Department of (ECY)"
+3p3u-qc84,,,Other external user,
+7mj8-fhan,,,"Public Instruction, Office of Superintendent of (OSPI)",
+qb6f-d9a6,,,"Salmon Recovery Office, Governor's (GSRO)",
+aner-f83y,cqra-s74n,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Fish and Wildlife, Department of (DFW)"
+fbvb-f9ve,qxh8-f4bd,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Health, Department of (DOH)"
+2v6q-xjj9,,,"Public Instruction, Office of Superintendent of (OSPI)",
+rc6b-fvgb,d958-q2ci,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Ecology, Department of (ECY)"
+mvhe-5wr8,9dee-kzm5,dataset,"Financial Management, Office of (OFM)",Liquor and Cannabis Board (LCB)
+5pif-qmy6,,,"Children, Youth, and Families, Department of (DCYF)",
+5f28-ixr8,auvb-4rvk,dataset,"Financial Management, Office of (OFM)","Fish and Wildlife, Department of (DFW)"
+kgb6-75at,qxh8-f4bd,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Health, Department of (DOH)"
+864s-zvjs,gpri-47xz,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Attorney General, Office of the (ATG)"
+b4ga-e6w6,,,"Salmon Recovery Office, Governor's (GSRO)",
+857w-6s2r,9nnw-c693,dataset,"Public Instruction, Office of Superintendent of (OSPI)",Public Disclosure Commission (PDC)
+n337-rtwa,,,"Public Instruction, Office of Superintendent of (OSPI)",
+d7di-4cvg,xhn7-64im,dataset,"Public Instruction, Office of Superintendent of (OSPI)",Public Disclosure Commission (PDC)
+jzd3-uqdv,mki6-79zp,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Ecology, Department of (ECY)"
+n4j4-duj8,egfy-h6vk,parent asset is private or deleted,"Public Instruction, Office of Superintendent of (OSPI)",parent asset is private or deleted
+pksc-24zs,,,"Public Instruction, Office of Superintendent of (OSPI)",
+n4nh-i7m7,,,"Public Instruction, Office of Superintendent of (OSPI)",
+hdt6-ngsu,j78t-andi,dataset,"Public Instruction, Office of Superintendent of (OSPI)",Public Disclosure Commission (PDC)
+vc2g-vmqt,9mju-mxty,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Fish and Wildlife, Department of (DFW)"
+mcth-4f9w,hsuv-x2dz,dataset,"Labor & Industries, Department of (LNI)","Health, Department of (DOH)"
+b5fh-iyqh,auvb-4rvk,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Fish and Wildlife, Department of (DFW)"
+7iwq-4tne,,,"Salmon Recovery Office, Governor's (GSRO)",
+jth9-gdxk,,,"Health, Department of (DOH)",
+yp2z-s5j4,qxh8-f4bd,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Health, Department of (DOH)"
+dn7s-ewcd,,,Timberland Regional Library,
+i8us-s7ah,qxh8-f4bd,dataset,"Health, Department of (DOH)","Health, Department of (DOH)"
+csxq-a422,qxh8-f4bd,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Health, Department of (DOH)"
+btsw-fd8e,hdw4-yhs4,dataset,"Licensing, Department of (DOL)","Ecology, Department of (ECY)"
+nua6-c78p,hdw4-yhs4,dataset,Asotin County Library,"Ecology, Department of (ECY)"
+79jb-qg6b,auvb-4rvk,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Fish and Wildlife, Department of (DFW)"
+h6ku-6pqp,fgyz-n3uk,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Fish and Wildlife, Department of (DFW)"
+urki-e22w,qxh8-f4bd,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Health, Department of (DOH)"
+f98f-bc43,qxh8-f4bd,dataset,"Financial Management, Office of (OFM)","Health, Department of (DOH)"
+tcxy-uh9b,,,Other external user,
+cqdw-vumh,qb6f-d9a6,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Salmon Recovery Office, Governor's (GSRO)"
+rttb-6yp9,w9k2-96gh,dataset,Asotin County Library,"Ecology, Department of (ECY)"
+ap5x-26cj,,,"Salmon Recovery Office, Governor's (GSRO)",
+52db-bekd,,,"Public Instruction, Office of Superintendent of (OSPI)",
+gnzk-3qnn,qxh8-f4bd,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Health, Department of (DOH)"
+eya5-t78n,vgcw-qfjm,dataset,"Public Instruction, Office of Superintendent of (OSPI)",Liquor and Cannabis Board (LCB)
+7ktr-3bhb,,,"Public Instruction, Office of Superintendent of (OSPI)",
+h8t8-47qx,mcjf-t2vf,dataset,Asotin County Library,"Ecology, Department of (ECY)"
+2vu3-t9kf,swyb-gmfy,dataset,"Public Instruction, Office of Superintendent of (OSPI)",Washington State Technology Solutions (CTS)
+9kux-e7bs,gpri-47xz,dataset,Public Disclosure Commission (PDC),"Attorney General, Office of the (ATG)"
+g8kr-9vgm,,,"Ecology, Department of (ECY)",
+4j29-snvr,,,Washington State Technology Solutions (CTS),
+3nd2-z8ns,7iwq-4tne,dataset,"Salmon Recovery Office, Governor's (GSRO)","Salmon Recovery Office, Governor's (GSRO)"
+n4uw-he6j,auvb-4rvk,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Fish and Wildlife, Department of (DFW)"
+ef3e-qpb8,,,"Public Instruction, Office of Superintendent of (OSPI)",
+qfaw-e644,9nnw-c693,dataset,"Public Instruction, Office of Superintendent of (OSPI)",Public Disclosure Commission (PDC)
+jinh-gwfa,6i3q-gfgy,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Ecology, Department of (ECY)"
+qwj6-7aji,,,"Public Instruction, Office of Superintendent of (OSPI)",
+jgxp-uvwe,,,"Public Instruction, Office of Superintendent of (OSPI)",
+qwh7-z4my,e9ue-njm2,parent asset is private or deleted,"Public Instruction, Office of Superintendent of (OSPI)",parent asset is private or deleted
+e89r-p7mt,vgcw-qfjm,dataset,Public Disclosure Commission (PDC),Liquor and Cannabis Board (LCB)
+pm7s-yg2v,qb6f-d9a6,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Salmon Recovery Office, Governor's (GSRO)"
+6nhy-s9k7,,,"Ecology, Department of (ECY)",
+tyea-uj7z,769e-73q6,dataset,"Financial Management, Office of (OFM)","Licensing, Department of (DOL)"
+2gbq-qpgb,xupn-4ych,dataset,Timberland Regional Library,"Financial Management, Office of (OFM)"
+67t4-gp46,,,"Ecology, Department of (ECY)",
+9r3q-kuue,7iwq-4tne,dataset,"Fish and Wildlife, Department of (DFW)","Salmon Recovery Office, Governor's (GSRO)"
+fri6-n6k5,,,"Ecology, Department of (ECY)",
+ah6s-2fsx,,,"Ecology, Department of (ECY)",
+3694-vruz,qxh8-f4bd,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Health, Department of (DOH)"
+b6zw-m7zs,gpri-47xz,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Attorney General, Office of the (ATG)"
+az4y-4v7j,,,"Employment Security, Department of (ESD)",
+kvzf-6w5u,jeuk-pueh,dataset,Public Disclosure Commission (PDC),"Enterprise Services, Department of (DES)"
+knvg-qm85,,,Other external user,
+tbgf-yuzs,qb6f-d9a6,dataset,Asotin County Library,"Salmon Recovery Office, Governor's (GSRO)"
+sqbm-624f,y8vk-3hy9,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Salmon Recovery Office, Governor's (GSRO)"
+tka4-qurb,,,"Employment Security, Department of (ESD)",
+jd2m-zjuf,,,"Ecology, Department of (ECY)",
+ttci-n37g,cgyu-miem,parent asset is private or deleted,"Ecology, Department of (ECY)",parent asset is private or deleted
+3j9d-77sr,,,"Natural Resources, Department of (DNR)",
+jvx2-m4u3,,,"Ecology, Department of (ECY)",
+3mda-ymgy,hdw4-yhs4,dataset,"Enterprise Services, Department of (DES)","Ecology, Department of (ECY)"
+56g6-6kz3,7iwq-4tne,dataset,"Ecology, Department of (ECY)","Salmon Recovery Office, Governor's (GSRO)"
+48sv-aigs,,,"Public Instruction, Office of Superintendent of (OSPI)",
+3rgj-95q8,,,Public Disclosure Commission (PDC),
+bm2r-usqu,,,Timberland Regional Library,
+ss5i-yx6m,,,Timberland Regional Library,
+6he9-ya4y,,,"Financial Management, Office of (OFM)",
+76fk-n3q7,idhm-59de,dataset,Asotin County Library,"Ecology, Department of (ECY)"
+xqmm-4rhy,,,"Public Instruction, Office of Superintendent of (OSPI)",
+s82v-maxs,auvb-4rvk,dataset,"Labor & Industries, Department of (LNI)","Fish and Wildlife, Department of (DFW)"
+j5qg-mmuy,,,Timberland Regional Library,
+gisz-hhyx,h7j9-vgr3,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Ecology, Department of (ECY)"
+pkfe-mve9,7iwq-4tne,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Salmon Recovery Office, Governor's (GSRO)"
+vuz4-jy5y,,,"Public Instruction, Office of Superintendent of (OSPI)",
+4yji-i7uh,7iwq-4tne,dataset,"Labor & Industries, Department of (LNI)","Salmon Recovery Office, Governor's (GSRO)"
+ekki-gi8u,,,"Public Instruction, Office of Superintendent of (OSPI)",
+uxv2-smgz,ksbn-hrmn,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Ecology, Department of (ECY)"
+ghnc-9tw6,qb6f-d9a6,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Salmon Recovery Office, Governor's (GSRO)"
+t9vq-gfmw,auvb-4rvk,dataset,"Labor & Industries, Department of (LNI)","Fish and Wildlife, Department of (DFW)"
+t6qr-f2pq,,,"Health, Department of (DOH)",
+vzry-t2nc,,,Other external user,
+pidt-c4kw,,,"Public Instruction, Office of Superintendent of (OSPI)",
+wnex-iz3v,qxh8-f4bd,dataset,"Ecology, Department of (ECY)","Health, Department of (DOH)"
+ak69-2c88,9f5q-vk4q,dataset,"Public Instruction, Office of Superintendent of (OSPI)",Washington State Technology Solutions (CTS)
+u4cd-bc3x,cdk6-5kdf,dataset,"Secretary of State, Office of the (SECSTATE)","Licensing, Department of (DOL)"
+f6st-whvb,,,"Ecology, Department of (ECY)",
+24av-4frv,uyg8-hybx,parent asset is private or deleted,"Public Instruction, Office of Superintendent of (OSPI)",parent asset is private or deleted
+esyr-g8p5,,,"Public Instruction, Office of Superintendent of (OSPI)",
+3j7j-78p6,49zc-4hgv,map,Asotin County Library,"Public Instruction, Office of Superintendent of (OSPI)"
+ts74-pnhq,,,Asotin County Library,
+qg36-fssx,sjs9-q69w,parent asset is private or deleted,"Public Instruction, Office of Superintendent of (OSPI)",parent asset is private or deleted
+4mxd-hz2q,,,"Labor & Industries, Department of (LNI)",
+eitf-fmad,,,"Health, Department of (DOH)",
+fq6z-fmep,h7j9-vgr3,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Ecology, Department of (ECY)"
+5bjn-hqd8,auvb-4rvk,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Fish and Wildlife, Department of (DFW)"
+36vs-25qb,qxh8-f4bd,dataset,Asotin County Library,"Health, Department of (DOH)"
+u5y4-g7a8,54uu-mahh,parent asset is private or deleted,"Public Instruction, Office of Superintendent of (OSPI)",parent asset is private or deleted
+yq7k-rsxt,swyb-gmfy,dataset,Asotin County Library,Washington State Technology Solutions (CTS)
+ach3-t84q,,,"Enterprise Services, Department of (DES)",
+72in-8ujh,,,Timberland Regional Library,
+h5ih-67hr,,,"Public Instruction, Office of Superintendent of (OSPI)",
+ymav-ra9m,gpri-47xz,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Attorney General, Office of the (ATG)"
+7hjv-emmm,qxh8-f4bd,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Health, Department of (DOH)"
+b4k4-n7cq,swyb-gmfy,dataset,"Salmon Recovery Office, Governor's (GSRO)",Washington State Technology Solutions (CTS)
+mdey-mtnu,y3ds-rkew,dataset,"Labor & Industries, Department of (LNI)",Washington State Technology Solutions (CTS)
+tb2x-p7u5,,,Asotin County Library,
+izyc-t5hm,,,"Public Instruction, Office of Superintendent of (OSPI)",
+5ybp-2uff,qxh8-f4bd,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Health, Department of (DOH)"
+9tkv-r7vn,qxh8-f4bd,dataset,Recreation and Conservation Office (RCO),"Health, Department of (DOH)"
+9nwy-y8k5,,,Timberland Regional Library,
+65cn-ubda,,,Timberland Regional Library,
+uj9i-6c8i,gpri-47xz,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Attorney General, Office of the (ATG)"
+ri4a-xear,qb6f-d9a6,dataset,"Ecology, Department of (ECY)","Salmon Recovery Office, Governor's (GSRO)"
+4ydu-ad44,769e-73q6,dataset,"Labor & Industries, Department of (LNI)","Licensing, Department of (DOL)"
+x36f-hznq,qxh8-f4bd,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Health, Department of (DOH)"
+akbt-b92p,,,Timberland Regional Library,
+hhff-ih6e,tmay-2i9v,dataset,"Salmon Recovery Office, Governor's (GSRO)","Ecology, Department of (ECY)"
+df2z-bzcs,29zh-34j2,parent asset is private or deleted,Asotin County Library,parent asset is private or deleted
+e7i3-cutn,,,Timberland Regional Library,
+r7e2-ww9m,,,Washington State Technology Solutions (CTS),
+k5mn-4k3c,qxh8-f4bd,dataset,"Ecology, Department of (ECY)","Health, Department of (DOH)"
+tck6-8b8y,qxh8-f4bd,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Health, Department of (DOH)"
+ed66-842c,,,"Health, Department of (DOH)",
+i3jn-y8vx,,,"Health, Department of (DOH)",
+mhpd-vh55,qb6f-d9a6,dataset,Washington State Technology Solutions (CTS),"Salmon Recovery Office, Governor's (GSRO)"
+8rg4-7mci,y8vk-3hy9,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Salmon Recovery Office, Governor's (GSRO)"
+nd7a-r8u8,9mju-mxty,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Fish and Wildlife, Department of (DFW)"
+5s66-2kbs,,,"Health, Department of (DOH)",
+9nnk-gys8,fgyz-n3uk,dataset,"Labor & Industries, Department of (LNI)","Fish and Wildlife, Department of (DFW)"
+m3ue-3nvu,auvb-4rvk,dataset,Recreation and Conservation Office (RCO),"Fish and Wildlife, Department of (DFW)"
+caw2-scdg,6du3-3h9e,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Accountancy, State Board of (WBOA)(ACB)"
+aayx-fa6z,,,"Public Instruction, Office of Superintendent of (OSPI)",
+xms2-7pwe,,,"Salmon Recovery Office, Governor's (GSRO)",
+7eq8-772m,,,"Public Instruction, Office of Superintendent of (OSPI)",
+dygw-v7c9,6698-gep7,parent asset is private or deleted,Washington State Technology Solutions (CTS),parent asset is private or deleted
+gdw2-uv4h,,,Washington State Technology Solutions (CTS),
+6xdf-8ca4,qxh8-f4bd,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Health, Department of (DOH)"
+52ar-e75j,,,"Salmon Recovery Office, Governor's (GSRO)",
+6mxf-4juq,qxh8-f4bd,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Health, Department of (DOH)"
+myws-9yw2,,,Asotin County Library,
+ahe2-i7da,66z5-f756,parent asset is private or deleted,"Ecology, Department of (ECY)",parent asset is private or deleted
+khba-ryvx,tmay-2i9v,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Ecology, Department of (ECY)"
+bre7-ycv8,h7j9-vgr3,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Ecology, Department of (ECY)"
+736s-s2jf,cqra-s74n,dataset,Timberland Regional Library,"Fish and Wildlife, Department of (DFW)"
+jb7q-d85z,66za-bpc8,parent asset is private or deleted,"Enterprise Services, Department of (DES)",parent asset is private or deleted
+hsuv-x2dz,,,"Health, Department of (DOH)",
+rxa9-vvqu,qxh8-f4bd,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Health, Department of (DOH)"
+nmb2-q24q,q5wz-ifzi,parent asset is private or deleted,"Public Instruction, Office of Superintendent of (OSPI)",parent asset is private or deleted
+9vm5-7kxk,,,"Health, Department of (DOH)",
+vewj-jzzm,pj4z-63k7,parent asset is private or deleted,"Public Instruction, Office of Superintendent of (OSPI)",parent asset is private or deleted
+2kd6-xe4x,,,"Natural Resources, Department of (DNR)",
+icrh-68vs,u9d5-kb9m,dataset,"Employment Security, Department of (ESD)","Ecology, Department of (ECY)"
+ub89-7wbv,,,Public Disclosure Commission (PDC),
+evrd-xn3p,,,"Public Instruction, Office of Superintendent of (OSPI)",
+96ah-by3q,qxh8-f4bd,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Health, Department of (DOH)"
+j2t4-czkj,qxh8-f4bd,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Health, Department of (DOH)"
+mihd-6b5x,,,Timberland Regional Library,
+88ia-cbt4,,,"Public Instruction, Office of Superintendent of (OSPI)",
+yqsf-acee,,,Timberland Regional Library,
+kxx3-s5wq,7iwq-4tne,dataset,Asotin County Library,"Salmon Recovery Office, Governor's (GSRO)"
+twsd-tsxw,h4ip-8hec,parent asset is private or deleted,"Financial Management, Office of (OFM)",parent asset is private or deleted
+qrkg-wkjp,,,Washington State Technology Solutions (CTS),
+mbz8-rfuh,qxh8-f4bd,dataset,"Secretary of State, Office of the (SECSTATE)","Health, Department of (DOH)"
+2sqz-x45d,,,"Labor & Industries, Department of (LNI)",
+tvja-smsy,qxh8-f4bd,dataset,"Ecology, Department of (ECY)","Health, Department of (DOH)"
+a6gb-qdgf,9bjy-hi93,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Financial Management, Office of (OFM)"
+rjpy-p4ga,,,"Public Instruction, Office of Superintendent of (OSPI)",
+qwu2-wire,a2n7-rij5,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Licensing, Department of (DOL)"
+pzct-yzvc,cqra-s74n,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Fish and Wildlife, Department of (DFW)"
+x7ve-3brq,qxh8-f4bd,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Health, Department of (DOH)"
+6grp-8ghq,,,"Natural Resources, Department of (DNR)",
+2vkt-dfag,,,"Public Instruction, Office of Superintendent of (OSPI)",
+5jcy-kiex,cqra-s74n,dataset,Asotin County Library,"Fish and Wildlife, Department of (DFW)"
+6mys-k3by,auvb-4rvk,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Fish and Wildlife, Department of (DFW)"
+hasg-mr3s,ixni-jq78,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Licensing, Department of (DOL)"
+5hxe-j878,3b7q-74f4,dataset,"Public Instruction, Office of Superintendent of (OSPI)",Washington State Technology Solutions (CTS)
+fs39-yvqy,,,"Ecology, Department of (ECY)",
+8rku-jvmg,,,"Salmon Recovery Office, Governor's (GSRO)",
+u9d5-kb9m,,,"Ecology, Department of (ECY)",
+uqtn-uip2,,,Asotin County Library,
+evgq-dn24,jeuk-pueh,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Enterprise Services, Department of (DES)"
+ydmh-fnxs,qxh8-f4bd,dataset,Recreation and Conservation Office (RCO),"Health, Department of (DOH)"
+muyg-7me5,h4ip-8hec,parent asset is private or deleted,"Financial Management, Office of (OFM)",parent asset is private or deleted
+uc69-gudu,,,"Financial Management, Office of (OFM)",
+mkqv-936p,qb6f-d9a6,dataset,"Ecology, Department of (ECY)","Salmon Recovery Office, Governor's (GSRO)"
+49zc-4hgv,,,"Public Instruction, Office of Superintendent of (OSPI)",
+4f5d-5tdn,qxh8-f4bd,dataset,Other external user,"Health, Department of (DOH)"
+7siw-ipvy,,,"Public Instruction, Office of Superintendent of (OSPI)",
+dvqh-gsxk,,,Higher Ed - not listed,
+kamv-vu8a,qb6f-d9a6,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Salmon Recovery Office, Governor's (GSRO)"
+cr46-8kq9,,,"Fish and Wildlife, Department of (DFW)",
+dbjb-3piv,4m5j-xuvx,dataset,"Ecology, Department of (ECY)",Other external user
+9949-vk3e,,,"Public Instruction, Office of Superintendent of (OSPI)",
+ntsn-my4n,qb6f-d9a6,dataset,Asotin County Library,"Salmon Recovery Office, Governor's (GSRO)"
+tf7e-z5t7,,,"Health, Department of (DOH)",
+k67g-t283,,,Washington State Technology Solutions (CTS),
+cskf-p46z,ehbc-shxw,dataset,"Public Instruction, Office of Superintendent of (OSPI)",Public Disclosure Commission (PDC)
+q7tj-pw7m,,,"Public Instruction, Office of Superintendent of (OSPI)",
+s2fv-7nn3,qxh8-f4bd,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Health, Department of (DOH)"
+qn7b-sqv3,j59h-dkq5,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Enterprise Services, Department of (DES)"
+bbxa-rma3,qxh8-f4bd,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Health, Department of (DOH)"
+fvhz-9tz9,cqra-s74n,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Fish and Wildlife, Department of (DFW)"
+jxpu-ahb2,dwbh-u4rr,parent asset is private or deleted,"Ecology, Department of (ECY)",parent asset is private or deleted
+jxpu-ahb2,q2jk-dthc,filter,"Ecology, Department of (ECY)","Accountancy, State Board of (WBOA)(ACB)"
+rfwq-aeny,qb6f-d9a6,dataset,Asotin County Library,"Salmon Recovery Office, Governor's (GSRO)"
+9dgd-qqt4,gpri-47xz,dataset,Liquor and Cannabis Board (LCB),"Attorney General, Office of the (ATG)"
+3b7q-74f4,,,Washington State Technology Solutions (CTS),
+qcnw-unrs,n5j5-n3nw,dataset,"Public Instruction, Office of Superintendent of (OSPI)",Recreation and Conservation Office (RCO)
+93km-ba4a,,,"Public Instruction, Office of Superintendent of (OSPI)",
+9q3f-ngka,985a-f68u,dataset,Timberland Regional Library,"Ecology, Department of (ECY)"
+g6c2-27xj,cqra-s74n,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Fish and Wildlife, Department of (DFW)"
+wkyj-ku4z,7iwq-4tne,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Salmon Recovery Office, Governor's (GSRO)"
+k5p7-4crk,,,Other external user,
+93ce-b95t,,,"Public Instruction, Office of Superintendent of (OSPI)",
+vk6s-am8z,,,"Financial Management, Office of (OFM)",
+d5dm-bwe8,,,"Public Instruction, Office of Superintendent of (OSPI)",
+j2u5-4qpk,,,Washington State Technology Solutions (CTS),
+9es4-m5a8,r3fy-c4n6,parent asset is private or deleted,"Public Instruction, Office of Superintendent of (OSPI)",parent asset is private or deleted
+cjza-wqsm,,,"Public Instruction, Office of Superintendent of (OSPI)",
+tugd-z7b3,y8vk-3hy9,dataset,"Ecology, Department of (ECY)","Salmon Recovery Office, Governor's (GSRO)"
+mki6-79zp,,,"Ecology, Department of (ECY)",
+pn4x-rv9j,qxh8-f4bd,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Health, Department of (DOH)"
+7hab-8dti,tvcw-86a9,parent asset is private or deleted,"Public Instruction, Office of Superintendent of (OSPI)",parent asset is private or deleted
+xcbp-vpb4,xms2-7pwe,dataset,"Financial Management, Office of (OFM)","Salmon Recovery Office, Governor's (GSRO)"
+rc4v-ykpk,qxh8-f4bd,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Health, Department of (DOH)"
+h453-5pgk,,,Asotin County Library,
+vvfu-ry7f,,,"Financial Management, Office of (OFM)",
+2fg7-s4vh,swyb-gmfy,dataset,Timberland Regional Library,Washington State Technology Solutions (CTS)
+39v6-dykg,,,"Financial Management, Office of (OFM)",
+3kgg-8c3v,67t4-gp46,dataset,"Natural Resources, Department of (DNR)","Ecology, Department of (ECY)"
+bgih-kixw,ksbn-hrmn,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Ecology, Department of (ECY)"
+j8jk-ccus,xms2-7pwe,dataset,"Financial Management, Office of (OFM)","Salmon Recovery Office, Governor's (GSRO)"
+iddn-kjtd,ehbc-shxw,dataset,"Employment Security, Department of (ESD)",Public Disclosure Commission (PDC)
+fcqq-ybri,,,"Public Instruction, Office of Superintendent of (OSPI)",
+26rj-f9wn,,,"Public Instruction, Office of Superintendent of (OSPI)",
+rmrd-fkcz,g8kr-9vgm,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Ecology, Department of (ECY)"
+ej5m-hutb,,,"Financial Management, Office of (OFM)",
+6zih-i79k,,,"Labor & Industries, Department of (LNI)",
+rnfh-a5ww,y8vk-3hy9,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Salmon Recovery Office, Governor's (GSRO)"
+spnc-z2pw,,,"Salmon Recovery Office, Governor's (GSRO)",
+guun-zsfq,6du3-3h9e,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Accountancy, State Board of (WBOA)(ACB)"
+rez2-h4iq,cqra-s74n,dataset,Other external user,"Fish and Wildlife, Department of (DFW)"
+jw9r-rk9z,f4a9-b2hi,parent asset is private or deleted,"Ecology, Department of (ECY)",parent asset is private or deleted
+7ir3-4v4j,,,Shoreline School District,
+2is8-cwe6,qxh8-f4bd,dataset,"Financial Management, Office of (OFM)","Health, Department of (DOH)"
+xmp3-22vu,rc8q-67ty,parent asset is private or deleted,"Financial Management, Office of (OFM)",parent asset is private or deleted
+5myx-tu78,k328-cdkz,dataset,"Children, Youth, and Families, Department of (DCYF)","Ecology, Department of (ECY)"
+2rcf-a8gk,auvb-4rvk,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Fish and Wildlife, Department of (DFW)"
+j6wa-f7wx,7iwq-4tne,dataset,Timberland Regional Library,"Salmon Recovery Office, Governor's (GSRO)"
+uxv9-c2g9,,,Asotin County Library,
+iaxj-rkyt,cqra-s74n,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Fish and Wildlife, Department of (DFW)"
+7ipt-eqqd,,,Shoreline School District,
+c46n-u7fy,69ff-eep2,parent asset is private or deleted,"Labor & Industries, Department of (LNI)",parent asset is private or deleted
+44j8-gi8s,qxh8-f4bd,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Health, Department of (DOH)"
+9jds-te9m,yizh-eh8b,parent asset is private or deleted,"Public Instruction, Office of Superintendent of (OSPI)",parent asset is private or deleted
+2bnq-6iqh,49zc-4hgv,map,"Public Instruction, Office of Superintendent of (OSPI)","Public Instruction, Office of Superintendent of (OSPI)"
+aw3j-6k75,,,"Ecology, Department of (ECY)",
+teme-ehgs,cqra-s74n,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Fish and Wildlife, Department of (DFW)"
+u3zb-34g2,cqra-s74n,dataset,"Secretary of State, Office of the (SECSTATE)","Fish and Wildlife, Department of (DFW)"
+quhu-28uh,,,"Natural Resources, Department of (DNR)",
+fgne-53sr,qxh8-f4bd,dataset,"Ecology, Department of (ECY)","Health, Department of (DOH)"
+ynt2-dmyz,qxh8-f4bd,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Health, Department of (DOH)"
+fyw9-xz99,pph6-iymj,parent asset is private or deleted,"Public Instruction, Office of Superintendent of (OSPI)",parent asset is private or deleted
+7vzj-84vy,,,"Public Instruction, Office of Superintendent of (OSPI)",
+afya-miwy,xms2-7pwe,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Salmon Recovery Office, Governor's (GSRO)"
+bvfs-erhf,djz9-i465,parent asset is private or deleted,"Ecology, Department of (ECY)",parent asset is private or deleted
+cgha-fszd,,,"Health, Department of (DOH)",
+9g2s-trhy,aw3j-6k75,dataset,Kennewick School District,"Ecology, Department of (ECY)"
+hniw-s85d,cqra-s74n,dataset,Washington Student Achievement Council (WSAC),"Fish and Wildlife, Department of (DFW)"
+kas3-3xup,,,"Children, Youth, and Families, Department of (DCYF)",
+wf4i-evff,,,Asotin County Library,
+fcrw-p9wq,,,"Ecology, Department of (ECY)",
+jb9v-t7ha,cqra-s74n,dataset,"Enterprise Services, Department of (DES)","Fish and Wildlife, Department of (DFW)"
+nf9z-26wu,eavu-b2qa,map,"Financial Management, Office of (OFM)","Public Instruction, Office of Superintendent of (OSPI)"
+c535-p92u,,,"Financial Management, Office of (OFM)",
+dyxr-tix9,,,"Ecology, Department of (ECY)",
+ykxi-ijw4,,,"Public Instruction, Office of Superintendent of (OSPI)",
+spy8-d7us,,,"Ecology, Department of (ECY)",
+ccap-9igu,h4ip-8hec,parent asset is private or deleted,"Public Instruction, Office of Superintendent of (OSPI)",parent asset is private or deleted
+mhct-mytn,,,Washington State Technology Solutions (CTS),
+6xnq-vmem,auvb-4rvk,dataset,"Financial Management, Office of (OFM)","Fish and Wildlife, Department of (DFW)"
+q4is-ii4v,,,"Ecology, Department of (ECY)",
+5bjv-pebn,,,"Public Instruction, Office of Superintendent of (OSPI)",
+8fru-uzs6,txra-bsgd,parent asset is private or deleted,"Public Instruction, Office of Superintendent of (OSPI)",parent asset is private or deleted
+t67u-kqmf,cqra-s74n,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Fish and Wildlife, Department of (DFW)"
+amhy-56yv,uyg8-hybx,parent asset is private or deleted,"Public Instruction, Office of Superintendent of (OSPI)",parent asset is private or deleted
+fra2-a2ws,mf85-v9ji,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Ecology, Department of (ECY)"
+tucy-vh7i,,,"Ecology, Department of (ECY)",
+bh8h-952r,q5vc-gyws,parent asset is private or deleted,"Public Instruction, Office of Superintendent of (OSPI)",parent asset is private or deleted
+hpz7-md2y,,,"Financial Management, Office of (OFM)",
+62jc-mhjk,cqra-s74n,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Fish and Wildlife, Department of (DFW)"
+sefr-g784,,,City of Colfax,
+eeja-nwmh,,,"Public Instruction, Office of Superintendent of (OSPI)",
+ry9s-rt6r,wnng-dhxk,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Salmon Recovery Office, Governor's (GSRO)"
+fvxx-c3hm,cqra-s74n,dataset,"Attorney General, Office of the (ATG)","Fish and Wildlife, Department of (DFW)"
+sf53-er5z,,,"Public Instruction, Office of Superintendent of (OSPI)",
+mb7e-gs8z,swyb-gmfy,dataset,"Secretary of State, Office of the (SECSTATE)",Washington State Technology Solutions (CTS)
+txrw-fw59,,,"Financial Management, Office of (OFM)",
+snqp-3ayk,3k8s-jgg8,parent asset is private or deleted,"Public Instruction, Office of Superintendent of (OSPI)",parent asset is private or deleted
+7gcr-q84k,69ff-eep2,parent asset is private or deleted,"Public Instruction, Office of Superintendent of (OSPI)",parent asset is private or deleted
+3fui-us56,,,Asotin County Library,
+hrfw-cvsp,eavu-b2qa,map,"Public Instruction, Office of Superintendent of (OSPI)","Public Instruction, Office of Superintendent of (OSPI)"
+7yy6-89nx,,,Other external user,
+2nyn-cutz,braw-q475,parent asset is private or deleted,"Natural Resources, Department of (DNR)",parent asset is private or deleted
+bhjd-unt4,cqra-s74n,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Fish and Wildlife, Department of (DFW)"
+nsr6-5nzh,,,Asotin County Library,
+4ay7-sfzq,985a-f68u,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Ecology, Department of (ECY)"
+qmeb-atkj,ktwz-dygw,dataset,"Public Instruction, Office of Superintendent of (OSPI)",Other external user
+6y4e-8ftk,,,"Fish and Wildlife, Department of (DFW)",
+nfv9-d2qj,,,"Public Instruction, Office of Superintendent of (OSPI)",
+pw59-nj5b,5piy-sp8f,parent asset is private or deleted,"Public Instruction, Office of Superintendent of (OSPI)",parent asset is private or deleted
+padd-mby7,,,"Attorney General, Office of the (ATG)",
+cfma-aqzr,,,"Fish and Wildlife, Department of (DFW)",
+fdkr-wxze,,,"Public Instruction, Office of Superintendent of (OSPI)",
+j9k2-y7m4,,,"Public Instruction, Office of Superintendent of (OSPI)",
+tmay-2i9v,,,"Ecology, Department of (ECY)",
+iypn-38uz,qxh8-f4bd,dataset,"Licensing, Department of (DOL)","Health, Department of (DOH)"
+iqrw-294q,,,City of Colfax,
+56tp-5t8v,,,Other external user,
+ue2c-v89h,,,"Public Instruction, Office of Superintendent of (OSPI)",
+7xtv-644s,cqra-s74n,dataset,"Labor & Industries, Department of (LNI)","Fish and Wildlife, Department of (DFW)"
+mrqp-w8zz,,,Recreation and Conservation Office (RCO),
+f4u4-uezp,,,"Public Instruction, Office of Superintendent of (OSPI)",
+u9hd-fijw,auvb-4rvk,dataset,"Ecology, Department of (ECY)","Fish and Wildlife, Department of (DFW)"
+vpx5-vneg,cqra-s74n,dataset,"Natural Resources, Department of (DNR)","Fish and Wildlife, Department of (DFW)"
+tewu-zz88,,,"Public Instruction, Office of Superintendent of (OSPI)",
+khux-8sdv,cqra-s74n,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Fish and Wildlife, Department of (DFW)"
+23sx-quvy,cqra-s74n,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Fish and Wildlife, Department of (DFW)"
+skn8-zpnt,769e-73q6,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Licensing, Department of (DOL)"
+qcpg-jrgs,swyb-gmfy,dataset,"Public Instruction, Office of Superintendent of (OSPI)",Washington State Technology Solutions (CTS)
+kzz2-96cx,mki6-79zp,dataset,Recreation and Conservation Office (RCO),"Ecology, Department of (ECY)"
+5ucv-yi7u,qxh8-f4bd,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Health, Department of (DOH)"
+v2gc-rgep,,,"Financial Management, Office of (OFM)",
+m4su-e2x8,uyg8-hybx,parent asset is private or deleted,"Public Instruction, Office of Superintendent of (OSPI)",parent asset is private or deleted
+697w-z93a,xms2-7pwe,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Salmon Recovery Office, Governor's (GSRO)"
+4dkq-tm7t,cqra-s74n,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Fish and Wildlife, Department of (DFW)"
+4q53-9v2t,,,"Children, Youth, and Families, Department of (DCYF)",
+u9rf-b5xv,,,"Public Instruction, Office of Superintendent of (OSPI)",
+dumu-cf4s,fn6e-4szt,parent asset is private or deleted,"Public Instruction, Office of Superintendent of (OSPI)",parent asset is private or deleted
+vqti-d92b,cqra-s74n,dataset,"Licensing, Department of (DOL)","Fish and Wildlife, Department of (DFW)"
+vz5p-qvth,,,"Attorney General, Office of the (ATG)",
+ez9k-2c5k,,,Asotin County Library,
+kfrs-zqt5,,,Timberland Regional Library,
+a3kv-hkc5,,,"Public Instruction, Office of Superintendent of (OSPI)",
+krsk-s76t,,,"Financial Management, Office of (OFM)",
+uz6r-xbn3,cqra-s74n,dataset,Asotin County Library,"Fish and Wildlife, Department of (DFW)"
+3jxr-etsd,pzcu-jpab,dataset,"Natural Resources, Department of (DNR)","Accountancy, State Board of (WBOA)(ACB)"
+5duh-m3h5,,,City of Colfax,
+yst2-3yx4,fgyz-n3uk,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Fish and Wildlife, Department of (DFW)"
+mzrg-w855,9bjy-hi93,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Financial Management, Office of (OFM)"
+2qne-ma37,,,"Public Instruction, Office of Superintendent of (OSPI)",
+xh35-3825,,,"Ecology, Department of (ECY)",
+jp2s-a3k5,tn3n-uv4s,parent asset is private or deleted,"Ecology, Department of (ECY)",parent asset is private or deleted
+ktwz-dygw,,,Other external user,
+nfcx-sbny,,,Other external user,
+hnj3-2ua8,pzcu-jpab,dataset,Washington Student Achievement Council (WSAC),"Accountancy, State Board of (WBOA)(ACB)"
+iriq-j8p5,7iwq-4tne,dataset,Recreation and Conservation Office (RCO),"Salmon Recovery Office, Governor's (GSRO)"
+shwa-savc,,,"Ecology, Department of (ECY)",
+98ng-jhtx,,,"Financial Management, Office of (OFM)",
+g3t6-ugwe,ydx3-umcz,parent asset is private or deleted,"Public Instruction, Office of Superintendent of (OSPI)",parent asset is private or deleted
+rmtw-g652,cqra-s74n,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Fish and Wildlife, Department of (DFW)"
+93se-umhw,cqra-s74n,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Fish and Wildlife, Department of (DFW)"
+ifyg-wsf5,qxh8-f4bd,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Health, Department of (DOH)"
+urjb-dt6u,769e-73q6,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Licensing, Department of (DOL)"
+tq72-g58z,y8vk-3hy9,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Salmon Recovery Office, Governor's (GSRO)"
+gv43-kd6t,,,"Public Instruction, Office of Superintendent of (OSPI)",
+ptgu-ngbs,x2zm-eba9,dataset,"Financial Management, Office of (OFM)","Ecology, Department of (ECY)"
+ihrb-sj26,,,"Children, Youth, and Families, Department of (DCYF)",
+amzb-x99v,dwbh-u4rr,parent asset is private or deleted,"Public Instruction, Office of Superintendent of (OSPI)",parent asset is private or deleted
+amzb-x99v,q2jk-dthc,filter,"Public Instruction, Office of Superintendent of (OSPI)","Accountancy, State Board of (WBOA)(ACB)"
+63h7-zpny,,,"Ecology, Department of (ECY)",
+w97i-wqxq,,,"Public Instruction, Office of Superintendent of (OSPI)",
+drxd-mmm2,,,"Financial Management, Office of (OFM)",
+c738-vqng,,,Asotin County Library,
+dx9h-3hci,,,Washington State Technology Solutions (CTS),
+aufs-tku5,,,"Public Instruction, Office of Superintendent of (OSPI)",
+nkhe-chwh,jvx2-m4u3,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Ecology, Department of (ECY)"
+pbve-ciyv,,,"Attorney General, Office of the (ATG)",
+tsau-t9ps,auvb-4rvk,dataset,Asotin County Library,"Fish and Wildlife, Department of (DFW)"
+v4rj-vzug,,,"Ecology, Department of (ECY)",
+2ba3-eae7,,,"Public Instruction, Office of Superintendent of (OSPI)",
+pibt-tsav,eavu-b2qa,map,Asotin County Library,"Public Instruction, Office of Superintendent of (OSPI)"
+wbpu-44t9,qxh8-f4bd,dataset,Washington State Technology Solutions (CTS),"Health, Department of (DOH)"
+vpcu-aywb,jgyj-nq5v,parent asset is private or deleted,"Natural Resources, Department of (DNR)",parent asset is private or deleted
+bbwv-q5hm,,,"Public Instruction, Office of Superintendent of (OSPI)",
+ra7v-4b5q,,,"Natural Resources, Department of (DNR)",
+du4y-bu9c,,,"Public Instruction, Office of Superintendent of (OSPI)",
+gia4-fgdb,,,Washington State Technology Solutions (CTS),
+2iwz-7guy,qb6f-d9a6,dataset,"Financial Management, Office of (OFM)","Salmon Recovery Office, Governor's (GSRO)"
+t9yi-d56z,gpri-47xz,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Attorney General, Office of the (ATG)"
+uk2w-v7qd,cqra-s74n,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Fish and Wildlife, Department of (DFW)"
+ayz3-kckw,,,"Public Instruction, Office of Superintendent of (OSPI)",
+q3qk-yy3p,,,"Financial Management, Office of (OFM)",
+g472-n5ph,jeuk-pueh,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Enterprise Services, Department of (DES)"
+xcmv-jijw,,,"Financial Management, Office of (OFM)",
+6wsi-syty,qb6f-d9a6,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Salmon Recovery Office, Governor's (GSRO)"
+rtp5-s6ih,,,"Public Instruction, Office of Superintendent of (OSPI)",
+48qw-vixz,,,"Public Instruction, Office of Superintendent of (OSPI)",
+wu7y-rbw5,,,Other external user,
+euaf-jjvp,,,"Public Instruction, Office of Superintendent of (OSPI)",
+ipx7-rw4z,,,"Public Instruction, Office of Superintendent of (OSPI)",
+wd3c-tf85,769e-73q6,dataset,Washington State Technology Solutions (CTS),"Licensing, Department of (DOL)"
+g2e2-aevm,eavu-b2qa,map,"Public Instruction, Office of Superintendent of (OSPI)","Public Instruction, Office of Superintendent of (OSPI)"
+me8q-n6k7,,,"Labor & Industries, Department of (LNI)",
+e573-w2te,,,City of Colfax,
+eem2-bfzj,,,"Public Instruction, Office of Superintendent of (OSPI)",
+ih74-vkgx,,,"Public Instruction, Office of Superintendent of (OSPI)",
+d5yk-87be,8mdj-raze,parent asset is private or deleted,"Public Instruction, Office of Superintendent of (OSPI)",parent asset is private or deleted
+i8zg-qycm,y8vk-3hy9,dataset,"Health, Department of (DOH)","Salmon Recovery Office, Governor's (GSRO)"
+frmn-ucfw,,,"Ecology, Department of (ECY)",
+7gpg-n8f9,,,"Public Instruction, Office of Superintendent of (OSPI)",
+mf85-v9ji,,,"Ecology, Department of (ECY)",
+9aqx-raft,,,"Salmon Recovery Office, Governor's (GSRO)",
+n738-5eku,fgyz-n3uk,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Fish and Wildlife, Department of (DFW)"
+gxpi-37we,,,"Public Instruction, Office of Superintendent of (OSPI)",
+hrar-v54d,,,Washington State Technology Solutions (CTS),
+u9vu-7xty,fgyz-n3uk,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Fish and Wildlife, Department of (DFW)"
+asqd-efxe,,,"Ecology, Department of (ECY)",
+rfra-yhpm,,,"Secretary of State, Office of the (SECSTATE)",
+4pg6-cgg5,swyb-gmfy,dataset,"Public Instruction, Office of Superintendent of (OSPI)",Washington State Technology Solutions (CTS)
+6e7z-t4qa,fgyz-n3uk,dataset,"Accountancy, State Board of (WBOA)(ACB)","Fish and Wildlife, Department of (DFW)"
+985a-f68u,,,"Ecology, Department of (ECY)",
+k328-cdkz,,,"Ecology, Department of (ECY)",
+vnm3-j8pe,,,"Public Instruction, Office of Superintendent of (OSPI)",
+4dux-4w96,aw3j-6k75,dataset,Other external user,"Ecology, Department of (ECY)"
+j95z-aczq,xms2-7pwe,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Salmon Recovery Office, Governor's (GSRO)"
+up8z-4b6h,cqra-s74n,dataset,Asotin County Library,"Fish and Wildlife, Department of (DFW)"
+dtba-89sp,,,"Public Instruction, Office of Superintendent of (OSPI)",
+emhz-m99x,,,"Health, Department of (DOH)",
+vgxg-6wg9,,,Asotin County Library,
+5bhy-tuxk,,,"Public Instruction, Office of Superintendent of (OSPI)",
+a5q3-ti5h,,,"Public Instruction, Office of Superintendent of (OSPI)",
+cjei-x365,qxh8-f4bd,dataset,"Labor & Industries, Department of (LNI)","Health, Department of (DOH)"
+sg4a-7hjj,,,"Ecology, Department of (ECY)",
+gjiu-inph,,,"Public Instruction, Office of Superintendent of (OSPI)",
+x7f4-cm3f,,,"Public Instruction, Office of Superintendent of (OSPI)",
+6bpk-s36s,,,Washington State Technology Solutions (CTS),
+haya-47y5,cqra-s74n,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Fish and Wildlife, Department of (DFW)"
+6xt2-phwm,,,"Financial Management, Office of (OFM)",
+f9h8-rtz6,,,"Financial Management, Office of (OFM)",
+jhqc-qhzd,,,"Public Instruction, Office of Superintendent of (OSPI)",
+k6eq-6kgs,,,Washington State Technology Solutions (CTS),
+ui95-axtn,,,"Fish and Wildlife, Department of (DFW)",
+6xgf-ceg4,,,"Financial Management, Office of (OFM)",
+nnm6-gknp,t94r-s3m2,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Ecology, Department of (ECY)"
+wiq8-rgsc,cqra-s74n,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Fish and Wildlife, Department of (DFW)"
+rb8e-i6kz,,,"Public Instruction, Office of Superintendent of (OSPI)",
+fnd5-jbg4,,,"Public Instruction, Office of Superintendent of (OSPI)",
+b5av-kucj,,,"Public Instruction, Office of Superintendent of (OSPI)",
+hn4a-bdxf,,,Washington Student Achievement Council (WSAC),
+s53d-2j2f,dybp-n2zw,parent asset is private or deleted,"Public Instruction, Office of Superintendent of (OSPI)",parent asset is private or deleted
+b8h7-bk6d,,,"Public Instruction, Office of Superintendent of (OSPI)",
+vsdn-p63a,cqra-s74n,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Fish and Wildlife, Department of (DFW)"
+jnta-5h6q,qxh8-f4bd,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Health, Department of (DOH)"
+kh8j-5gf2,cqra-s74n,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Fish and Wildlife, Department of (DFW)"
+2xmg-9s94,,,"Blind, Department of Services for the (DSB)",
+fyjv-p9cr,,,"Financial Management, Office of (OFM)",
+eb82-e93u,,,"Public Instruction, Office of Superintendent of (OSPI)",
+76ay-i9t9,,,Asotin County Library,
+tdj4-7jx3,7iwq-4tne,dataset,Other external user,"Salmon Recovery Office, Governor's (GSRO)"
+ivej-p22w,,,"Health, Department of (DOH)",
+dxpp-s49b,k328-cdkz,dataset,Washington State Technology Solutions (CTS),"Ecology, Department of (ECY)"
+psnw-sxk6,,,"Children, Youth, and Families, Department of (DCYF)",
+i93p-yw5q,,,"Public Instruction, Office of Superintendent of (OSPI)",
+hngz-wit3,ehju-t29q,dataset,Washington Student Achievement Council (WSAC),Other external user
+avbf-hy5j,,,"Financial Management, Office of (OFM)",
+68nh-9ayj,dybp-n2zw,parent asset is private or deleted,"Public Instruction, Office of Superintendent of (OSPI)",parent asset is private or deleted
+u7xz-ji7m,,,"Public Instruction, Office of Superintendent of (OSPI)",
+h9a6-g38s,,,"Fish and Wildlife, Department of (DFW)",
+mcjf-t2vf,,,"Ecology, Department of (ECY)",
+edkm-tiya,cqra-s74n,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Fish and Wildlife, Department of (DFW)"
+ptne-jxct,7iwq-4tne,dataset,"Financial Management, Office of (OFM)","Salmon Recovery Office, Governor's (GSRO)"
+x4z7-ddhj,,,Asotin County Library,
+bk3x-v4pt,,,Other external user,
+mi4w-iait,cqra-s74n,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Fish and Wildlife, Department of (DFW)"
+wf4y-inqh,,,Timberland Regional Library,
+av38-9xgz,cqra-s74n,dataset,"Fish and Wildlife, Department of (DFW)","Fish and Wildlife, Department of (DFW)"
+9yby-x59c,,,"Salmon Recovery Office, Governor's (GSRO)",
+ksbn-hrmn,,,"Ecology, Department of (ECY)",
+53bn-cucs,,,"Ecology, Department of (ECY)",
+fbtu-87pv,,,"Public Instruction, Office of Superintendent of (OSPI)",
+tzrg-kkis,,,Asotin County Library,
+wmi9-irxa,,,Other external user,
+uup6-isxd,,,"Public Instruction, Office of Superintendent of (OSPI)",
+fznq-izyp,,,"Public Instruction, Office of Superintendent of (OSPI)",
+8zri-z5hi,,,"Public Instruction, Office of Superintendent of (OSPI)",
+2dbp-k88s,xh35-3825,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Ecology, Department of (ECY)"
+kb5k-gttu,cqra-s74n,dataset,"Children, Youth, and Families, Department of (DCYF)","Fish and Wildlife, Department of (DFW)"
+p3d3-b2zu,,,"Public Instruction, Office of Superintendent of (OSPI)",
+j2ci-83i7,,,"Public Instruction, Office of Superintendent of (OSPI)",
+awhz-wbzc,,,"Public Instruction, Office of Superintendent of (OSPI)",
+imxw-ipnc,,,"Ecology, Department of (ECY)",
+mibg-3zz6,,,Recreation and Conservation Office (RCO),
+dtif-h7mv,,,"Public Instruction, Office of Superintendent of (OSPI)",
+m3md-6kja,ktwz-dygw,dataset,Recreation and Conservation Office (RCO),Other external user
+re5s-n6uc,cqra-s74n,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Fish and Wildlife, Department of (DFW)"
+vhzd-vikk,,,Asotin County Library,
+wscw-8xz4,,,"Public Instruction, Office of Superintendent of (OSPI)",
+6njs-53y5,,,"Financial Management, Office of (OFM)",
+3jzv-2592,,,"Natural Resources, Department of (DNR)",
+ierh-j2nr,,,"Public Instruction, Office of Superintendent of (OSPI)",
+fx8x-eh2j,,,Other external user,
+brkr-cvcj,,,"Public Instruction, Office of Superintendent of (OSPI)",
+ubra-dqsi,fvrz-yz45,dataset,Public Disclosure Commission (PDC),"Attorney General, Office of the (ATG)"
+ff68-pa9c,,,"Ecology, Department of (ECY)",
+5t5b-7yy4,,,Asotin County Library,
+b5bt-gq9k,,,"Public Instruction, Office of Superintendent of (OSPI)",
+hjcs-ehy4,,,Asotin County Library,
+y3ue-qzsv,,,"Salmon Recovery Office, Governor's (GSRO)",
+da6t-q8qv,,,"Ecology, Department of (ECY)",
+vhe5-ishr,,,Other external user,
+bdxr-77t7,cqra-s74n,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Fish and Wildlife, Department of (DFW)"
+bvjx-ejbr,pchc-4957,dataset,"Ecology, Department of (ECY)",Washington State Technology Solutions (CTS)
+j2kf-67j9,,,"Public Instruction, Office of Superintendent of (OSPI)",
+agmm-mjtw,,,"Public Instruction, Office of Superintendent of (OSPI)",
+nvrb-8qe3,,,"Public Instruction, Office of Superintendent of (OSPI)",
+izse-xpxv,,,Recreation and Conservation Office (RCO),
+gn2h-8h48,,,"Public Instruction, Office of Superintendent of (OSPI)",
+9h3c-vbcx,cqra-s74n,dataset,Kennewick School District,"Fish and Wildlife, Department of (DFW)"
+isxq-iqdy,gpri-47xz,dataset,Recreation and Conservation Office (RCO),"Attorney General, Office of the (ATG)"
+5ntt-w96d,,,"Natural Resources, Department of (DNR)",
+hg5a-r2w6,,,"Licensing, Department of (DOL)",
+67b3-yqfv,,,"Salmon Recovery Office, Governor's (GSRO)",
+ahzy-gsvh,,,"Salmon Recovery Office, Governor's (GSRO)",
+7na8-mwsc,,,"Public Instruction, Office of Superintendent of (OSPI)",
+euks-5kq7,,,"Labor & Industries, Department of (LNI)",
+9nhq-knvs,,,"Labor & Industries, Department of (LNI)",
+nvyx-ge76,,,"Public Instruction, Office of Superintendent of (OSPI)",
+k4y7-2r8g,y8vk-3hy9,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Salmon Recovery Office, Governor's (GSRO)"
+85s7-uvxk,cqra-s74n,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Fish and Wildlife, Department of (DFW)"
+bjxq-pvgg,,,Other external user,
+hcp5-mm5i,cqra-s74n,dataset,Recreation and Conservation Office (RCO),"Fish and Wildlife, Department of (DFW)"
+rpax-ahqm,,,"Fish and Wildlife, Department of (DFW)",
+wfbt-hviu,cqra-s74n,dataset,Timberland Regional Library,"Fish and Wildlife, Department of (DFW)"
+kzee-y7cg,,,Recreation and Conservation Office (RCO),
+r9cv-xtyq,cdk6-5kdf,dataset,"Natural Resources, Department of (DNR)","Licensing, Department of (DOL)"
+8ej6-igzv,xms2-7pwe,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Salmon Recovery Office, Governor's (GSRO)"
+ue7f-xi5h,,,"Public Instruction, Office of Superintendent of (OSPI)",
+ngx6-kp23,cqra-s74n,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Fish and Wildlife, Department of (DFW)"
+5bhk-je73,f6st-whvb,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Ecology, Department of (ECY)"
+s3hq-5cti,,,"Public Instruction, Office of Superintendent of (OSPI)",
+tsxw-5hpt,,,"Financial Management, Office of (OFM)",
+4kk8-zip4,ktwz-dygw,dataset,"Public Instruction, Office of Superintendent of (OSPI)",Other external user
+apmy-6dgi,,,"Public Instruction, Office of Superintendent of (OSPI)",
+2vj7-mn4t,,,"Public Instruction, Office of Superintendent of (OSPI)",
+x49j-9h4z,,,Asotin County Library,
+p2cx-sjmw,cqra-s74n,dataset,"Financial Management, Office of (OFM)","Fish and Wildlife, Department of (DFW)"
+ybvy-3uk9,,,"Public Instruction, Office of Superintendent of (OSPI)",
+yfkr-d5by,v97i-dppc,parent asset is private or deleted,"Public Instruction, Office of Superintendent of (OSPI)",parent asset is private or deleted
+ivdp-nd7v,,,"Financial Management, Office of (OFM)",
+yjcp-aqzq,jvx2-m4u3,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Ecology, Department of (ECY)"
+t94r-s3m2,,,"Ecology, Department of (ECY)",
+dbek-mixv,,,"Ecology, Department of (ECY)",
+tswa-5xf8,gpri-47xz,dataset,Asotin County Library,"Attorney General, Office of the (ATG)"
+gan2-6mnb,4j29-snvr,dataset,Asotin County Library,Washington State Technology Solutions (CTS)
+5zxz-an9p,cqra-s74n,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Fish and Wildlife, Department of (DFW)"
+7v6b-ur4c,,,"Public Instruction, Office of Superintendent of (OSPI)",
+7y73-g9ki,ehju-t29q,dataset,"Labor & Industries, Department of (LNI)",Other external user
+9fej-br89,,,Kennewick School District,
+8xjw-yrdy,,,"Licensing, Department of (DOL)",
+edwh-2xuw,cqra-s74n,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Fish and Wildlife, Department of (DFW)"
+h4i5-e948,,,Asotin County Library,
+4wd7-u6b8,,,"Public Instruction, Office of Superintendent of (OSPI)",
+5wav-rrs8,,,Washington State Technology Solutions (CTS),
+4rjj-n636,,,"Public Instruction, Office of Superintendent of (OSPI)",
+ncri-v6ym,,,"Ecology, Department of (ECY)",
+rfvs-wz5x,,,Asotin County Library,
+hwpd-vvc3,,,"Salmon Recovery Office, Governor's (GSRO)",
+u9bz-ntiy,,,"Public Instruction, Office of Superintendent of (OSPI)",
+y9ci-zfc7,,,"Salmon Recovery Office, Governor's (GSRO)",
+gga2-dn2v,,,"Public Instruction, Office of Superintendent of (OSPI)",
+k32n-7vtp,,,"Financial Management, Office of (OFM)",
+dt2b-9f76,cqra-s74n,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Fish and Wildlife, Department of (DFW)"
+h8cm-thw9,,,Asotin County Library,
+r975-qgsb,,,"Natural Resources, Department of (DNR)",
+xn75-8p8m,cqra-s74n,dataset,"Salmon Recovery Office, Governor's (GSRO)","Fish and Wildlife, Department of (DFW)"
+2vxy-pcgd,,,"Public Instruction, Office of Superintendent of (OSPI)",
+unwr-k3m7,,,Asotin County Library,
+aezt-3f9c,,,"Ecology, Department of (ECY)",
+svjk-9m3x,,,"Public Instruction, Office of Superintendent of (OSPI)",
+83j2-4r5n,cqra-s74n,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Fish and Wildlife, Department of (DFW)"
+w2hk-9xue,,,"Public Instruction, Office of Superintendent of (OSPI)",
+tt5v-gg3d,,,"Ecology, Department of (ECY)",
+fvga-cpzx,,,"Public Instruction, Office of Superintendent of (OSPI)",
+qsd4-peud,,,"Public Instruction, Office of Superintendent of (OSPI)",
+48bu-szt4,cqra-s74n,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Fish and Wildlife, Department of (DFW)"
+g9uw-w5ps,,,"Ecology, Department of (ECY)",
+6fpy-npmv,,,Washington State Technology Solutions (CTS),
+ma6y-cc2j,,,Higher Ed - not listed,
+tw6a-23eg,,,"Financial Management, Office of (OFM)",
+evia-rdnc,cdk6-5kdf,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Licensing, Department of (DOL)"
+ib9z-p8ai,,,"Public Instruction, Office of Superintendent of (OSPI)",
+59us-gyxk,,,Other external user,
+yu5d-iw3n,,,"Public Instruction, Office of Superintendent of (OSPI)",
+qm8p-c8au,gdw2-uv4h,dataset,"Public Instruction, Office of Superintendent of (OSPI)",Washington State Technology Solutions (CTS)
+due8-bciv,,,"Public Instruction, Office of Superintendent of (OSPI)",
+5wzv-5nkb,52ar-e75j,dataset,Washington State Technology Solutions (CTS),"Salmon Recovery Office, Governor's (GSRO)"
+u6dn-nwju,,,"Public Instruction, Office of Superintendent of (OSPI)",
+ns3f-z8gi,,,"Ecology, Department of (ECY)",
+i4qe-t767,,,"Public Instruction, Office of Superintendent of (OSPI)",
+bttt-tinh,,,"Licensing, Department of (DOL)",
+f24i-77wz,cqra-s74n,dataset,Asotin County Library,"Fish and Wildlife, Department of (DFW)"
+ycud-x4fm,,,"Salmon Recovery Office, Governor's (GSRO)",
+5qzb-d5hq,,,"Secretary of State, Office of the (SECSTATE)",
+84gg-fw5a,cqra-s74n,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Fish and Wildlife, Department of (DFW)"
+ku3c-bpyf,,,Other external user,
+94pm-hzhf,,,"Public Instruction, Office of Superintendent of (OSPI)",
+k99f-m882,,,"Public Instruction, Office of Superintendent of (OSPI)",
+8xu6-vcjv,,,"Licensing, Department of (DOL)",
+ahj9-wk4z,,,"Ecology, Department of (ECY)",
+ehju-t29q,,,Other external user,
+eizb-qcm8,,,"Public Instruction, Office of Superintendent of (OSPI)",
+nbdb-vj2y,ydx3-umcz,parent asset is private or deleted,"Fish and Wildlife, Department of (DFW)",parent asset is private or deleted
+s2cj-vey9,,,"Public Instruction, Office of Superintendent of (OSPI)",
+v7ua-cvix,,,"Public Instruction, Office of Superintendent of (OSPI)",
+nmuj-qey5,ehju-t29q,dataset,"Public Instruction, Office of Superintendent of (OSPI)",Other external user
+3s7j-r9i6,,,Public Disclosure Commission (PDC),
+67dz-ikj6,,,Public Disclosure Commission (PDC),
+d4xv-sann,ap5x-26cj,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Salmon Recovery Office, Governor's (GSRO)"
+mkt8-j3wx,gpri-47xz,dataset,"Ecology, Department of (ECY)","Attorney General, Office of the (ATG)"
+9sdw-jxr5,cqra-s74n,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Fish and Wildlife, Department of (DFW)"
+j78i-gfy5,,,"Financial Management, Office of (OFM)",
+j4r4-tt8c,,,"Public Instruction, Office of Superintendent of (OSPI)",
+ifa2-zv4p,,,"Public Instruction, Office of Superintendent of (OSPI)",
+5d92-hjkq,,,"Public Instruction, Office of Superintendent of (OSPI)",
+4mhu-cm3k,gpri-47xz,dataset,Other external user,"Attorney General, Office of the (ATG)"
+sq47-zr6t,,,"Public Instruction, Office of Superintendent of (OSPI)",
+h64h-anq6,cqra-s74n,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Fish and Wildlife, Department of (DFW)"
+aka9-evvz,r7e2-ww9m,dataset,"Public Instruction, Office of Superintendent of (OSPI)",Washington State Technology Solutions (CTS)
+2huh-ia5i,,,"Financial Management, Office of (OFM)",
+un75-jhzj,,,"Health, Department of (DOH)",
+mvxy-4u2p,,,"Salmon Recovery Office, Governor's (GSRO)",
+pzdn-qupa,,,"Accountancy, State Board of (WBOA)(ACB)",
+eqkx-cuvs,,,Asotin County Library,
+efrr-mnpp,tt5v-gg3d,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Ecology, Department of (ECY)"
+qymv-67iw,,,"Health, Department of (DOH)",
+p6qw-u6he,cqra-s74n,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Fish and Wildlife, Department of (DFW)"
+d4e3-hkxi,gdw2-uv4h,dataset,"Public Instruction, Office of Superintendent of (OSPI)",Washington State Technology Solutions (CTS)
+qs3u-5r9r,,,Washington State Technology Solutions (CTS),
+ewcd-ij84,3b7q-74f4,dataset,"Public Instruction, Office of Superintendent of (OSPI)",Washington State Technology Solutions (CTS)
+j8pm-xq6k,,,Asotin County Library,
+ei6b-djpx,qgtz-buis,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Commerce, Department of (COM)"
+itdd-tv4f,,,"Financial Management, Office of (OFM)",
+tid7-ubck,,,"Public Instruction, Office of Superintendent of (OSPI)",
+x8is-gy9s,,,"Public Instruction, Office of Superintendent of (OSPI)",
+3pgv-43ur,,,Other external user,
+nde6-xvwf,,,"Financial Management, Office of (OFM)",
+69jw-mwgp,,,Asotin County Library,
+sci2-4yyc,,,"Public Instruction, Office of Superintendent of (OSPI)",
+mk6g-nxsx,cqra-s74n,dataset,Public Disclosure Commission (PDC),"Fish and Wildlife, Department of (DFW)"
+kbvx-cjh9,,,"Public Instruction, Office of Superintendent of (OSPI)",
+amzn-3u3c,,,Asotin County Library,
+rmp5-ihun,,,"Public Instruction, Office of Superintendent of (OSPI)",
+muf3-r8c9,,,"Financial Management, Office of (OFM)",
+khth-u22i,9bjy-hi93,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Financial Management, Office of (OFM)"
+k77k-453n,6ukv-n3hz,dataset,"Public Instruction, Office of Superintendent of (OSPI)",Other external user
+w775-pgzv,cqra-s74n,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Fish and Wildlife, Department of (DFW)"
+5dr7-usej,cqra-s74n,dataset,Asotin County Library,"Fish and Wildlife, Department of (DFW)"
+x2zm-eba9,,,"Ecology, Department of (ECY)",
+9ddd-ww9y,,,"Public Instruction, Office of Superintendent of (OSPI)",
+9tgp-j3hw,cqra-s74n,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Fish and Wildlife, Department of (DFW)"
+8f3x-w2na,,,"Public Instruction, Office of Superintendent of (OSPI)",
+kwf8-x25v,,,Asotin County Library,
+5fpr-p292,,,"Public Instruction, Office of Superintendent of (OSPI)",
+tx5e-mafy,cqra-s74n,dataset,"Financial Management, Office of (OFM)","Fish and Wildlife, Department of (DFW)"
+cznx-wvyr,,,"Public Instruction, Office of Superintendent of (OSPI)",
+9weh-kphq,,,Washington State Technology Solutions (CTS),
+n68s-ipss,,,"Public Instruction, Office of Superintendent of (OSPI)",
+vysb-v99e,,,"Public Instruction, Office of Superintendent of (OSPI)",
+ep6p-x4sw,,,Asotin County Library,
+8ich-rwu8,cqra-s74n,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Fish and Wildlife, Department of (DFW)"
+4rfn-62je,,,"Financial Management, Office of (OFM)",
+ex64-r4td,,,"Public Instruction, Office of Superintendent of (OSPI)",
+b2hu-mc6n,,,"Public Instruction, Office of Superintendent of (OSPI)",
+2vpq-8y6s,,,"Public Instruction, Office of Superintendent of (OSPI)",
+hxpx-m5ym,,,"Salmon Recovery Office, Governor's (GSRO)",
+b7tc-kpsc,cqra-s74n,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Fish and Wildlife, Department of (DFW)"
+9u47-ruwq,,,Recreation and Conservation Office (RCO),
+d5px-pjwa,r7e2-ww9m,dataset,"Public Instruction, Office of Superintendent of (OSPI)",Washington State Technology Solutions (CTS)
+e7fb-c8dd,,,"Ecology, Department of (ECY)",
+64hn-ugy2,,,"Financial Management, Office of (OFM)",
+cst7-n7us,cqra-s74n,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Fish and Wildlife, Department of (DFW)"
+pv2y-w2pj,,,"Public Instruction, Office of Superintendent of (OSPI)",
+n5vh-73iq,cgha-fszd,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Health, Department of (DOH)"
+dfg6-swea,cqra-s74n,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Fish and Wildlife, Department of (DFW)"
+npy4-i3c7,,,"Public Instruction, Office of Superintendent of (OSPI)",
+w5gy-tk8t,,,"Public Instruction, Office of Superintendent of (OSPI)",
+e9yn-b4s7,gdw2-uv4h,dataset,"Public Instruction, Office of Superintendent of (OSPI)",Washington State Technology Solutions (CTS)
+p2ix-zvmq,,,"Public Instruction, Office of Superintendent of (OSPI)",
+kw82-bcav,,,Shoreline School District,
+ujbe-i8ps,,,"Public Instruction, Office of Superintendent of (OSPI)",
+cu52-r4gr,,,"Public Instruction, Office of Superintendent of (OSPI)",
+7vxf-b8fu,,,"Public Instruction, Office of Superintendent of (OSPI)",
+rmgn-qkw3,,,"Salmon Recovery Office, Governor's (GSRO)",
+j2w5-q37a,,,Washington State Technology Solutions (CTS),
+vdyt-xgj8,,,"Public Instruction, Office of Superintendent of (OSPI)",
+skgr-3rmn,k882-u84m,parent asset is private or deleted,"Public Instruction, Office of Superintendent of (OSPI)",parent asset is private or deleted
+5kcn-arpf,,,Asotin County Library,
+dsji-k2ks,,,"Financial Management, Office of (OFM)",
+r5ce-vyij,,,"Health, Department of (DOH)",
+ivpk-yg37,,,"Salmon Recovery Office, Governor's (GSRO)",
+hmup-uqqx,,,Asotin County Library,
+7evj-s48w,,,"Public Instruction, Office of Superintendent of (OSPI)",
+i9yd-vksw,,,"Public Instruction, Office of Superintendent of (OSPI)",
+vn6u-fuhx,,,"Financial Management, Office of (OFM)",
+f45e-hfk6,cqra-s74n,dataset,Asotin County Library,"Fish and Wildlife, Department of (DFW)"
+k4b9-5me8,,,"Public Instruction, Office of Superintendent of (OSPI)",
+bhpj-n74n,,,"Public Instruction, Office of Superintendent of (OSPI)",
+5kxt-svqx,,,Asotin County Library,
+96md-aty8,,,"Public Instruction, Office of Superintendent of (OSPI)",
+6gvj-mhar,cqra-s74n,dataset,"Natural Resources, Department of (DNR)","Fish and Wildlife, Department of (DFW)"
+fhjf-dt8q,,,"Fish and Wildlife, Department of (DFW)",
+rypk-eu78,,,"Public Instruction, Office of Superintendent of (OSPI)",
+fr3a-ve3a,cqra-s74n,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Fish and Wildlife, Department of (DFW)"
+99bi-4yis,,,"Public Instruction, Office of Superintendent of (OSPI)",
+m8w6-thut,,,Higher Ed - not listed,
+e4c4-megs,,,"Financial Management, Office of (OFM)",
+m76z-3hrh,,,"Public Instruction, Office of Superintendent of (OSPI)",
+6f7e-mr9j,cqra-s74n,dataset,"Accountancy, State Board of (WBOA)(ACB)","Fish and Wildlife, Department of (DFW)"
+myt4-rvx9,,,Asotin County Library,
+qcs6-8uur,cqra-s74n,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Fish and Wildlife, Department of (DFW)"
+ge54-6p8n,,,Washington State Technology Solutions (CTS),
+r3u2-p8p4,,,"Health, Department of (DOH)",
+84hb-ritz,,,"Public Instruction, Office of Superintendent of (OSPI)",
+i23g-ymbg,,,"Public Instruction, Office of Superintendent of (OSPI)",
+fnrx-vc9g,cqra-s74n,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Fish and Wildlife, Department of (DFW)"
+vp9t-gixy,,,"Natural Resources, Department of (DNR)",
+a4di-c58x,,,"Public Instruction, Office of Superintendent of (OSPI)",
+rcph-ykjc,,,"Public Instruction, Office of Superintendent of (OSPI)",
+hm92-6wrv,,,Asotin County Library,
+wact-ccx9,f6st-whvb,dataset,Other external user,"Ecology, Department of (ECY)"
+mzzh-7zmi,,,"Financial Management, Office of (OFM)",
+6h67-iwxu,,,"Natural Resources, Department of (DNR)",
+e54r-ssx5,sb4j-ca4h,dataset,"Financial Management, Office of (OFM)","Attorney General, Office of the (ATG)"
+rtjc-jkfh,,,"Public Instruction, Office of Superintendent of (OSPI)",
+6fct-dcwh,,,"Licensing, Department of (DOL)",
+kymy-ekgn,,,"Public Instruction, Office of Superintendent of (OSPI)",
+xj8r-fn39,,,"Public Instruction, Office of Superintendent of (OSPI)",
+db62-tmsv,,,"Ecology, Department of (ECY)",
+bnkm-cuhn,,,"Public Instruction, Office of Superintendent of (OSPI)",
+uafp-h7qx,,,"Public Instruction, Office of Superintendent of (OSPI)",
+2fna-kukm,,,Timberland Regional Library,
+dvzq-8mnd,,,"Public Instruction, Office of Superintendent of (OSPI)",
+rnj5-cvf9,cqra-s74n,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Fish and Wildlife, Department of (DFW)"
+rmbx-qwui,cqra-s74n,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Fish and Wildlife, Department of (DFW)"
+eb78-pvac,cqra-s74n,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Fish and Wildlife, Department of (DFW)"
+nbfa-27qg,cqra-s74n,dataset,"Fish and Wildlife, Department of (DFW)","Fish and Wildlife, Department of (DFW)"
+4rhj-k96j,,,Washington State Technology Solutions (CTS),
+6m9i-8w2n,,,"Public Instruction, Office of Superintendent of (OSPI)",
+85i4-xsey,cqra-s74n,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Fish and Wildlife, Department of (DFW)"
+g8kg-wiav,,,"Public Instruction, Office of Superintendent of (OSPI)",
+a6b5-gsvq,,,"Public Instruction, Office of Superintendent of (OSPI)",
+gykm-38he,cqra-s74n,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Fish and Wildlife, Department of (DFW)"
+ih6n-egtp,6fpy-npmv,dataset,"Public Instruction, Office of Superintendent of (OSPI)",Washington State Technology Solutions (CTS)
+uw6y-b6i9,,,"Public Instruction, Office of Superintendent of (OSPI)",
+khbx-sfp3,,,"Public Instruction, Office of Superintendent of (OSPI)",
+6htq-bea2,,,"Public Instruction, Office of Superintendent of (OSPI)",
+ykfu-5nf4,,,"Public Instruction, Office of Superintendent of (OSPI)",
+c98t-h9s7,cqra-s74n,dataset,"Financial Management, Office of (OFM)","Fish and Wildlife, Department of (DFW)"
+kqc6-w3pk,,,"Public Instruction, Office of Superintendent of (OSPI)",
+25wp-ziwr,,,"Public Instruction, Office of Superintendent of (OSPI)",
+7xfq-ddbs,,,"Labor & Industries, Department of (LNI)",
+jxes-keyh,cqra-s74n,dataset,"Ecology, Department of (ECY)","Fish and Wildlife, Department of (DFW)"
+uu2h-cgpm,,,"Public Instruction, Office of Superintendent of (OSPI)",
+rzaj-xnp5,,,"Public Instruction, Office of Superintendent of (OSPI)",
+d2d5-tzh3,,,"Public Instruction, Office of Superintendent of (OSPI)",
+js66-qdmg,,,Washington State Technology Solutions (CTS),
+q795-aq5k,,,"Public Instruction, Office of Superintendent of (OSPI)",
+rrdv-p5ir,k882-u84m,parent asset is private or deleted,"Public Instruction, Office of Superintendent of (OSPI)",parent asset is private or deleted
+3b6q-tnqv,,,"Public Instruction, Office of Superintendent of (OSPI)",
+xfvd-r3y9,,,"Financial Management, Office of (OFM)",
+a87w-tzv3,cqra-s74n,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Fish and Wildlife, Department of (DFW)"
+yji7-twsm,,,"Public Instruction, Office of Superintendent of (OSPI)",
+bgpu-j7bu,,,"Public Instruction, Office of Superintendent of (OSPI)",
+d8ug-swrg,,,"Fish and Wildlife, Department of (DFW)",
+dxj3-dhg3,,,Washington State Technology Solutions (CTS),
+kvz6-msiu,,,Public Disclosure Commission (PDC),
+2ibj-g99f,,,"Financial Management, Office of (OFM)",
+fdmy-34wj,,,"Public Instruction, Office of Superintendent of (OSPI)",
+edhj-ef9r,,,"Public Instruction, Office of Superintendent of (OSPI)",
+wzit-br2e,cqra-s74n,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Fish and Wildlife, Department of (DFW)"
+4dxz-msu8,r5ki-dmfz,dataset,Other external user,"Criminal Justice Training Commission, Washington State (CJTC)"
+fus6-zat9,,,"Public Instruction, Office of Superintendent of (OSPI)",
+hegm-swm4,,,"Health, Department of (DOH)",
+sc8p-adpm,,,"Attorney General, Office of the (ATG)",
+a9zk-j4js,cqra-s74n,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Fish and Wildlife, Department of (DFW)"
+cpgk-g58k,,,"Public Instruction, Office of Superintendent of (OSPI)",
+8sgc-ztfw,,,"Public Instruction, Office of Superintendent of (OSPI)",
+sjxm-bc7i,,,"Public Instruction, Office of Superintendent of (OSPI)",
+5eke-yiwr,ydx3-umcz,parent asset is private or deleted,"Financial Management, Office of (OFM)",parent asset is private or deleted
+uazq-5d9p,,,"Public Instruction, Office of Superintendent of (OSPI)",
+awzq-u65q,,,"Public Instruction, Office of Superintendent of (OSPI)",
+kr8z-tfmn,,,"Public Instruction, Office of Superintendent of (OSPI)",
+r8aa-pcb5,,,"Public Instruction, Office of Superintendent of (OSPI)",
+7kjj-cgxk,,,"Public Instruction, Office of Superintendent of (OSPI)",
+yhr5-4xw4,,,"Public Instruction, Office of Superintendent of (OSPI)",
+3usg-u9ay,fgyz-n3uk,dataset,Public Disclosure Commission (PDC),"Fish and Wildlife, Department of (DFW)"
+5dup-ie9a,,,"Financial Management, Office of (OFM)",
+hbuu-npki,,,"Public Instruction, Office of Superintendent of (OSPI)",
+8wmw-bydr,,,Recreation and Conservation Office (RCO),
+9pvd-xkxf,cqra-s74n,dataset,Timberland Regional Library,"Fish and Wildlife, Department of (DFW)"
+jxkg-sj8f,cqra-s74n,dataset,"Ecology, Department of (ECY)","Fish and Wildlife, Department of (DFW)"
+r8dt-hw6d,,,"Public Instruction, Office of Superintendent of (OSPI)",
+wmk5-euti,,,"Financial Management, Office of (OFM)",
+rey8-3s7y,,,Other external user,
+722c-yigi,uyg8-hybx,parent asset is private or deleted,"Labor & Industries, Department of (LNI)",parent asset is private or deleted
+yca2-z9cv,cqra-s74n,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Fish and Wildlife, Department of (DFW)"
+e3x6-7wqn,,,"Salmon Recovery Office, Governor's (GSRO)",
+jzrz-dku2,,,Asotin County Library,
+ewtr-vyaz,cqra-s74n,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Fish and Wildlife, Department of (DFW)"
+gtf9-dsdj,,,"Public Instruction, Office of Superintendent of (OSPI)",
+ebwb-9rx9,,,"Financial Management, Office of (OFM)",
+gkk7-7y7z,cqra-s74n,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Fish and Wildlife, Department of (DFW)"
+jcyr-zthi,,,"Ecology, Department of (ECY)",
+x77f-ey35,,,"Labor & Industries, Department of (LNI)",
+k6qx-ckee,,,"Public Instruction, Office of Superintendent of (OSPI)",
+u6t9-petu,,,"Public Instruction, Office of Superintendent of (OSPI)",
+iuqy-jds3,,,"Financial Management, Office of (OFM)",
+u6d5-xq8d,cqra-s74n,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Fish and Wildlife, Department of (DFW)"
+qf7y-ftb2,sb4j-ca4h,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Attorney General, Office of the (ATG)"
+dy4z-7qnm,,,Washington State Technology Solutions (CTS),
+3bxf-chrn,,,Washington State Technology Solutions (CTS),
+jnni-9x3j,,,"Public Instruction, Office of Superintendent of (OSPI)",
+6d4t-nm2w,,,"Public Instruction, Office of Superintendent of (OSPI)",
+kjiu-4cue,,,"Public Instruction, Office of Superintendent of (OSPI)",
+xrt9-f5py,,,"Public Instruction, Office of Superintendent of (OSPI)",
+a779-hxc5,,,"Public Instruction, Office of Superintendent of (OSPI)",
+niqf-ftdf,,,"Public Instruction, Office of Superintendent of (OSPI)",
+4s75-aan4,tn3n-uv4s,parent asset is private or deleted,"Public Instruction, Office of Superintendent of (OSPI)",parent asset is private or deleted
+4s75-aan4,yccr-zbpr,filter,"Public Instruction, Office of Superintendent of (OSPI)","Public Instruction, Office of Superintendent of (OSPI)"
+rv5z-7kdz,,,"Public Instruction, Office of Superintendent of (OSPI)",
+rszh-2trr,,,"Public Instruction, Office of Superintendent of (OSPI)",
+ndhp-dgg3,,,"Financial Management, Office of (OFM)",
+si6q-6zyc,,,"Salmon Recovery Office, Governor's (GSRO)",
+wx42-2w2e,,,"Public Instruction, Office of Superintendent of (OSPI)",
+5vkc-tbi7,cqra-s74n,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Fish and Wildlife, Department of (DFW)"
+xgxu-ms2d,,,"Enterprise Services, Department of (DES)",
+njkf-htie,,,"Public Instruction, Office of Superintendent of (OSPI)",
+vrg9-4nnp,,,"Licensing, Department of (DOL)",
+ji68-79i6,,,"Public Instruction, Office of Superintendent of (OSPI)",
+bahc-ddpt,,,"Public Instruction, Office of Superintendent of (OSPI)",
+evvy-j9nk,,,"Public Instruction, Office of Superintendent of (OSPI)",
+w4ej-td6g,,,"Public Instruction, Office of Superintendent of (OSPI)",
+ud2h-8fd3,,,"Public Instruction, Office of Superintendent of (OSPI)",
+uqxb-mbhx,,,"Public Instruction, Office of Superintendent of (OSPI)",
+q3wd-bpwb,,,"Financial Management, Office of (OFM)",
+nqzc-mge5,,,"Ecology, Department of (ECY)",
+x8ct-ymav,,,"Public Instruction, Office of Superintendent of (OSPI)",
+jtvb-d9rv,,,"Public Instruction, Office of Superintendent of (OSPI)",
+sd54-zfs9,,,"Public Instruction, Office of Superintendent of (OSPI)",
+bk3y-kh2e,,,"Public Instruction, Office of Superintendent of (OSPI)",
+5cjc-46tq,,,"Public Instruction, Office of Superintendent of (OSPI)",
+6ukv-n3hz,,,Other external user,
+qd56-ndxs,,,"Public Instruction, Office of Superintendent of (OSPI)",
+unt5-akug,,,"Health, Department of (DOH)",
+us6x-4rdh,,,"Public Instruction, Office of Superintendent of (OSPI)",
+wmg6-9fbs,fgyz-n3uk,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Fish and Wildlife, Department of (DFW)"
+jv5j-swhv,,,"Public Instruction, Office of Superintendent of (OSPI)",
+kcgz-mjzi,,,"Public Instruction, Office of Superintendent of (OSPI)",
+4us6-k4gm,,,"Public Instruction, Office of Superintendent of (OSPI)",
+73wi-zquj,,,"Financial Management, Office of (OFM)",
+77re-duxa,,,"Public Instruction, Office of Superintendent of (OSPI)",
+n6nr-z3e3,,,"Public Instruction, Office of Superintendent of (OSPI)",
+36k8-snwu,,,Asotin County Library,
+85yi-iz5w,,,"Public Instruction, Office of Superintendent of (OSPI)",
+9f86-nsh6,,,"Public Instruction, Office of Superintendent of (OSPI)",
+hncq-n7by,,,Washington Student Achievement Council (WSAC),
+n4zi-dkdn,,,"Public Instruction, Office of Superintendent of (OSPI)",
+es8x-zm5t,,,"Public Instruction, Office of Superintendent of (OSPI)",
+5ncx-ir27,,,"Public Instruction, Office of Superintendent of (OSPI)",
+qada-qfw3,,,"Public Instruction, Office of Superintendent of (OSPI)",
+jy6x-buat,,,"Ecology, Department of (ECY)",
+qhv7-gmd2,,,"Health, Department of (DOH)",
+ttvq-s68f,,,"Ecology, Department of (ECY)",
+8mim-ms6f,,,"Public Instruction, Office of Superintendent of (OSPI)",
+uuzw-nb4z,,,"Public Instruction, Office of Superintendent of (OSPI)",
+qikc-asgu,,,"Public Instruction, Office of Superintendent of (OSPI)",
+2782-jgnn,,,"Public Instruction, Office of Superintendent of (OSPI)",
+58iq-43xz,,,Other external user,
+njsn-af7s,,,"Public Instruction, Office of Superintendent of (OSPI)",
+8mvd-27dh,,,"Public Instruction, Office of Superintendent of (OSPI)",
+xah2-85pt,,,"Public Instruction, Office of Superintendent of (OSPI)",
+xbyk-35rp,,,"Financial Management, Office of (OFM)",
+pst9-2na4,,,"Financial Management, Office of (OFM)",
+k458-8ae8,,,"Labor & Industries, Department of (LNI)",
+gsfw-5nr2,,,"Public Instruction, Office of Superintendent of (OSPI)",
+h452-eef9,,,"Public Instruction, Office of Superintendent of (OSPI)",
+6yfh-w978,,,"Fish and Wildlife, Department of (DFW)",
+nu7y-vk2u,,,Asotin County Library,
+w7dd-qd7e,,,"Public Instruction, Office of Superintendent of (OSPI)",
+mw5w-5ius,cqra-s74n,dataset,"Salmon Recovery Office, Governor's (GSRO)","Fish and Wildlife, Department of (DFW)"
+8ygw-vn3m,,,"Health, Department of (DOH)",
+hq5b-r2hb,,,"Financial Management, Office of (OFM)",
+b5fp-bq29,,,"Public Instruction, Office of Superintendent of (OSPI)",
+hrdr-549u,,,"Public Instruction, Office of Superintendent of (OSPI)",
+2di7-6ncs,,,"Enterprise Services, Department of (DES)",
+jk73-q35d,,,"Public Instruction, Office of Superintendent of (OSPI)",
+psgg-9kcf,,,"Public Instruction, Office of Superintendent of (OSPI)",
+qjax-ywhk,,,"Public Instruction, Office of Superintendent of (OSPI)",
+y63v-sfm2,,,"Public Instruction, Office of Superintendent of (OSPI)",
+wtda-rrnp,,,"Public Instruction, Office of Superintendent of (OSPI)",
+n99x-sgp4,,,"Enterprise Services, Department of (DES)",
+8a8k-g4nd,,,"Public Instruction, Office of Superintendent of (OSPI)",
+9uv3-w2c2,,,"Public Instruction, Office of Superintendent of (OSPI)",
+vame-mg9u,,,"Public Instruction, Office of Superintendent of (OSPI)",
+7i8p-t7z6,,,"Financial Management, Office of (OFM)",
+f7uz-cecq,,,"Public Instruction, Office of Superintendent of (OSPI)",
+tpyz-69yr,,,"Public Instruction, Office of Superintendent of (OSPI)",
+f8ne-bbvv,,,"Financial Management, Office of (OFM)",
+jd4g-9x8u,cqra-s74n,dataset,"Ecology, Department of (ECY)","Fish and Wildlife, Department of (DFW)"
+u5be-ss28,,,"Public Instruction, Office of Superintendent of (OSPI)",
+88hx-6isc,,,"Financial Management, Office of (OFM)",
+iz66-6yer,,,"Public Instruction, Office of Superintendent of (OSPI)",
+7vi3-nbrv,,,"Public Instruction, Office of Superintendent of (OSPI)",
+gd74-3fq2,,,"Public Instruction, Office of Superintendent of (OSPI)",
+c8jq-87wd,,,"Financial Management, Office of (OFM)",
+qqsv-vhfv,,,"Public Instruction, Office of Superintendent of (OSPI)",
+rk5w-3q8b,,,"Public Instruction, Office of Superintendent of (OSPI)",
+hfk5-3b7j,,,"Licensing, Department of (DOL)",
+u7nb-v4qd,,,"Public Instruction, Office of Superintendent of (OSPI)",
+bwnf-nauz,,,"Ecology, Department of (ECY)",
+2u9s-9xjg,,,"Public Instruction, Office of Superintendent of (OSPI)",
+h6py-nq4h,,,"Public Instruction, Office of Superintendent of (OSPI)",
+8ynb-aii9,,,"Health, Department of (DOH)",
+ccg7-vadd,,,"Public Instruction, Office of Superintendent of (OSPI)",
+ayq3-pisd,,,"Public Instruction, Office of Superintendent of (OSPI)",
+p97e-resq,,,"Public Instruction, Office of Superintendent of (OSPI)",
+235x-z4vu,,,,
+8dt8-9wkj,,,"Fish and Wildlife, Department of (DFW)",
+62ye-kqqm,,,"Public Instruction, Office of Superintendent of (OSPI)",
+yh49-c4vc,,,"Public Instruction, Office of Superintendent of (OSPI)",
+44nf-8y42,,,"Public Instruction, Office of Superintendent of (OSPI)",
+i2bm-i37r,,,Recreation and Conservation Office (RCO),
+vtkp-4qan,,,"Ecology, Department of (ECY)",
+ckzb-h5uw,,,"Public Instruction, Office of Superintendent of (OSPI)",
+d7pn-hxrd,,,"Public Instruction, Office of Superintendent of (OSPI)",
+rizt-wvv4,,,"Ecology, Department of (ECY)",
+dqb8-2ba4,,,"Financial Management, Office of (OFM)",
+3f4z-3njr,,,"Enterprise Services, Department of (DES)",
+axdx-tass,,,"Public Instruction, Office of Superintendent of (OSPI)",
+xe77-gktq,cqra-s74n,dataset,"Financial Management, Office of (OFM)","Fish and Wildlife, Department of (DFW)"
+nkza-e9rk,,,"Public Instruction, Office of Superintendent of (OSPI)",
+dpm3-4juy,,,"Salmon Recovery Office, Governor's (GSRO)",
+myzw-97ve,,,Asotin County Library,
+wtz4-jqqx,,,"Public Instruction, Office of Superintendent of (OSPI)",
+ufgf-8mag,sb4j-ca4h,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Attorney General, Office of the (ATG)"
+8znw-7y5m,,,"Health, Department of (DOH)",
+tkfg-9q2m,,,"Employment Security, Department of (ESD)",
+jjbp-c4sc,,,"Public Instruction, Office of Superintendent of (OSPI)",
+nbg8-u959,,,"Public Instruction, Office of Superintendent of (OSPI)",
+4ksv-2afd,,,"Public Instruction, Office of Superintendent of (OSPI)",
+f7kx-qtvc,,,"Public Instruction, Office of Superintendent of (OSPI)",
+t537-5ffp,,,"Public Instruction, Office of Superintendent of (OSPI)",
+mnce-u864,,,"Ecology, Department of (ECY)",
+2dje-iq49,,,"Public Instruction, Office of Superintendent of (OSPI)",
+u3e5-g5ig,,,"Secretary of State, Office of the (SECSTATE)",
+wmtw-ckd3,,,"Ecology, Department of (ECY)",
+x357-u54i,,,"Public Instruction, Office of Superintendent of (OSPI)",
+vfzs-3csd,,,"Public Instruction, Office of Superintendent of (OSPI)",
+wme5-zpek,,,"Public Instruction, Office of Superintendent of (OSPI)",
+mezp-digt,,,"Public Instruction, Office of Superintendent of (OSPI)",
+ce3u-thjh,,,"Licensing, Department of (DOL)",
+iddq-3wif,,,"Employment Security, Department of (ESD)",
+xu2a-gvkg,,,"Public Instruction, Office of Superintendent of (OSPI)",
+9rzk-46v9,,,"Fish and Wildlife, Department of (DFW)",
+2byz-jnka,,,"Public Instruction, Office of Superintendent of (OSPI)",
+vpg5-56qq,,,"Natural Resources, Department of (DNR)",
+m2p5-xx2z,,,Recreation and Conservation Office (RCO),
+nyuj-yf6n,,,"Public Instruction, Office of Superintendent of (OSPI)",
+bdg5-g3nq,,,"Public Instruction, Office of Superintendent of (OSPI)",
+wbpv-bcp5,,,Washington State Technology Solutions (CTS),
+pcre-dwu7,,,"Public Instruction, Office of Superintendent of (OSPI)",
+fqmc-bjkd,,,"Public Instruction, Office of Superintendent of (OSPI)",
+9d5b-nkyu,,,"Public Instruction, Office of Superintendent of (OSPI)",
+um4v-fmtz,,,"Public Instruction, Office of Superintendent of (OSPI)",
+wa6p-va54,,,Other external user,
+85d5-hi2j,,,"Public Instruction, Office of Superintendent of (OSPI)",
+fzn7-zdym,,,"Public Instruction, Office of Superintendent of (OSPI)",
+h3wx-uwm3,,,"Public Instruction, Office of Superintendent of (OSPI)",
+dkev-6sm4,,,"Ecology, Department of (ECY)",
+q4zm-7qp2,,,"Ecology, Department of (ECY)",
+y52w-ehha,,,"Salmon Recovery Office, Governor's (GSRO)",
+ue9k-g2at,,,"Public Instruction, Office of Superintendent of (OSPI)",
+wxci-nsiy,,,"Public Instruction, Office of Superintendent of (OSPI)",
+vb96-kbsk,,,"Public Instruction, Office of Superintendent of (OSPI)",
+e48m-zuge,,,Asotin County Library,
+4edt-mstx,,,Other external user,
+avfy-d3fg,,,"Financial Management, Office of (OFM)",
+sfab-vw47,r5ki-dmfz,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Criminal Justice Training Commission, Washington State (CJTC)"
+cmbn-w6yw,,,"Public Instruction, Office of Superintendent of (OSPI)",
+nsdx-u4vv,,,"Ecology, Department of (ECY)",
+4xk8-feaq,,,"Labor & Industries, Department of (LNI)",
+cxzy-fkvy,,,"Public Instruction, Office of Superintendent of (OSPI)",
+797c-3548,,,"Public Instruction, Office of Superintendent of (OSPI)",
+g2t7-bz4z,,,"Public Instruction, Office of Superintendent of (OSPI)",
+gqeb-v2ux,,,"Public Instruction, Office of Superintendent of (OSPI)",
+325m-f48f,,,"Public Instruction, Office of Superintendent of (OSPI)",
+stt9-indh,,,Timberland Regional Library,
+5r6a-vpuk,,,"Secretary of State, Office of the (SECSTATE)",
+6uhb-k8pa,,,"Public Instruction, Office of Superintendent of (OSPI)",
+p39z-8dfa,,,"Public Instruction, Office of Superintendent of (OSPI)",
+27be-eium,,,"Public Instruction, Office of Superintendent of (OSPI)",
+hsh3-58gz,,,"Public Instruction, Office of Superintendent of (OSPI)",
+sb7j-b5ht,,,"Attorney General, Office of the (ATG)",
+cbur-tamw,,,"Public Instruction, Office of Superintendent of (OSPI)",
+mgxt-s5ap,,,"Health, Department of (DOH)",
+g6n3-w7wf,,,"Public Instruction, Office of Superintendent of (OSPI)",
+j6mp-ww87,,,Timberland Regional Library,
+i7mk-r64t,,,"Ecology, Department of (ECY)",
+a6ga-ggfp,,,"Public Instruction, Office of Superintendent of (OSPI)",
+fuh4-ubve,,,"Public Instruction, Office of Superintendent of (OSPI)",
+eyfp-jhtv,,,"Public Instruction, Office of Superintendent of (OSPI)",
+2tja-5324,,,"Public Instruction, Office of Superintendent of (OSPI)",
+bn4u-fdfv,,,Shoreline School District,
+hy6k-9947,,,"Public Instruction, Office of Superintendent of (OSPI)",
+t626-faxh,,,"Public Instruction, Office of Superintendent of (OSPI)",
+gvx2-5nuw,,,"Public Instruction, Office of Superintendent of (OSPI)",
+cxe7-jajh,,,"Health, Department of (DOH)",
+y5z2-eqbb,,,"Public Instruction, Office of Superintendent of (OSPI)",
+mxs9-6bqe,,,"Health, Department of (DOH)",
+v3i9-syww,,,"Public Instruction, Office of Superintendent of (OSPI)",
+byzb-upuw,,,"Public Instruction, Office of Superintendent of (OSPI)",
+e32m-utv6,,,"Public Instruction, Office of Superintendent of (OSPI)",
+x7uw-cssh,,,"Public Instruction, Office of Superintendent of (OSPI)",
+4zeu-6w8d,,,"Labor & Industries, Department of (LNI)",
+inpk-wqpi,,,"Children, Youth, and Families, Department of (DCYF)",
+kufn-smj9,,,"Public Instruction, Office of Superintendent of (OSPI)",
+m2h8-fmyy,,,Recreation and Conservation Office (RCO),
+wpm4-8ic8,vz5p-qvth,dataset,"Salmon Recovery Office, Governor's (GSRO)","Attorney General, Office of the (ATG)"
+3fmg-8cm8,,,"Enterprise Services, Department of (DES)",
+6nan-puqf,,,"Public Instruction, Office of Superintendent of (OSPI)",
+x2pz-u67c,,,"Public Instruction, Office of Superintendent of (OSPI)",
+h2xm-7sa8,,,"Public Instruction, Office of Superintendent of (OSPI)",
+j3e3-e6tj,,,Washington State Technology Solutions (CTS),
+h5rb-v99y,,,"Public Instruction, Office of Superintendent of (OSPI)",
+uw9r-h7dh,,,"Public Instruction, Office of Superintendent of (OSPI)",
+v63p-2aub,,,"Public Instruction, Office of Superintendent of (OSPI)",
+vm5h-z8fc,,,"Financial Management, Office of (OFM)",
+bitb-x7s2,j2u5-4qpk,dataset,"Public Instruction, Office of Superintendent of (OSPI)",Washington State Technology Solutions (CTS)
+7q3x-bscm,,,"Public Instruction, Office of Superintendent of (OSPI)",
+ehhi-9swb,,,Public Disclosure Commission (PDC),
+q8ny-p8xq,,,"Public Instruction, Office of Superintendent of (OSPI)",
+k46y-3nku,,,"Public Instruction, Office of Superintendent of (OSPI)",
+8pn9-ycja,,,"Public Instruction, Office of Superintendent of (OSPI)",
+kju7-vpn3,,,"Public Instruction, Office of Superintendent of (OSPI)",
+mgjw-k497,,,"Public Instruction, Office of Superintendent of (OSPI)",
+wcek-zrzx,,,Washington State Technology Solutions (CTS),
+k3g4-bmwa,,,"Financial Management, Office of (OFM)",
+kin6-zy4u,,,"Public Instruction, Office of Superintendent of (OSPI)",
+6uuw-2acw,,,Other external user,
+e544-2re8,,,"Financial Management, Office of (OFM)",
+tun3-9kwp,,,"Ecology, Department of (ECY)",
+vf29-f6kk,,,"Public Instruction, Office of Superintendent of (OSPI)",
+rwxh-pdmu,,,"Public Instruction, Office of Superintendent of (OSPI)",
+ei8g-rmhw,,,"Public Instruction, Office of Superintendent of (OSPI)",
+cbs4-kgh9,,,"Public Instruction, Office of Superintendent of (OSPI)",
+i22a-pr9n,,,"Public Instruction, Office of Superintendent of (OSPI)",
+9s99-6pgr,,,"Public Instruction, Office of Superintendent of (OSPI)",
+bcmk-227s,,,"Public Instruction, Office of Superintendent of (OSPI)",
+igwd-efgv,,,"Public Instruction, Office of Superintendent of (OSPI)",
+4xp9-2sih,,,"Labor & Industries, Department of (LNI)",
+n6tk-ib3w,,,"Public Instruction, Office of Superintendent of (OSPI)",
+u58p-k37p,,,"Public Instruction, Office of Superintendent of (OSPI)",
+vwcj-x5xf,,,"Financial Management, Office of (OFM)",
+mwnz-h2r3,,,"Salmon Recovery Office, Governor's (GSRO)",
+jwdh-cp9q,,,"Ecology, Department of (ECY)",
+bq8r-kp7m,,,Public Disclosure Commission (PDC),
+k8b7-4yym,,,"Public Instruction, Office of Superintendent of (OSPI)",
+svvh-ung9,,,Timberland Regional Library,
+6a6d-abwe,,,"Public Instruction, Office of Superintendent of (OSPI)",
+j5p6-ni4p,,,"Public Instruction, Office of Superintendent of (OSPI)",
+hds3-ztv2,,,"Public Instruction, Office of Superintendent of (OSPI)",
+f4my-f7t7,,,"Public Instruction, Office of Superintendent of (OSPI)",
+2bpn-4v8c,,,"Public Instruction, Office of Superintendent of (OSPI)",
+q3jj-g52q,,,"Public Instruction, Office of Superintendent of (OSPI)",
+pvpn-rmhs,,,"Public Instruction, Office of Superintendent of (OSPI)",
+3eve-gjd8,,,"Licensing, Department of (DOL)",
+xt3p-zzth,,,"Public Instruction, Office of Superintendent of (OSPI)",
+4rb6-7p2x,,,"Children, Youth, and Families, Department of (DCYF)",
+ba9q-ai9q,,,"Public Instruction, Office of Superintendent of (OSPI)",
+jami-2mce,,,"Enterprise Services, Department of (DES)",
+c4jz-8nzb,,,Public Disclosure Commission (PDC),
+qqnh-ynuk,,,"Public Instruction, Office of Superintendent of (OSPI)",
+u5zk-p25g,,,"Public Instruction, Office of Superintendent of (OSPI)",
+5qsb-ymd9,,,"Children, Youth, and Families, Department of (DCYF)",
+k23s-9hyv,,,Asotin County Library,
+vqbg-n6ar,,,"Licensing, Department of (DOL)",
+ii5i-by93,,,"Public Instruction, Office of Superintendent of (OSPI)",
+d2ks-afhz,,,"Fish and Wildlife, Department of (DFW)",
+p3ri-q2av,,,"Public Instruction, Office of Superintendent of (OSPI)",
+9xhc-fm6s,,,Washington State Technology Solutions (CTS),
+94cc-y6q8,,,"Public Instruction, Office of Superintendent of (OSPI)",
+6b3j-dhtd,,,"Public Instruction, Office of Superintendent of (OSPI)",
+3xbm-8xyc,,,Washington State Technology Solutions (CTS),
+bq95-2zgv,,,"Public Instruction, Office of Superintendent of (OSPI)",
+jhdj-yhcd,,,"Public Instruction, Office of Superintendent of (OSPI)",
+4fgf-99ma,,,Other external user,
+xdbi-32eh,,,"Financial Management, Office of (OFM)",
+un2j-s5y5,,,"Public Instruction, Office of Superintendent of (OSPI)",
+si6m-4eqc,,,"Salmon Recovery Office, Governor's (GSRO)",
+2e3b-dskj,3p3u-qc84,dataset,"Ecology, Department of (ECY)",Other external user
+pt3u-k9gs,cqra-s74n,dataset,"Financial Management, Office of (OFM)","Fish and Wildlife, Department of (DFW)"
+pwgq-yf65,,,"Public Instruction, Office of Superintendent of (OSPI)",
+hfi4-8gfu,,,"Health, Department of (DOH)",
+kdhm-t6yp,,,"Health, Department of (DOH)",
+e498-sppz,,,"Public Instruction, Office of Superintendent of (OSPI)",
+pcr7-459c,,,"Public Instruction, Office of Superintendent of (OSPI)",
+4hbs-jeri,,,Other external user,
+adxt-ewux,,,Other external user,
+fvex-czys,,,"Public Instruction, Office of Superintendent of (OSPI)",
+aw8j-7qyw,,,"Public Instruction, Office of Superintendent of (OSPI)",
+4z7g-pnzr,,,"Labor & Industries, Department of (LNI)",
+bnid-4maz,,,"Public Instruction, Office of Superintendent of (OSPI)",
+i2iv-m3ih,,,Recreation and Conservation Office (RCO),
+b9jg-54x6,,,"Public Instruction, Office of Superintendent of (OSPI)",
+ja5y-9748,,,"Enterprise Services, Department of (DES)",
+mq3d-ccdn,,,Recreation and Conservation Office (RCO),
+k37g-4h7p,,,"Financial Management, Office of (OFM)",
+jcbe-f4aj,,,"Ecology, Department of (ECY)",
+8bxj-n7bb,,,Public Disclosure Commission (PDC),
+8eg5-y8qy,,,"Public Instruction, Office of Superintendent of (OSPI)",
+hnt2-6jpm,,,Washington Student Achievement Council (WSAC),
+gyaj-5282,,,"Public Instruction, Office of Superintendent of (OSPI)",
+gej4-f6xe,,,Washington State Technology Solutions (CTS),
+bm59-93tz,,,Timberland Regional Library,
+p4sv-js2m,,,"Public Instruction, Office of Superintendent of (OSPI)",
+ws52-89wj,,,"Public Instruction, Office of Superintendent of (OSPI)",
+fpbu-w4ay,,,"Enterprise Services, Department of (DES)",
+c7kq-bkba,,,"Financial Management, Office of (OFM)",
+hyej-zk3n,,,"Public Instruction, Office of Superintendent of (OSPI)",
+gbgs-pce5,,,Asotin County Library,
+9zp9-stpd,,,"Salmon Recovery Office, Governor's (GSRO)",
+sf33-4t6u,,,"Public Instruction, Office of Superintendent of (OSPI)",
+tbx2-cyr9,,,Asotin County Library,
+s3hp-d5n9,,,"Public Instruction, Office of Superintendent of (OSPI)",
+3ija-um2r,,,Asotin County Library,
+j9dr-4w5q,,,"Public Instruction, Office of Superintendent of (OSPI)",
+q8sv-nnx6,cqra-s74n,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Fish and Wildlife, Department of (DFW)"
+3gm2-rpw6,cgha-fszd,dataset,Asotin County Library,"Health, Department of (DOH)"
+7w73-mtdf,,,"Public Instruction, Office of Superintendent of (OSPI)",
+u2vg-x9fe,k67g-t283,dataset,Asotin County Library,Washington State Technology Solutions (CTS)
+cv67-y4ye,,,"Public Instruction, Office of Superintendent of (OSPI)",
+rq54-afav,,,"Licensing, Department of (DOL)",
+s7dk-uw8g,,,"Public Instruction, Office of Superintendent of (OSPI)",
+geqn-ia2p,,,Washington State Technology Solutions (CTS),
+ijv4-psmc,,,"Public Instruction, Office of Superintendent of (OSPI)",
+xfn3-aupk,,,"Financial Management, Office of (OFM)",
+iv59-4kmz,,,"Financial Management, Office of (OFM)",
+33ez-pryb,,,"Public Instruction, Office of Superintendent of (OSPI)",
+wc6s-hiim,,,Washington State Technology Solutions (CTS),
+rba6-edmi,,,"Public Instruction, Office of Superintendent of (OSPI)",
+7ds2-ktq5,,,"Public Instruction, Office of Superintendent of (OSPI)",
+u3me-8kjt,,,"Secretary of State, Office of the (SECSTATE)",
+yu78-e98h,,,Asotin County Library,
+a57z-zecw,,,Public Disclosure Commission (PDC),
+gtye-wzep,,,"Public Instruction, Office of Superintendent of (OSPI)",
+3gd8-x9fd,,,Asotin County Library,
+w9n3-u8it,,,"Ecology, Department of (ECY)",
+kwnu-g5w9,,,Asotin County Library,
+5v7h-pych,,,"Public Instruction, Office of Superintendent of (OSPI)",
+vfa6-xdwv,,,"Public Instruction, Office of Superintendent of (OSPI)",
+a2s7-vjy6,,,"Public Instruction, Office of Superintendent of (OSPI)",
+hzpe-bfaw,,,"Public Instruction, Office of Superintendent of (OSPI)",
+bzf2-z6tv,,,"Public Instruction, Office of Superintendent of (OSPI)",
+adjk-mi7x,,,"Enterprise Services, Department of (DES)",
+8txw-63ay,fgyz-n3uk,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Fish and Wildlife, Department of (DFW)"
+qtbp-ak6n,,,"Public Instruction, Office of Superintendent of (OSPI)",
+4nzd-w89w,,,"Public Instruction, Office of Superintendent of (OSPI)",
+6fzp-xeku,,,"Public Instruction, Office of Superintendent of (OSPI)",
+v5qv-ciww,,,"Public Instruction, Office of Superintendent of (OSPI)",
+586c-rwcc,,,Other external user,
+pfey-waqq,,,Asotin County Library,
+qaq2-3hjs,,,"Public Instruction, Office of Superintendent of (OSPI)",
+e3k6-5ngk,uie2-nw4g,dataset,"Public Instruction, Office of Superintendent of (OSPI)",Washington State Technology Solutions (CTS)
+ia83-urdz,,,"Public Instruction, Office of Superintendent of (OSPI)",
+erbi-q9wc,,,"Public Instruction, Office of Superintendent of (OSPI)",
+46st-mma6,,,"Public Instruction, Office of Superintendent of (OSPI)",
+h6m7-5j9a,,,"Public Instruction, Office of Superintendent of (OSPI)",
+k8rh-64ja,,,"Public Instruction, Office of Superintendent of (OSPI)",
+jzd2-a3yt,,,"Public Instruction, Office of Superintendent of (OSPI)",
+izcm-iw77,,,"Public Instruction, Office of Superintendent of (OSPI)",
+q6nb-exh4,,,"Public Instruction, Office of Superintendent of (OSPI)",
+7r8r-89cm,,,"Public Instruction, Office of Superintendent of (OSPI)",
+ge4f-9yx4,,,Washington State Technology Solutions (CTS),
+5bi9-h8my,,,"Public Instruction, Office of Superintendent of (OSPI)",
+axee-zq8q,,,"Public Instruction, Office of Superintendent of (OSPI)",
+hfyn-2ig9,,,"Licensing, Department of (DOL)",
+8t59-ub7t,,,"Public Instruction, Office of Superintendent of (OSPI)",
+vg8q-3gks,,,"Public Instruction, Office of Superintendent of (OSPI)",
+bhad-z97b,,,"Public Instruction, Office of Superintendent of (OSPI)",
+2b3v-yftm,,,"Public Instruction, Office of Superintendent of (OSPI)",
+q3ms-37p6,,,"Public Instruction, Office of Superintendent of (OSPI)",
+js2h-mget,4j29-snvr,dataset,"Public Instruction, Office of Superintendent of (OSPI)",Washington State Technology Solutions (CTS)
+7ncz-2sqa,,,"Public Instruction, Office of Superintendent of (OSPI)",
+dbik-jctf,,,"Ecology, Department of (ECY)",
+bgz9-qw3j,,,"Public Instruction, Office of Superintendent of (OSPI)",
+nefr-q6y2,,,"Financial Management, Office of (OFM)",
+84du-3zi8,,,"Public Instruction, Office of Superintendent of (OSPI)",
+bubw-diyz,,,"Licensing, Department of (DOL)",
+dsvn-jxbj,,,"Public Instruction, Office of Superintendent of (OSPI)",
+nnim-y24v,,,"Public Instruction, Office of Superintendent of (OSPI)",
+j9kn-329g,,,"Public Instruction, Office of Superintendent of (OSPI)",
+tzpn-eqzt,,,"Public Instruction, Office of Superintendent of (OSPI)",
+7gka-kazz,,,"Salmon Recovery Office, Governor's (GSRO)",
+e9rc-gk78,,,"Public Instruction, Office of Superintendent of (OSPI)",
+tn3x-gsc8,,,"Public Instruction, Office of Superintendent of (OSPI)",
+f4qv-xkzj,,,"Public Instruction, Office of Superintendent of (OSPI)",
+wady-xfxn,,,Other external user,
+csd8-ydrg,,,"Public Instruction, Office of Superintendent of (OSPI)",
+7gy6-aaie,,,"Public Instruction, Office of Superintendent of (OSPI)",
+yvge-u5yx,,,Asotin County Library,
+djsv-qqrh,,,Asotin County Library,
+efhj-n2gf,,,"Public Instruction, Office of Superintendent of (OSPI)",
+98jh-qfwy,,,"Ecology, Department of (ECY)",
+e8xj-r7kr,,,Public Disclosure Commission (PDC),
+wbfc-a49j,,,Washington State Technology Solutions (CTS),
+m5r2-q8nc,,,"Public Instruction, Office of Superintendent of (OSPI)",
+gjb8-sunc,,,"Public Instruction, Office of Superintendent of (OSPI)",
+nwe5-ec8a,,,"Public Instruction, Office of Superintendent of (OSPI)",
+u445-eedx,,,"Secretary of State, Office of the (SECSTATE)",
+3v7i-dx7x,,,Public Disclosure Commission (PDC),
+9n37-a8ah,,,"Fish and Wildlife, Department of (DFW)",
+wpqs-5pac,,,"Public Instruction, Office of Superintendent of (OSPI)",
+f6wh-3kx6,,,"Licensing, Department of (DOL)",
+u9yb-pvvj,,,"Public Instruction, Office of Superintendent of (OSPI)",
+a859-bu52,,,"Public Instruction, Office of Superintendent of (OSPI)",
+hhge-jq8f,,,Asotin County Library,
+nq44-unec,,,"Public Instruction, Office of Superintendent of (OSPI)",
+ga6n-8gxg,,,"Ecology, Department of (ECY)",
+tzfa-rb4q,,,"Public Instruction, Office of Superintendent of (OSPI)",
+t9wb-wwmg,,,"Public Instruction, Office of Superintendent of (OSPI)",
+ybui-vk65,,,"Public Instruction, Office of Superintendent of (OSPI)",
+hk8t-sagp,,,"Fish and Wildlife, Department of (DFW)",
+5hcz-c23s,,,"Public Instruction, Office of Superintendent of (OSPI)",
+cvx5-ebfz,,,"Health, Department of (DOH)",
+va97-kmga,,,"Public Instruction, Office of Superintendent of (OSPI)",
+ghzw-x4nw,,,"Public Instruction, Office of Superintendent of (OSPI)",
+7w34-sewc,,,"Public Instruction, Office of Superintendent of (OSPI)",
+m2vy-xti4,,,Recreation and Conservation Office (RCO),
+tvmw-ftcp,,,"Ecology, Department of (ECY)",
+fgyp-8ari,,,"Ecology, Department of (ECY)",
+xnvv-n9kz,,,"Public Instruction, Office of Superintendent of (OSPI)",
+7uqc-u88f,,,"Public Instruction, Office of Superintendent of (OSPI)",
+747b-hz2p,,,"Financial Management, Office of (OFM)",
+tzki-if5u,,,"Public Instruction, Office of Superintendent of (OSPI)",
+68nj-d8nb,,,"Public Instruction, Office of Superintendent of (OSPI)",
+8pqf-pasc,,,"Public Instruction, Office of Superintendent of (OSPI)",
+ii7z-dkjn,,,"Public Instruction, Office of Superintendent of (OSPI)",
+qvgv-emur,,,"Public Instruction, Office of Superintendent of (OSPI)",
+jkih-wqns,,,"Public Instruction, Office of Superintendent of (OSPI)",
+4nkv-wpmt,,,"Public Instruction, Office of Superintendent of (OSPI)",
+q66z-zhzt,,,"Public Instruction, Office of Superintendent of (OSPI)",
+c4uv-sdt5,,,Public Disclosure Commission (PDC),
+5pty-2dfv,,,"Children, Youth, and Families, Department of (DCYF)",
+m8gj-dwin,,,"Salmon Recovery Office, Governor's (GSRO)",
+ak2v-55uq,,,"Public Instruction, Office of Superintendent of (OSPI)",
+a3nj-erwf,,,"Public Instruction, Office of Superintendent of (OSPI)",
+9r6d-bi28,,,"Fish and Wildlife, Department of (DFW)",
+4ird-evj9,,,"Public Instruction, Office of Superintendent of (OSPI)",
+wqpc-z5q8,,,"Public Instruction, Office of Superintendent of (OSPI)",
+g2zw-seqc,,,"Public Instruction, Office of Superintendent of (OSPI)",
+5ait-iqhs,,,"Public Instruction, Office of Superintendent of (OSPI)",
+6pij-k7cr,,,"Financial Management, Office of (OFM)",
+stdm-mydn,,,Timberland Regional Library,
+5659-65t6,,,"Ecology, Department of (ECY)",
+ee27-gg5m,,,"Public Instruction, Office of Superintendent of (OSPI)",
+re3k-kwzh,,,"Public Instruction, Office of Superintendent of (OSPI)",
+krmq-76xx,,,"Public Instruction, Office of Superintendent of (OSPI)",
+y2zy-hrhj,,,"Public Instruction, Office of Superintendent of (OSPI)",
+fkwe-wank,,,"Fish and Wildlife, Department of (DFW)",
+kqbu-axmq,,,"Public Instruction, Office of Superintendent of (OSPI)",
+yamm-p8xi,,,"Public Instruction, Office of Superintendent of (OSPI)",
+asf2-cwrt,,,Washington Student Achievement Council (WSAC),
+cnjf-t659,,,"Public Instruction, Office of Superintendent of (OSPI)",
+2npd-89hz,,,"Natural Resources, Department of (DNR)",
+qnyy-v4uj,,,"Public Instruction, Office of Superintendent of (OSPI)",
+vsi2-a96i,,,"Public Instruction, Office of Superintendent of (OSPI)",
+9fta-qezh,,,Kennewick School District,
+dsuu-gh5e,,,"Public Instruction, Office of Superintendent of (OSPI)",
+iscw-e6yt,,,Recreation and Conservation Office (RCO),
+sa9r-ft95,,,"Public Instruction, Office of Superintendent of (OSPI)",
+i3hi-rpbi,,,"Public Instruction, Office of Superintendent of (OSPI)",
+j8v3-3ik3,,,"Public Instruction, Office of Superintendent of (OSPI)",
+v9wr-6vct,,,"Public Instruction, Office of Superintendent of (OSPI)",
+jebn-z5t8,,,"Ecology, Department of (ECY)",
+w6fr-u9yr,,,"Public Instruction, Office of Superintendent of (OSPI)",
+92n2-g5u8,,,"Public Instruction, Office of Superintendent of (OSPI)",
+jb33-nnt4,,,"Enterprise Services, Department of (DES)",
+t2ma-375b,,,"Public Instruction, Office of Superintendent of (OSPI)",
+bcgk-a745,,,"Public Instruction, Office of Superintendent of (OSPI)",
+5f6w-bkug,,,"Public Instruction, Office of Superintendent of (OSPI)",
+8gh5-f3jx,,,"Public Instruction, Office of Superintendent of (OSPI)",
+3iqm-d89h,,,Asotin County Library,
+j3q2-t54d,,,Washington State Technology Solutions (CTS),
+mydi-8bry,,,"Health, Department of (DOH)",
+sfcm-cq44,,,"Public Instruction, Office of Superintendent of (OSPI)",
+xtke-qfdh,,,"Public Instruction, Office of Superintendent of (OSPI)",
+bgqa-nudu,,,"Public Instruction, Office of Superintendent of (OSPI)",
+pj6g-63ds,,,"Public Instruction, Office of Superintendent of (OSPI)",
+h53h-piym,,,Asotin County Library,
+33xd-jxf3,,,"Public Instruction, Office of Superintendent of (OSPI)",
+prhd-i9rb,,,"Public Instruction, Office of Superintendent of (OSPI)",
+b2jm-3cu6,,,"Public Instruction, Office of Superintendent of (OSPI)",
+pysm-wfzq,,,"Public Instruction, Office of Superintendent of (OSPI)",
+gim5-5vua,,,"Public Instruction, Office of Superintendent of (OSPI)",
+yspp-ba97,,,"Public Instruction, Office of Superintendent of (OSPI)",
+8qeu-uzc8,,,"Financial Management, Office of (OFM)",
+p2mx-vu4i,,,"Public Instruction, Office of Superintendent of (OSPI)",
+4a8d-cyx3,,,"Public Instruction, Office of Superintendent of (OSPI)",
+ct6b-2a3g,,,"Public Instruction, Office of Superintendent of (OSPI)",
+gue6-r6cr,,,"Public Instruction, Office of Superintendent of (OSPI)",
+29xg-vcgr,,,"Public Instruction, Office of Superintendent of (OSPI)",
+3tpg-59xz,,,Public Disclosure Commission (PDC),
+r485-6cu3,,,"Health, Department of (DOH)",
+hm9j-euxv,,,Asotin County Library,
+dt4v-ktzd,,,"Public Instruction, Office of Superintendent of (OSPI)",
+pt4z-np8r,,,"Financial Management, Office of (OFM)",
+xsxn-m8ws,,,"Public Instruction, Office of Superintendent of (OSPI)",
+7h7g-7p7x,,,"Public Instruction, Office of Superintendent of (OSPI)",
+utai-ne9m,,,"Public Instruction, Office of Superintendent of (OSPI)",
+aizx-yq7b,,,"Salmon Recovery Office, Governor's (GSRO)",
+5vws-2iak,,,"Public Instruction, Office of Superintendent of (OSPI)",
+g8rz-237j,,,"Ecology, Department of (ECY)",
+vtnn-bptp,,,"Ecology, Department of (ECY)",
+qc5v-ahss,,,"Public Instruction, Office of Superintendent of (OSPI)",
+fugq-7tcj,,,"Public Instruction, Office of Superintendent of (OSPI)",
+yviq-yqm5,,,Asotin County Library,
+yrqe-ckry,,,Recreation and Conservation Office (RCO),
+dijq-abu7,,,"Public Instruction, Office of Superintendent of (OSPI)",
+si4n-pdj8,,,"Salmon Recovery Office, Governor's (GSRO)",
+mg2u-dmh8,,,"Ecology, Department of (ECY)",
+sruu-79x3,,,"Public Instruction, Office of Superintendent of (OSPI)",
+em76-wu5r,,,"Public Instruction, Office of Superintendent of (OSPI)",
+8rwy-ydat,,,"Salmon Recovery Office, Governor's (GSRO)",
+58i7-3zmh,,,Other external user,
+q5hy-fsdw,,,"Public Instruction, Office of Superintendent of (OSPI)",
+36b6-yndh,,,"Public Instruction, Office of Superintendent of (OSPI)",
+xuwr-yzri,,,"Financial Management, Office of (OFM)",
+sk62-bqfb,,,"Public Instruction, Office of Superintendent of (OSPI)",
+yaum-5pxn,,,"Public Instruction, Office of Superintendent of (OSPI)",
+ehmm-ppst,,,"Public Instruction, Office of Superintendent of (OSPI)",
+5bwd-tiir,,,"Public Instruction, Office of Superintendent of (OSPI)",
+6enn-tmg8,,,"Accountancy, State Board of (WBOA)(ACB)",
+xv29-h3b9,,,"Financial Management, Office of (OFM)",
+jh45-5svw,,,"Public Instruction, Office of Superintendent of (OSPI)",
+cis7-zb9y,,,"Health, Department of (DOH)",
+kbq4-5wwb,,,"Public Instruction, Office of Superintendent of (OSPI)",
+uznq-dmwp,,,"Public Instruction, Office of Superintendent of (OSPI)",
+g6ti-6wmi,,,"Public Instruction, Office of Superintendent of (OSPI)",
+2u3r-ngvc,,,"Public Instruction, Office of Superintendent of (OSPI)",
+h2f2-ury3,,,"Public Instruction, Office of Superintendent of (OSPI)",
+x2yi-4z36,,,Public Disclosure Commission (PDC),
+jqyt-mtd3,,,"Public Instruction, Office of Superintendent of (OSPI)",
+6ype-egm5,,,"Public Instruction, Office of Superintendent of (OSPI)",
+9tbn-94h5,,,"Public Instruction, Office of Superintendent of (OSPI)",
+9u98-4g67,,,"Public Instruction, Office of Superintendent of (OSPI)",
+ktfc-a9pf,,,"Public Instruction, Office of Superintendent of (OSPI)",
+8zww-vayi,,,"Public Instruction, Office of Superintendent of (OSPI)",
+46ma-qcrb,,,"Public Instruction, Office of Superintendent of (OSPI)",
+cpcg-ukrk,,,"Public Instruction, Office of Superintendent of (OSPI)",
+ehpc-8nxr,,,"Public Instruction, Office of Superintendent of (OSPI)",
+x4sx-2pxw,,,"Public Instruction, Office of Superintendent of (OSPI)",
+sge3-txba,,,"Ecology, Department of (ECY)",
+xkea-niae,,,"Financial Management, Office of (OFM)",
+ck96-gbz8,,,"Public Instruction, Office of Superintendent of (OSPI)",
+h4fc-ar7e,,,Asotin County Library,
+8uxy-rmi4,,,"Public Instruction, Office of Superintendent of (OSPI)",
+8inw-93tp,,,"Public Instruction, Office of Superintendent of (OSPI)",
+b6ah-hhky,,,"Public Instruction, Office of Superintendent of (OSPI)",
+qk3m-g8kj,,,"Public Instruction, Office of Superintendent of (OSPI)",
+5tey-3n6n,,,"Public Instruction, Office of Superintendent of (OSPI)",
+2yp7-rmbs,,,"Ecology, Department of (ECY)",
+mu48-jppy,,,"Financial Management, Office of (OFM)",
+yms2-b2pb,,,"Public Instruction, Office of Superintendent of (OSPI)",
+an3u-kvyz,,,"Public Instruction, Office of Superintendent of (OSPI)",
+qprw-8xx6,,,"Public Instruction, Office of Superintendent of (OSPI)",
+7skj-mrmq,,,"Public Instruction, Office of Superintendent of (OSPI)",
+p2du-a442,,,"Financial Management, Office of (OFM)",
+knvh-3hkw,,,Other external user,
+3zbd-5suf,,,Washington State Technology Solutions (CTS),
+2ezd-3e89,,,Timberland Regional Library,
+bzcp-ihez,,,"Public Instruction, Office of Superintendent of (OSPI)",
+6sum-3nee,,,"Financial Management, Office of (OFM)",
+t5kw-imiu,,,"Public Instruction, Office of Superintendent of (OSPI)",
+iaza-iip7,,,"Public Instruction, Office of Superintendent of (OSPI)",
+tqqi-pa84,,,"Public Instruction, Office of Superintendent of (OSPI)",
+kha5-66bu,,,"Public Instruction, Office of Superintendent of (OSPI)",
+yrt8-u4sa,,,"Public Instruction, Office of Superintendent of (OSPI)",
+bq5d-75jf,,,Public Disclosure Commission (PDC),
+whww-yzxh,,,Other external user,
+iz32-gxvx,,,"Public Instruction, Office of Superintendent of (OSPI)",
+ptb2-zhpx,,,"Financial Management, Office of (OFM)",
+hxa5-2hwh,,,"Salmon Recovery Office, Governor's (GSRO)",
+f9t8-egi4,,,"Financial Management, Office of (OFM)",
+6yqm-yk5v,,,"Public Instruction, Office of Superintendent of (OSPI)",
+vpxf-re9e,,,"Natural Resources, Department of (DNR)",
+7sbd-r5e7,,,"Public Instruction, Office of Superintendent of (OSPI)",
+uzkg-7gt4,,,Asotin County Library,
+re8t-6u33,,,"Public Instruction, Office of Superintendent of (OSPI)",
+kxva-cvqf,,,Asotin County Library,
+6z5n-2pgp,,,"Public Instruction, Office of Superintendent of (OSPI)",
+g6x7-fzc8,,,"Public Instruction, Office of Superintendent of (OSPI)",
+meyu-a42z,,,"Enterprise Services, Department of (DES)",
+2gs3-f4hi,,,Timberland Regional Library,
+4sfe-aak8,,,"Public Instruction, Office of Superintendent of (OSPI)",
+ewe9-rbvx,,,"Public Instruction, Office of Superintendent of (OSPI)",
+xutd-i2ya,,,"Financial Management, Office of (OFM)",
+h38b-6j3f,,,"Public Instruction, Office of Superintendent of (OSPI)",
+bjtk-4hmq,,,"Public Instruction, Office of Superintendent of (OSPI)",
+kctb-p96m,,,"Health, Department of (DOH)",
+widp-xaka,,,"Public Instruction, Office of Superintendent of (OSPI)",
+fjg8-b37r,,,"Fish and Wildlife, Department of (DFW)",
+v8wz-qix8,,,"Public Instruction, Office of Superintendent of (OSPI)",
+nvwb-gsip,,,"Public Instruction, Office of Superintendent of (OSPI)",
+7ux3-8f46,pchc-4957,dataset,"Public Instruction, Office of Superintendent of (OSPI)",Washington State Technology Solutions (CTS)
+qe9t-sekf,,,"Public Instruction, Office of Superintendent of (OSPI)",
+qcxr-qjvy,,,"Public Instruction, Office of Superintendent of (OSPI)",
+b2df-wmbb,,,"Public Instruction, Office of Superintendent of (OSPI)",
+qcz9-59th,,,"Public Instruction, Office of Superintendent of (OSPI)",
+dtm4-hsyt,,,"Public Instruction, Office of Superintendent of (OSPI)",
+pueu-z8d8,,,"Financial Management, Office of (OFM)",
+k82m-iy35,,,"Public Instruction, Office of Superintendent of (OSPI)",
+vacn-egmt,,,"Public Instruction, Office of Superintendent of (OSPI)",
+br3u-yd7h,,,"Public Instruction, Office of Superintendent of (OSPI)",
+nwwm-sybe,,,"Public Instruction, Office of Superintendent of (OSPI)",
+5frz-f59x,,,"Public Instruction, Office of Superintendent of (OSPI)",
+9ax3-9gaq,,,"Salmon Recovery Office, Governor's (GSRO)",
+8ata-k8m7,,,"Public Instruction, Office of Superintendent of (OSPI)",
+dw8h-7ikd,,,"Public Instruction, Office of Superintendent of (OSPI)",
+8s65-psj8,,,"Public Instruction, Office of Superintendent of (OSPI)",
+5icz-miuk,,,"Public Instruction, Office of Superintendent of (OSPI)",
+fxkg-3zcr,,,Other external user,
+ryhd-eb7j,,,"Public Instruction, Office of Superintendent of (OSPI)",
+wwqz-t9rc,,,Other external user,
+2kp3-yaqe,,,"Natural Resources, Department of (DNR)",
+iew9-2qjh,,,"Public Instruction, Office of Superintendent of (OSPI)",
+82bv-miic,,,Asotin County Library,
+azsd-7b76,,,"Employment Security, Department of (ESD)",
+p8yd-9rrr,,,"Public Instruction, Office of Superintendent of (OSPI)",
+kycu-bgca,,,"Public Instruction, Office of Superintendent of (OSPI)",
+62rc-rzqw,,,"Public Instruction, Office of Superintendent of (OSPI)",
+pbit-285g,,,"Attorney General, Office of the (ATG)",
+j8hk-dnp4,,,"Public Instruction, Office of Superintendent of (OSPI)",
+cxet-b9xn,,,"Public Instruction, Office of Superintendent of (OSPI)",
+mzq4-cjry,,,"Public Instruction, Office of Superintendent of (OSPI)",
+v3jm-kjdj,,,"Public Instruction, Office of Superintendent of (OSPI)",
+3mvq-959q,,,"Salmon Recovery Office, Governor's (GSRO)",
+2ixz-g4gj,,,"Financial Management, Office of (OFM)",
+szpm-i3b3,,,"Public Instruction, Office of Superintendent of (OSPI)",
+v8uw-z5ww,,,"Public Instruction, Office of Superintendent of (OSPI)",
+4jev-rxx5,,,"Public Instruction, Office of Superintendent of (OSPI)",
+u3ba-5wiw,,,"Public Instruction, Office of Superintendent of (OSPI)",
+ewrq-cids,,,"Public Instruction, Office of Superintendent of (OSPI)",
+hc7a-9nhh,,,Recreation and Conservation Office (RCO),
+vrbf-jw67,,,"Licensing, Department of (DOL)",
+mweu-84f8,,,"Salmon Recovery Office, Governor's (GSRO)",
+t97y-g2vk,,,"Public Instruction, Office of Superintendent of (OSPI)",
+vbm9-rfsw,,,"Public Instruction, Office of Superintendent of (OSPI)",
+68uq-pxcg,,,"Public Instruction, Office of Superintendent of (OSPI)",
+bams-82px,,,"Public Instruction, Office of Superintendent of (OSPI)",
+bgqi-pt2d,,,"Public Instruction, Office of Superintendent of (OSPI)",
+bxa6-wyb2,,,"Ecology, Department of (ECY)",
+khaa-rkzz,,,"Public Instruction, Office of Superintendent of (OSPI)",
+8amh-23qw,,,"Public Instruction, Office of Superintendent of (OSPI)",
+be8t-yyf3,,,"Public Instruction, Office of Superintendent of (OSPI)",
+5h4q-mhr6,sb4j-ca4h,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Attorney General, Office of the (ATG)"
+p8v5-cmxp,,,"Public Instruction, Office of Superintendent of (OSPI)",
+3b2u-fmze,,,"Public Instruction, Office of Superintendent of (OSPI)",
+i8h6-ha8i,,,"Health, Department of (DOH)",
+kdns-xv3j,,,"Public Instruction, Office of Superintendent of (OSPI)",
+axcb-n2ht,,,"Public Instruction, Office of Superintendent of (OSPI)",
+apw6-7tx8,,,"Public Instruction, Office of Superintendent of (OSPI)",
+m7ih-hj3u,,,"Salmon Recovery Office, Governor's (GSRO)",
+ewi6-htm6,,,"Public Instruction, Office of Superintendent of (OSPI)",
+b342-5fht,,,"Public Instruction, Office of Superintendent of (OSPI)",
+9wdu-g3zg,,,"Public Instruction, Office of Superintendent of (OSPI)",
+aj96-7m4a,,,"Salmon Recovery Office, Governor's (GSRO)",
+fnxg-77yc,,,"Public Instruction, Office of Superintendent of (OSPI)",
+pdf6-j6rq,,,"Public Instruction, Office of Superintendent of (OSPI)",
+82ck-bmn3,,,"Public Instruction, Office of Superintendent of (OSPI)",
+6krc-ep4u,,,"Public Instruction, Office of Superintendent of (OSPI)",
+3ark-c4eq,,,"Public Instruction, Office of Superintendent of (OSPI)",
+yjcd-6a6b,,,"Public Instruction, Office of Superintendent of (OSPI)",
+7zgt-pjex,,,Asotin County Library,
+3neh-hjr7,,,"Salmon Recovery Office, Governor's (GSRO)",
+7msd-qq2c,,,"Public Instruction, Office of Superintendent of (OSPI)",
+rnqm-6ysv,,,"Public Instruction, Office of Superintendent of (OSPI)",
+kcsj-kre2,,,"Health, Department of (DOH)",
+ahwm-2jyd,,,"Public Instruction, Office of Superintendent of (OSPI)",
+ex59-vc76,,,"Public Instruction, Office of Superintendent of (OSPI)",
+xinj-se27,,,"Public Instruction, Office of Superintendent of (OSPI)",
+vrpv-n4sj,,,"Licensing, Department of (DOL)",
+djuz-f3q4,k882-u84m,parent asset is private or deleted,Asotin County Library,parent asset is private or deleted
+fejs-uwea,,,"Public Instruction, Office of Superintendent of (OSPI)",
+67bq-8uyv,,,"Public Instruction, Office of Superintendent of (OSPI)",
+2w7x-mddx,,,"Public Instruction, Office of Superintendent of (OSPI)",
+47th-59sm,,,"Public Instruction, Office of Superintendent of (OSPI)",
+kzqz-fqbb,,,Recreation and Conservation Office (RCO),
+8e7w-epmh,,,"Fish and Wildlife, Department of (DFW)",
+n6m4-tuzb,,,"Public Instruction, Office of Superintendent of (OSPI)",
+dwa9-i6e2,,,"Public Instruction, Office of Superintendent of (OSPI)",
+y4em-3pyx,,,"Salmon Recovery Office, Governor's (GSRO)",
+75ah-mmef,,,"Public Instruction, Office of Superintendent of (OSPI)",
+vbw8-8q5r,,,"Public Instruction, Office of Superintendent of (OSPI)",
+gd5d-tare,,,"Public Instruction, Office of Superintendent of (OSPI)",
+rzcu-wf8g,,,"Public Instruction, Office of Superintendent of (OSPI)",
+mc6c-jp2w,,,"Secretary of State, Office of the (SECSTATE)",
+xvg8-jics,,,"Financial Management, Office of (OFM)",
+prgb-fumj,,,"Public Instruction, Office of Superintendent of (OSPI)",
+rcv9-885n,,,"Public Instruction, Office of Superintendent of (OSPI)",
+hx3j-8p6y,,,"Salmon Recovery Office, Governor's (GSRO)",
+dsue-f9d3,,,"Public Instruction, Office of Superintendent of (OSPI)",
+ufce-hqxh,,,"Public Instruction, Office of Superintendent of (OSPI)",
+uzpk-phtf,pchc-4957,dataset,"Public Instruction, Office of Superintendent of (OSPI)",Washington State Technology Solutions (CTS)
+vq5s-hbqh,,,"Licensing, Department of (DOL)",
+nr23-pueq,,,"Ecology, Department of (ECY)",
+h8w5-fyny,,,Asotin County Library,
+5cv6-92wf,,,"Public Instruction, Office of Superintendent of (OSPI)",
+8jaj-rsgi,,,"Public Instruction, Office of Superintendent of (OSPI)",
+shzk-7zmm,,,"Public Instruction, Office of Superintendent of (OSPI)",
+274c-udtk,,,"Public Instruction, Office of Superintendent of (OSPI)",
+w34b-qixt,,,"Public Instruction, Office of Superintendent of (OSPI)",
+qt9f-m8yj,,,"Public Instruction, Office of Superintendent of (OSPI)",
+qbcd-agb2,,,"Public Instruction, Office of Superintendent of (OSPI)",
+8pm5-vqty,,,"Public Instruction, Office of Superintendent of (OSPI)",
+jdw9-sbpn,,,"Ecology, Department of (ECY)",
+cyz9-dxua,,,"Public Instruction, Office of Superintendent of (OSPI)",
+77pc-gjiz,,,"Public Instruction, Office of Superintendent of (OSPI)",
+8fan-w664,,,"Public Instruction, Office of Superintendent of (OSPI)",
+ycp8-fuxz,,,"Public Instruction, Office of Superintendent of (OSPI)",
+689m-sytj,,,"Public Instruction, Office of Superintendent of (OSPI)",
+7dy2-7w2v,,,"Public Instruction, Office of Superintendent of (OSPI)",
+eaun-tyr7,,,"Public Instruction, Office of Superintendent of (OSPI)",
+aesf-wj7v,,,Other external user,
+4tnv-q46z,,,"Public Instruction, Office of Superintendent of (OSPI)",
+dcz9-brdp,,,"Public Instruction, Office of Superintendent of (OSPI)",
+sa94-ben3,,,"Public Instruction, Office of Superintendent of (OSPI)",
+tqqj-jzi2,,,"Public Instruction, Office of Superintendent of (OSPI)",
+22zm-s6ze,,,,
+3wdq-5w4i,,,Washington State Technology Solutions (CTS),
+v38v-5m63,,,"Public Instruction, Office of Superintendent of (OSPI)",
+bhfh-qxr9,,,"Public Instruction, Office of Superintendent of (OSPI)",
+trpg-bxfh,sibs-5k6j,dataset,Other external user,"Ecology, Department of (ECY)"
+7qw7-kwz2,,,"Public Instruction, Office of Superintendent of (OSPI)",
+qi7a-f2cf,,,"Health, Department of (DOH)",
+8np5-bhcu,,,"Public Instruction, Office of Superintendent of (OSPI)",
+keiv-qr69,,,"Public Instruction, Office of Superintendent of (OSPI)",
+7tip-ghsw,,,"Public Instruction, Office of Superintendent of (OSPI)",
+vamw-przc,,,"Public Instruction, Office of Superintendent of (OSPI)",
+uwaz-vdsi,,,"Public Instruction, Office of Superintendent of (OSPI)",
+ca2e-nr2j,,,"Public Instruction, Office of Superintendent of (OSPI)",
+shmz-zeet,,,"Ecology, Department of (ECY)",
+kyaa-35pb,,,Asotin County Library,
+mvuz-cqyp,,,"Financial Management, Office of (OFM)",
+32if-3xs2,,,"Public Instruction, Office of Superintendent of (OSPI)",
+j7s8-qcri,,,Public Disclosure Commission (PDC),
+hcvs-zi2k,,,"Public Instruction, Office of Superintendent of (OSPI)",
+f9az-gz83,,,"Financial Management, Office of (OFM)",
+rmb4-vyd9,,,"Public Instruction, Office of Superintendent of (OSPI)",
+xkcu-gr55,,,"Financial Management, Office of (OFM)",
+ikv7-33pt,,,"Labor & Industries, Department of (LNI)",
+mpnn-b2tz,,,"Public Instruction, Office of Superintendent of (OSPI)",
+buh7-khec,,,"Public Instruction, Office of Superintendent of (OSPI)",
+akmz-x3wx,,,Timberland Regional Library,
+shzv-kcqs,,,"Salmon Recovery Office, Governor's (GSRO)",
+48ew-jvjk,,,"Public Instruction, Office of Superintendent of (OSPI)",
+8r95-dwwe,,,"Public Instruction, Office of Superintendent of (OSPI)",
+8gk6-vuxy,9f5q-vk4q,dataset,"Public Instruction, Office of Superintendent of (OSPI)",Washington State Technology Solutions (CTS)
+wmiu-tb7z,,,"Public Instruction, Office of Superintendent of (OSPI)",
+p4mz-4rrg,,,"Public Instruction, Office of Superintendent of (OSPI)",
+cai3-fnqa,,,"Public Instruction, Office of Superintendent of (OSPI)",
+vgnm-ha3z,,,Liquor and Cannabis Board (LCB),
+2pyc-htab,,,"Public Instruction, Office of Superintendent of (OSPI)",
+qpzm-35vp,,,"Public Instruction, Office of Superintendent of (OSPI)",
+2gxc-b6gi,,,"Public Instruction, Office of Superintendent of (OSPI)",
+qekv-ukdk,,,"Public Instruction, Office of Superintendent of (OSPI)",
+8aq3-viqx,,,"Public Instruction, Office of Superintendent of (OSPI)",
+g383-z3j8,,,"Public Instruction, Office of Superintendent of (OSPI)",
+dsx5-8pjm,,,"Public Instruction, Office of Superintendent of (OSPI)",
+ggtu-9rf3,,,"Public Instruction, Office of Superintendent of (OSPI)",
+idwr-tmj3,,,"Public Instruction, Office of Superintendent of (OSPI)",
+si8f-yh94,,,"Public Instruction, Office of Superintendent of (OSPI)",
+rr9f-98x9,,,"Public Instruction, Office of Superintendent of (OSPI)",
+8qjg-ymyk,,,"Public Instruction, Office of Superintendent of (OSPI)",
+7djz-m5rq,,,"Public Instruction, Office of Superintendent of (OSPI)",
+9kyq-bzeb,,,Public Disclosure Commission (PDC),
+38qi-dsdr,,,"Public Instruction, Office of Superintendent of (OSPI)",
+7edw-mt8h,,,"Public Instruction, Office of Superintendent of (OSPI)",
+7adr-4vq2,,,"Public Instruction, Office of Superintendent of (OSPI)",
+5qsg-rffr,,,"Children, Youth, and Families, Department of (DCYF)",
+n5j5-n3nw,,,Recreation and Conservation Office (RCO),
+eimg-axdy,,,"Public Instruction, Office of Superintendent of (OSPI)",
+u3cu-cezh,,,"Public Instruction, Office of Superintendent of (OSPI)",
+yebu-peqr,,,Recreation and Conservation Office (RCO),
+gsdj-3i5g,,,"Public Instruction, Office of Superintendent of (OSPI)",
+te5x-d5et,,,"Public Instruction, Office of Superintendent of (OSPI)",
+9pzw-gcak,,,Timberland Regional Library,
+cvnn-hdhq,,,"Public Instruction, Office of Superintendent of (OSPI)",
+4252-r6aw,,,"Public Instruction, Office of Superintendent of (OSPI)",
+jt2g-qvtk,,,"Public Instruction, Office of Superintendent of (OSPI)",
+3wfx-3zuz,,,Washington State Technology Solutions (CTS),
+fni8-hstz,,,"Public Instruction, Office of Superintendent of (OSPI)",
+ck6w-i7c9,ydx3-umcz,parent asset is private or deleted,"Public Instruction, Office of Superintendent of (OSPI)",parent asset is private or deleted
+haee-ukrp,,,"Public Instruction, Office of Superintendent of (OSPI)",
+ku7k-gewn,,,"Public Instruction, Office of Superintendent of (OSPI)",
+phbc-2dnd,,,"Public Instruction, Office of Superintendent of (OSPI)",
+djif-rqf4,,,"Public Instruction, Office of Superintendent of (OSPI)",
+6btu-y6cm,,,"Public Instruction, Office of Superintendent of (OSPI)",
+mhqh-fq5h,,,"Public Instruction, Office of Superintendent of (OSPI)",
+bg6u-3fab,,,"Public Instruction, Office of Superintendent of (OSPI)",
+puf6-s2ax,,,"Public Instruction, Office of Superintendent of (OSPI)",
+whsn-fabw,,,"Public Instruction, Office of Superintendent of (OSPI)",
+dhij-a7zk,,,Asotin County Library,
+736x-7yhm,,,Timberland Regional Library,
+ucz3-aub2,,,"Public Instruction, Office of Superintendent of (OSPI)",
+2qzx-aqid,,,"Public Instruction, Office of Superintendent of (OSPI)",
+3468-axtg,,,"Public Instruction, Office of Superintendent of (OSPI)",
+pxn6-cehw,,,"Public Instruction, Office of Superintendent of (OSPI)",
+8kx7-vpvr,,,"Public Instruction, Office of Superintendent of (OSPI)",
+fyfh-ugyk,,,"Public Instruction, Office of Superintendent of (OSPI)",
+pgc6-u3b8,,,"Public Instruction, Office of Superintendent of (OSPI)",
+sj3u-r7b9,,,"Public Instruction, Office of Superintendent of (OSPI)",
+hp97-ssnp,,,Washington Student Achievement Council (WSAC),
+szvf-e8ut,,,"Public Instruction, Office of Superintendent of (OSPI)",
+grmj-ctpm,,,"Public Instruction, Office of Superintendent of (OSPI)",
+6m7u-eg5z,,,"Public Instruction, Office of Superintendent of (OSPI)",
+tqac-9gzu,,,"Public Instruction, Office of Superintendent of (OSPI)",
+36ck-p9ps,,,"Public Instruction, Office of Superintendent of (OSPI)",
+8zsg-zbki,,,"Public Instruction, Office of Superintendent of (OSPI)",
+a4n5-c3ye,,,Public Disclosure Commission (PDC),
+7uih-j4nm,,,Other external user,
+4nkk-bdny,,,"Labor & Industries, Department of (LNI)",
+eqx6-7bxh,,,"Public Instruction, Office of Superintendent of (OSPI)",
+xmgj-cd2d,,,"Financial Management, Office of (OFM)",
+auqf-fapm,,,"Licensing, Department of (DOL)",
+4dnt-bvg3,,,Other external user,
+hrc8-phqj,fx8x-eh2j,dataset,Washington State Technology Solutions (CTS),Other external user
+q394-hfwy,,,"Public Instruction, Office of Superintendent of (OSPI)",
+gevy-wn26,,,"Ecology, Department of (ECY)",
+svkf-mjy8,,,"Public Instruction, Office of Superintendent of (OSPI)",
+cv3g-gaf2,,,"Public Instruction, Office of Superintendent of (OSPI)",
+pwfs-cthx,,,"Public Instruction, Office of Superintendent of (OSPI)",
+xiac-qvca,,,"Public Instruction, Office of Superintendent of (OSPI)",
+u8r2-wtb5,,,"Public Instruction, Office of Superintendent of (OSPI)",
+sp7v-q9vy,,,"Public Instruction, Office of Superintendent of (OSPI)",
+y2qf-xxzw,,,"Public Instruction, Office of Superintendent of (OSPI)",
+b5wz-9uts,,,"Public Instruction, Office of Superintendent of (OSPI)",
+trbk-6ezf,,,Other external user,
+m9pw-8iq4,,,Higher Ed - not listed,
+wesg-bd2c,,,"Public Instruction, Office of Superintendent of (OSPI)",
+siri-d3cc,,,"Public Instruction, Office of Superintendent of (OSPI)",
+ez4q-r69a,,,"Public Instruction, Office of Superintendent of (OSPI)",
+fm9w-tjre,,,"Public Instruction, Office of Superintendent of (OSPI)",
+r8gq-dg3k,,,"Public Instruction, Office of Superintendent of (OSPI)",
+ku88-jnc7,,,"Public Instruction, Office of Superintendent of (OSPI)",
+hwwg-vsug,,,"Salmon Recovery Office, Governor's (GSRO)",
+juwk-nji2,,,"Public Instruction, Office of Superintendent of (OSPI)",
+5mqg-cdic,,,"Salmon Recovery Office, Governor's (GSRO)",
+ytev-3tk5,,,"Public Instruction, Office of Superintendent of (OSPI)",
+ak4n-j7a7,,,"Public Instruction, Office of Superintendent of (OSPI)",
+fad7-vizh,,,"Public Instruction, Office of Superintendent of (OSPI)",
+nz7w-8ywp,,,"Public Instruction, Office of Superintendent of (OSPI)",
+rkcp-y4hc,,,"Public Instruction, Office of Superintendent of (OSPI)",
+7idh-vu53,,,"Financial Management, Office of (OFM)",
+j8vq-w76s,,,"Public Instruction, Office of Superintendent of (OSPI)",
+x9in-en96,,,"Public Instruction, Office of Superintendent of (OSPI)",
+drt7-mf6f,,,"Financial Management, Office of (OFM)",
+8x36-a4ub,,,"Public Instruction, Office of Superintendent of (OSPI)",
+gxu5-h7qm,,,"Public Instruction, Office of Superintendent of (OSPI)",
+ytxh-8dac,,,"Public Instruction, Office of Superintendent of (OSPI)",
+77nt-5ivc,,,"Public Instruction, Office of Superintendent of (OSPI)",
+bhxj-su3s,,,"Public Instruction, Office of Superintendent of (OSPI)",
+f6e2-bipw,,,"Public Instruction, Office of Superintendent of (OSPI)",
+umvq-sbkp,,,"Public Instruction, Office of Superintendent of (OSPI)",
+v5jg-x3iw,,,"Public Instruction, Office of Superintendent of (OSPI)",
+g9m8-nnk2,,,"Ecology, Department of (ECY)",
+frri-p8gf,,,"Ecology, Department of (ECY)",
+thkv-5m7j,,,"Public Instruction, Office of Superintendent of (OSPI)",
+ha8x-hbvv,,,"Public Instruction, Office of Superintendent of (OSPI)",
+bczd-spca,,,"Public Instruction, Office of Superintendent of (OSPI)",
+dms8-ias7,,,Recreation and Conservation Office (RCO),
+gkhn-u4cx,,,"Public Instruction, Office of Superintendent of (OSPI)",
+yfdn-q4vs,,,"Public Instruction, Office of Superintendent of (OSPI)",
+yrph-kj3h,,,Recreation and Conservation Office (RCO),
+fe3a-tysx,,,"Public Instruction, Office of Superintendent of (OSPI)",
+kjzs-3swi,,,"Public Instruction, Office of Superintendent of (OSPI)",
+kyid-k8uc,,,"Public Instruction, Office of Superintendent of (OSPI)",
+qdpp-7aew,,,"Public Instruction, Office of Superintendent of (OSPI)",
+k26r-hauz,,,Asotin County Library,
+whwr-9g8d,,,Other external user,
+j8g9-w83d,,,"Public Instruction, Office of Superintendent of (OSPI)",
+iha6-a4x9,,,"Public Instruction, Office of Superintendent of (OSPI)",
+4vuw-6n2s,,,"Public Instruction, Office of Superintendent of (OSPI)",
+smmq-qq28,,,"Public Instruction, Office of Superintendent of (OSPI)",
+t6hd-hcnz,,,"Public Instruction, Office of Superintendent of (OSPI)",
+6gbx-xy69,,,"Public Instruction, Office of Superintendent of (OSPI)",
+p9bb-at3q,,,"Public Instruction, Office of Superintendent of (OSPI)",
+qgiq-jqkw,,,"Public Instruction, Office of Superintendent of (OSPI)",
+2szm-pwhs,,,"Public Instruction, Office of Superintendent of (OSPI)",
+msv2-8gcv,,,"Enterprise Services, Department of (DES)",
+iqzi-x7y8,,,"Public Instruction, Office of Superintendent of (OSPI)",
+k6y3-rdvv,,,"Public Instruction, Office of Superintendent of (OSPI)",
+fpng-2inw,,,"Public Instruction, Office of Superintendent of (OSPI)",
+fci6-869y,r5ki-dmfz,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Criminal Justice Training Commission, Washington State (CJTC)"
+ctek-cgfa,fgyz-n3uk,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Fish and Wildlife, Department of (DFW)"
+v2re-3577,,,"Public Instruction, Office of Superintendent of (OSPI)",
+42q4-3tui,,,"Public Instruction, Office of Superintendent of (OSPI)",
+mej3-gq8r,,,"Public Instruction, Office of Superintendent of (OSPI)",
+5z4n-r46u,,,"Public Instruction, Office of Superintendent of (OSPI)",
+n5jc-fqqw,,,"Public Instruction, Office of Superintendent of (OSPI)",
+4qix-7v3e,,,"Children, Youth, and Families, Department of (DCYF)",
+gqe3-ae5u,,,"Public Instruction, Office of Superintendent of (OSPI)",
+fdgh-dn3z,,,Asotin County Library,
+gr8e-uicp,,,"Public Instruction, Office of Superintendent of (OSPI)",
+rmzg-svw3,,,"Public Instruction, Office of Superintendent of (OSPI)",
+yte3-3baw,sb4j-ca4h,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Attorney General, Office of the (ATG)"
+jkzu-f2ez,,,"Public Instruction, Office of Superintendent of (OSPI)",
+eawc-zx8r,r5ki-dmfz,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Criminal Justice Training Commission, Washington State (CJTC)"
+g772-6jge,,,"Public Instruction, Office of Superintendent of (OSPI)",
+7umj-8mgw,,,"Public Instruction, Office of Superintendent of (OSPI)",
+6nj4-itjw,fgyz-n3uk,dataset,"Ecology, Department of (ECY)","Fish and Wildlife, Department of (DFW)"
+ixk4-hes2,,,"Public Instruction, Office of Superintendent of (OSPI)",
+vruy-tak6,,,"Public Instruction, Office of Superintendent of (OSPI)",
+7sdq-j3nw,,,"Public Instruction, Office of Superintendent of (OSPI)",
+b5u2-r6nr,,,"Public Instruction, Office of Superintendent of (OSPI)",
+jkwc-bfhi,,,"Public Instruction, Office of Superintendent of (OSPI)",
+atfn-6agr,,,"Public Instruction, Office of Superintendent of (OSPI)",
+9vps-urbr,,,"Health, Department of (DOH)",
+admf-rckx,,,"Enterprise Services, Department of (DES)",
+fwwg-2hvp,,,"Public Instruction, Office of Superintendent of (OSPI)",
+akp4-ffcb,,,"Public Instruction, Office of Superintendent of (OSPI)",
+bnus-5qhi,,,"Public Instruction, Office of Superintendent of (OSPI)",
+ypdi-nwrw,,,Asotin County Library,
+y68d-3x9z,,,"Public Instruction, Office of Superintendent of (OSPI)",
+kcbt-thyp,,,"Public Instruction, Office of Superintendent of (OSPI)",
+6i5s-hwtv,,,"Public Instruction, Office of Superintendent of (OSPI)",
+5amp-vxtk,,,"Public Instruction, Office of Superintendent of (OSPI)",
+pxpn-hgrc,uie2-nw4g,dataset,"Public Instruction, Office of Superintendent of (OSPI)",Washington State Technology Solutions (CTS)
+52g8-dk9u,,,"Public Instruction, Office of Superintendent of (OSPI)",
+d46r-vbth,,,"Public Instruction, Office of Superintendent of (OSPI)",
+rd2t-k8at,,,"Public Instruction, Office of Superintendent of (OSPI)",
+k9tt-kapc,,,"Public Instruction, Office of Superintendent of (OSPI)",
+8ht9-4w2k,,,"Public Instruction, Office of Superintendent of (OSPI)",
+6fbr-uk73,,,"Public Instruction, Office of Superintendent of (OSPI)",
+qf3t-x37u,,,"Public Instruction, Office of Superintendent of (OSPI)",
+ixud-2vds,,,"Licensing, Department of (DOL)",
+7cn2-dw2y,,,"Public Instruction, Office of Superintendent of (OSPI)",
+43y2-wyfx,,,"Public Instruction, Office of Superintendent of (OSPI)",
+i257-86ei,,,"Public Instruction, Office of Superintendent of (OSPI)",
+bc9i-nv2p,,,"Public Instruction, Office of Superintendent of (OSPI)",
+v2bu-wuqu,hn4a-bdxf,dataset,"Public Instruction, Office of Superintendent of (OSPI)",Washington Student Achievement Council (WSAC)
+69c7-56yy,,,"Public Instruction, Office of Superintendent of (OSPI)",
+gtfi-892t,r5ki-dmfz,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Criminal Justice Training Commission, Washington State (CJTC)"
+t3aj-g49z,,,"Public Instruction, Office of Superintendent of (OSPI)",
+q2xu-i7w2,,,"Accountancy, State Board of (WBOA)(ACB)",
+a5ab-2tqs,,,"Public Instruction, Office of Superintendent of (OSPI)",
+uiri-5za2,,,"Public Instruction, Office of Superintendent of (OSPI)",
+fsei-reyr,,,"Public Instruction, Office of Superintendent of (OSPI)",
+6v64-c3tj,,,"Public Instruction, Office of Superintendent of (OSPI)",
+jppe-gg38,,,"Public Instruction, Office of Superintendent of (OSPI)",
+5tug-66ap,,,"Public Instruction, Office of Superintendent of (OSPI)",
+bsuy-g8bx,,,"Licensing, Department of (DOL)",
+sfmv-76u4,,,"Public Instruction, Office of Superintendent of (OSPI)",
+jpj5-9c9n,,,"Public Instruction, Office of Superintendent of (OSPI)",
+hiu7-nzhz,,,Asotin County Library,
+3i7r-8id6,,,"Public Instruction, Office of Superintendent of (OSPI)",
+fnja-dbdb,,,"Public Instruction, Office of Superintendent of (OSPI)",
+nnky-xtde,,,"Public Instruction, Office of Superintendent of (OSPI)",
+h7qg-v3ae,,,"Public Instruction, Office of Superintendent of (OSPI)",
+jpsg-gf9y,3b7q-74f4,dataset,"Public Instruction, Office of Superintendent of (OSPI)",Washington State Technology Solutions (CTS)
+svfg-a3ba,,,"Public Instruction, Office of Superintendent of (OSPI)",
+526x-m8qu,,,"Labor & Industries, Department of (LNI)",
+e3yp-ncxe,,,"Public Instruction, Office of Superintendent of (OSPI)",
+crgg-jwgt,,,"Public Instruction, Office of Superintendent of (OSPI)",
+hkej-sset,,,"Public Instruction, Office of Superintendent of (OSPI)",
+8qgd-9hva,,,"Public Instruction, Office of Superintendent of (OSPI)",
+c2fj-zern,,,"Labor & Industries, Department of (LNI)",
+dky2-4r3w,,,"Ecology, Department of (ECY)",
+vzsg-dfij,,,"Public Instruction, Office of Superintendent of (OSPI)",
+nk2b-he5k,,,"Public Instruction, Office of Superintendent of (OSPI)",
+wyne-pb44,,,"Public Instruction, Office of Superintendent of (OSPI)",
+8zs8-t43h,,,"Public Instruction, Office of Superintendent of (OSPI)",
+raa5-89rw,,,"Public Instruction, Office of Superintendent of (OSPI)",
+crdv-eh3y,,,"Public Instruction, Office of Superintendent of (OSPI)",
+ybcy-ff5a,,,"Public Instruction, Office of Superintendent of (OSPI)",
+qsq4-2ikv,,,"Public Instruction, Office of Superintendent of (OSPI)",
+f7e5-kx78,,,"Public Instruction, Office of Superintendent of (OSPI)",
+j3ub-kqt3,,,"Public Instruction, Office of Superintendent of (OSPI)",
+jerk-mw5f,,,"Public Instruction, Office of Superintendent of (OSPI)",
+c4ab-ruqx,,,"Public Instruction, Office of Superintendent of (OSPI)",
+g3gr-88bh,,,"Public Instruction, Office of Superintendent of (OSPI)",
+vd2t-ic87,,,"Public Instruction, Office of Superintendent of (OSPI)",
+af6k-cve6,,,"Public Instruction, Office of Superintendent of (OSPI)",
+23hx-y9jw,,,,
+58ks-k4z3,,,"Public Instruction, Office of Superintendent of (OSPI)",
+huwq-t84x,,,"Public Instruction, Office of Superintendent of (OSPI)",
+23pu-ajte,,,"Public Instruction, Office of Superintendent of (OSPI)",
+m4ex-3ruv,,,"Public Instruction, Office of Superintendent of (OSPI)",
+tc5x-8n7d,,,"Public Instruction, Office of Superintendent of (OSPI)",
+gbf6-g848,,,Asotin County Library,
+p6et-w7xc,,,"Public Instruction, Office of Superintendent of (OSPI)",
+qg3t-ggc6,,,"Public Instruction, Office of Superintendent of (OSPI)",
+x69e-u77f,,,"Labor & Industries, Department of (LNI)",
+b2xg-wcas,,,"Public Instruction, Office of Superintendent of (OSPI)",
+eqm6-4iu5,,,Asotin County Library,
+em8e-8kyx,,,"Public Instruction, Office of Superintendent of (OSPI)",
+axnc-3mja,,,"Public Instruction, Office of Superintendent of (OSPI)",
+mceu-zqex,trbk-6ezf,dataset,"Secretary of State, Office of the (SECSTATE)",Other external user
+93dh-s58f,,,"Public Instruction, Office of Superintendent of (OSPI)",
+vy58-2q96,,,"Public Instruction, Office of Superintendent of (OSPI)",
+ssgv-eewm,8xjw-yrdy,dataset,Timberland Regional Library,"Licensing, Department of (DOL)"
+ysuy-uh3t,,,"Public Instruction, Office of Superintendent of (OSPI)",
+wmxz-94gf,,,"Ecology, Department of (ECY)",
+7gnf-4zs9,,,"Public Instruction, Office of Superintendent of (OSPI)",
+fb6g-mcqx,,,"Public Instruction, Office of Superintendent of (OSPI)",
+md3s-bmfa,,,"Labor & Industries, Department of (LNI)",
+f7ax-bcd9,,,"Public Instruction, Office of Superintendent of (OSPI)",
+wi4d-7czy,,,"Public Instruction, Office of Superintendent of (OSPI)",
+rmhe-mn9a,,,"Public Instruction, Office of Superintendent of (OSPI)",
+6f8e-v9h8,,,"Accountancy, State Board of (WBOA)(ACB)",
+jss9-5bsp,,,Washington State Technology Solutions (CTS),
+in55-r2cm,,,"Children, Youth, and Families, Department of (DCYF)",
+nanm-rkad,,,"Public Instruction, Office of Superintendent of (OSPI)",
+dvby-hyi6,,,"Public Instruction, Office of Superintendent of (OSPI)",
+xikg-z8tb,,,"Public Instruction, Office of Superintendent of (OSPI)",
+7fiz-2unw,,,"Public Instruction, Office of Superintendent of (OSPI)",
+yj9m-kxyg,,,"Public Instruction, Office of Superintendent of (OSPI)",
+h2fn-9zmm,,,"Public Instruction, Office of Superintendent of (OSPI)",
+bhqz-yv73,sb4j-ca4h,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Attorney General, Office of the (ATG)"
+uuu2-quai,,,"Public Instruction, Office of Superintendent of (OSPI)",
+eutg-294g,,,"Public Instruction, Office of Superintendent of (OSPI)",
+s457-hsf5,,,"Public Instruction, Office of Superintendent of (OSPI)",
+pz2c-tiui,,,"Public Instruction, Office of Superintendent of (OSPI)",
+8ewp-xtgm,,,"Public Instruction, Office of Superintendent of (OSPI)",
+fyvw-te27,,,"Public Instruction, Office of Superintendent of (OSPI)",
+xkgd-4key,pchc-4957,dataset,"Financial Management, Office of (OFM)",Washington State Technology Solutions (CTS)
+59z5-2b83,,,"Public Instruction, Office of Superintendent of (OSPI)",
+k337-y9cx,,,"Financial Management, Office of (OFM)",
+v9nq-4hzy,8xjw-yrdy,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Licensing, Department of (DOL)"
+qawb-ju9y,474k-69jd,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Health, Department of (DOH)"
+ja54-ddzj,,,"Enterprise Services, Department of (DES)",
+usce-r7it,pchc-4957,dataset,"Public Instruction, Office of Superintendent of (OSPI)",Washington State Technology Solutions (CTS)
+23ir-7y9z,,,,
+2x4x-bzqs,,,"Public Instruction, Office of Superintendent of (OSPI)",
+cnur-mzu7,padd-mby7,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Attorney General, Office of the (ATG)"
+wsf5-hfcq,,,"Public Instruction, Office of Superintendent of (OSPI)",
+qm8k-skfy,,,"Public Instruction, Office of Superintendent of (OSPI)",
+jj6q-uhgm,,,"Public Instruction, Office of Superintendent of (OSPI)",
+n25s-2gfv,,,"Financial Management, Office of (OFM)",
+ebns-iw25,sb4j-ca4h,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Attorney General, Office of the (ATG)"
+ah2t-f23u,,,"Arts Commission, Washington State (ARTSWA)",
+gdw2-xjei,,,Washington State Technology Solutions (CTS),
+nm85-8jz2,,,"Public Instruction, Office of Superintendent of (OSPI)",
+fugi-fp5y,,,"Public Instruction, Office of Superintendent of (OSPI)",
+wadq-7gx7,,,Other external user,
+474k-69jd,,,"Health, Department of (DOH)",
+7d9f-7aqw,6ukv-n3hz,dataset,"Public Instruction, Office of Superintendent of (OSPI)",Other external user
+r7i3-n9ww,,,Washington State Technology Solutions (CTS),
+jfpr-sqw2,,,"Enterprise Services, Department of (DES)",
+rjni-hn6s,,,"Public Instruction, Office of Superintendent of (OSPI)",
+kksk-q3xq,wu7y-rbw5,dataset,"Public Instruction, Office of Superintendent of (OSPI)",Other external user
+dq42-mbvq,,,Asotin County Library,
+akrc-g6te,,,"Public Instruction, Office of Superintendent of (OSPI)",
+yuhf-k74t,4j29-snvr,dataset,Asotin County Library,Washington State Technology Solutions (CTS)
+u78a-5kge,,,"Public Instruction, Office of Superintendent of (OSPI)",
+pnmb-rq7m,,,"Public Instruction, Office of Superintendent of (OSPI)",
+59cw-kpf6,,,"Public Instruction, Office of Superintendent of (OSPI)",
+rjn3-nr4c,,,"Public Instruction, Office of Superintendent of (OSPI)",
+rcec-xuv3,,,"Public Instruction, Office of Superintendent of (OSPI)",
+7w96-mhxh,,,"Labor & Industries, Department of (LNI)",
+8erc-kagh,,,"Public Instruction, Office of Superintendent of (OSPI)",
+ezjy-9add,,,Asotin County Library,
+mcsf-deei,,,"Labor & Industries, Department of (LNI)",
+yaag-7vv4,,,"Public Instruction, Office of Superintendent of (OSPI)",
+pmkr-qpv2,,,"Public Instruction, Office of Superintendent of (OSPI)",
+nbd2-vdmz,,,"Fish and Wildlife, Department of (DFW)",
+stvb-59gv,,,Timberland Regional Library,
+6hqx-bq4r,uc69-gudu,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Financial Management, Office of (OFM)"
+9fiu-w56f,gdw2-uv4h,dataset,Kennewick School District,Washington State Technology Solutions (CTS)
+gajg-59vp,,,Asotin County Library,
+sedr-qag9,,,"Public Instruction, Office of Superintendent of (OSPI)",
+7bjm-ze6e,,,"Public Instruction, Office of Superintendent of (OSPI)",
+rtpa-hmyk,,,Asotin County Library,
+fuyr-sk5y,6ukv-n3hz,dataset,"Public Instruction, Office of Superintendent of (OSPI)",Other external user
+23r3-takf,,,"Public Instruction, Office of Superintendent of (OSPI)",
+xmqf-m84r,,,"Financial Management, Office of (OFM)",
+en9q-sjg3,hfk5-3b7j,dataset,"Health, Department of (DOH)","Licensing, Department of (DOL)"
+pq8j-eip9,4j29-snvr,dataset,"Public Instruction, Office of Superintendent of (OSPI)",Washington State Technology Solutions (CTS)
+3xze-cz2v,,,Washington State Technology Solutions (CTS),
+2sz6-xb52,,,"Labor & Industries, Department of (LNI)",
+94yr-7wu3,,,"Public Instruction, Office of Superintendent of (OSPI)",
+f8kb-pm6f,8xjw-yrdy,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Licensing, Department of (DOL)"
+s7mu-5tar,,,"Labor & Industries, Department of (LNI)",
+8ucq-qtbx,,,"Public Instruction, Office of Superintendent of (OSPI)",
+wpie-jqmr,sb4j-ca4h,dataset,"Salmon Recovery Office, Governor's (GSRO)","Attorney General, Office of the (ATG)"
+nv8r-vvxm,,,Asotin County Library,
+rjgh-459t,,,"Public Instruction, Office of Superintendent of (OSPI)",
+ps5g-8xwz,,,"Public Instruction, Office of Superintendent of (OSPI)",
+kvpz-3x8g,,,Public Disclosure Commission (PDC),
+q28u-gfg9,,,"Accountancy, State Board of (WBOA)(ACB)",
+v5gi-7up5,,,"Ecology, Department of (ECY)",
+r7vx-2mx9,,,Washington State Technology Solutions (CTS),
+ddf5-um4h,,,Asotin County Library,
+simk-hq75,,,Asotin County Library,
+2u3r-f6qd,,,Other external user,
+6msp-em9n,,,"Public Instruction, Office of Superintendent of (OSPI)",
+hcy2-er6w,,,"Public Instruction, Office of Superintendent of (OSPI)",
+phsq-jp5d,,,Asotin County Library,
+2rj5-ptr2,4m5j-xuvx,dataset,"Public Instruction, Office of Superintendent of (OSPI)",Other external user
+xtvb-fp5x,,,"Public Instruction, Office of Superintendent of (OSPI)",
+7mfe-t4yt,,,"Financial Management, Office of (OFM)",
+6ude-3axn,,,"Public Instruction, Office of Superintendent of (OSPI)",
+bcyw-k8i3,,,"Enterprise Services, Department of (DES)",
+uzyn-6uyv,,,"Public Instruction, Office of Superintendent of (OSPI)",
+kad9-miyv,,,"Public Instruction, Office of Superintendent of (OSPI)",
+b2ps-t85m,4j29-snvr,dataset,"Public Instruction, Office of Superintendent of (OSPI)",Washington State Technology Solutions (CTS)
+jhcx-fm3p,,,"Public Instruction, Office of Superintendent of (OSPI)",
+y3tn-ibdf,,,Asotin County Library,
+q8m6-gqe7,,,"Public Instruction, Office of Superintendent of (OSPI)",
+uznp-4e86,cgha-fszd,dataset,Asotin County Library,"Health, Department of (DOH)"
+6yx3-2uzn,,,"Public Instruction, Office of Superintendent of (OSPI)",
+6mb5-yc25,whwr-9g8d,dataset,"Public Instruction, Office of Superintendent of (OSPI)",Other external user
+3s84-i55m,,,Public Disclosure Commission (PDC),
+tubg-jxpb,,,"Ecology, Department of (ECY)",
+knyv-bwnd,,,Asotin County Library,
+fywc-6sq4,,,"Public Instruction, Office of Superintendent of (OSPI)",
+9k9q-sdep,474k-69jd,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Health, Department of (DOH)"
+f3q5-345t,,,Asotin County Library,
+iweb-th7m,ah2t-f23u,dataset,"Salmon Recovery Office, Governor's (GSRO)","Arts Commission, Washington State (ARTSWA)"
+28pv-s4zc,3b7q-74f4,dataset,"Health, Department of (DOH)",Washington State Technology Solutions (CTS)
+hg7z-ssbv,,,"Salmon Recovery Office, Governor's (GSRO)",
+243c-rc9t,6ukv-n3hz,dataset,"Public Instruction, Office of Superintendent of (OSPI)",Other external user
+m2xg-tpsm,292v-tb9r,dataset,Recreation and Conservation Office (RCO),"Public Instruction, Office of Superintendent of (OSPI)"
+ezdh-2dwm,,,Asotin County Library,
+w8w9-ypqb,gevy-wn26,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Ecology, Department of (ECY)"
+nzji-uwi7,9f5q-vk4q,dataset,"Public Instruction, Office of Superintendent of (OSPI)",Washington State Technology Solutions (CTS)
+8pxm-d86c,,,"Financial Management, Office of (OFM)",
+pwse-3zea,,,"Enterprise Services, Department of (DES)",
+77z9-qkba,,,"Public Instruction, Office of Superintendent of (OSPI)",
+5c5e-xz7u,vq5s-hbqh,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Licensing, Department of (DOL)"
+3biz-7njc,3b7q-74f4,dataset,Washington State Technology Solutions (CTS),Washington State Technology Solutions (CTS)
+gvwz-msv7,,,"Public Instruction, Office of Superintendent of (OSPI)",
+9tng-8ua4,,,Recreation and Conservation Office (RCO),
+8ixi-nj4n,,,"Public Instruction, Office of Superintendent of (OSPI)",
+3fhb-3cnb,,,"Enterprise Services, Department of (DES)",
+f9uf-hh8x,,,"Financial Management, Office of (OFM)",
+cieq-t5ni,,,"Health, Department of (DOH)",
+sw8s-rvsb,,,Timberland Regional Library,
+7stm-45gi,,,"Public Instruction, Office of Superintendent of (OSPI)",
+2czg-x8gu,ah2t-f23u,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Arts Commission, Washington State (ARTSWA)"
+cqgv-82c9,,,Asotin County Library,
+pm2y-2urq,,,"Public Instruction, Office of Superintendent of (OSPI)",
+rrbf-ekmz,,,"Public Instruction, Office of Superintendent of (OSPI)",
+ycqf-jk7k,,,"Public Instruction, Office of Superintendent of (OSPI)",
+xzf2-vq37,,,"Public Instruction, Office of Superintendent of (OSPI)",
+spep-kg8e,,,"Public Instruction, Office of Superintendent of (OSPI)",
+4de2-cgf9,3mvq-959q,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Salmon Recovery Office, Governor's (GSRO)"
+u7bj-gkg6,,,"Public Instruction, Office of Superintendent of (OSPI)",
+kvjc-4f3r,,,Public Disclosure Commission (PDC),
+kskc-cw8m,,,"Ecology, Department of (ECY)",
+ey4f-gmgn,,,"Public Instruction, Office of Superintendent of (OSPI)",
+45nt-ntf7,,,"Public Instruction, Office of Superintendent of (OSPI)",
+gqpu-3irt,,,"Public Instruction, Office of Superintendent of (OSPI)",
+ph9k-36dr,,,"Public Instruction, Office of Superintendent of (OSPI)",
+jnwp-rrf7,,,"Ecology, Department of (ECY)",
+cvna-ugwn,,,"Public Instruction, Office of Superintendent of (OSPI)",
+4aw2-b4zh,,,"Public Instruction, Office of Superintendent of (OSPI)",
+f5ys-khej,8ewp-xtgm,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Public Instruction, Office of Superintendent of (OSPI)"
+rdnd-zpxe,fgyz-n3uk,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Fish and Wildlife, Department of (DFW)"
+t7w3-ex2r,,,"Health, Department of (DOH)",
+6vjd-vh5u,,,"Public Instruction, Office of Superintendent of (OSPI)",
+gsed-fdmc,,,"Public Instruction, Office of Superintendent of (OSPI)",
+2xra-nnx8,,,"Ecology, Department of (ECY)",
+35vf-2z3s,wmtw-ckd3,dataset,"Public Instruction, Office of Superintendent of (OSPI)","Ecology, Department of (ECY)"
+ujp9-h4xx,,,"Public Instruction, Office of Superintendent of (OSPI)",
+wa3a-x8pr,,,Other external user,
+bt4i-ssnv,,,"Licensing, Department of (DOL)",
+styi-4yud,wa3a-x8pr,dataset,Timberland Regional Library,Other external user
+dij7-mbxg,,,"Public Instruction, Office of Superintendent of (OSPI)",

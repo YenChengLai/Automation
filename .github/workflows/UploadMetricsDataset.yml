@@ -11,27 +11,31 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
+
     - name: Set up Python
       uses: actions/setup-python@v2
       with:
         python-version: '3.x'
+
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
         pip install pandas requests azure-storage-blob
         pip install google-analytics-data
 
-    # Update Metric3 and Metric4 csv files
+    - name: Set execute permission for the scripts
+      run: |
+        chmod +x "${{ github.workspace }}/UpdateCSV/metricsVisualization.py"
+        chmod +x "${{ github.workspace }}/UpdateCSV/googleAnalysisUpdate.py"
+
     - name: Run Metrics Visualization Script
       run: "${{ github.workspace }}/UpdateCSV/metricsVisualization.py"
       env:
         AZURE_STORAGE_CONNECTION_STRING: ${{ secrets.AZURE_STORAGE_CONNECTION_STRING }}
         CONTAINER_NAME: ${{ secrets.CONTAINER_NAME }}
 
-    # Update Google Analysis csv files
     - name: Run Google Analytics Script
       run: python "${{ github.workspace }}/UpdateCSV/googleAnalysisUpdate.py"
       env:
         AZURE_STORAGE_CONNECTION_STRING: ${{ secrets.AZURE_STORAGE_CONNECTION_STRING }}
         CONTAINER_NAME: ${{ secrets.CONTAINER_NAME }}
-

@@ -1,4 +1,4 @@
-name: Run Python Script and Update CSV
+name: Update GA_User and Device-related Information Dataset
 
 on:
   workflow_dispatch:
@@ -36,4 +36,4 @@ jobs:
         AZURE_STORAGE_CONNECTION_STRING: ${{ secrets.AZURE_STORAGE_CONNECTION_STRING }}
         CONTAINER_NAME: ${{ secrets.CONTAINER_NAME }}
       run: |
-        python "${{ github.workspace }}/update-script.py"
+        python "${{ github.workspace }}/update-GAUserAndDevice.py"

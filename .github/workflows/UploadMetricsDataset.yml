@@ -29,7 +29,7 @@ jobs:
         chmod +x "${{ github.workspace }}/UpdateCSV/googleAnalysisUpdate.py"
 
     - name: Run Metrics Visualization Script
-      run: "${{ github.workspace }}/UpdateCSV/metricsVisualization.py"
+      run: xvfb-run -a "${{ github.workspace }}/UpdateCSV/metricsVisualization.py"
       env:
         AZURE_STORAGE_CONNECTION_STRING: ${{ secrets.AZURE_STORAGE_CONNECTION_STRING }}
         CONTAINER_NAME: ${{ secrets.CONTAINER_NAME }}

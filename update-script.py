@@ -33,7 +33,7 @@ revision_json = json.dumps({
 connect_str = os.getenv('AZURE_STORAGE_CONNECTION_STRING')
 
 # Blob container name
-container_name = 'dataset4metrics'
+container_name = os.getenv('CONTAINER_NAME')
 
 # Blob file name
 blob_name = 'GAUserAndDevice.csv'

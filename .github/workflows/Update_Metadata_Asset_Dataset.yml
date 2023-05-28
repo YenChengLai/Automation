@@ -1,0 +1,38 @@
+name: Update Metadata for Assets on Open Data Portal Dataset
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 8 * * *' # runs at 08:00 AM in UTC time (01:00 AM in PDT)
+
+jobs:
+  run-script:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.x
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install socrata sodapy azure-storage-blob
+
+    - name: Set up Git user
+      run: |
+        git config --global user.name "GitHub Actions Bot"
+        git config --global user.email "github-actions-bot@users.noreply.github.com"
+
+    - name: Run Python script
+      env:
+        MY_SOCRATA_USERNAME: ${{ secrets.MY_SOCRATA_USERNAME }}
+        MY_SOCRATA_PASSWORD: ${{ secrets.MY_SOCRATA_PASSWORD }}
+        AZURE_STORAGE_CONNECTION_STRING: ${{ secrets.AZURE_STORAGE_CONNECTION_STRING }}
+        CONTAINER_NAME: ${{ secrets.CONTAINER_NAME }}
+      run: |
+        python "${{ github.workspace }}/MetadataForAssetsOpenDataPortal.py"

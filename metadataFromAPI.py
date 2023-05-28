@@ -245,7 +245,7 @@ def main():
 
     # Upload the created file
     with open(local_file_name, "rb") as data:
-        blob_client.upload_blob(data, overWrite = True)
+        blob_client.upload_blob(data, overwrite=True)
 
 if __name__ == "__main__":
     main()

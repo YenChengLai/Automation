@@ -21,7 +21,7 @@ jobs:
         python -m pip install --upgrade pip
         pip install pandas requests azure-storage-blob
     - name: Run script
-      run: python MetricsVisualization.py
+      run: python metricsVisualization.py
       env:
         AZURE_STORAGE_CONNECTION_STRING: ${{ secrets.AZURE_STORAGE_CONNECTION_STRING }}
         CONTAINER_NAME: ${{ secrets.CONTAINER_NAME }}

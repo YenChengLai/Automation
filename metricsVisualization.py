@@ -126,6 +126,9 @@ def metric4(pd_access):
 
     return pd_access_cat
 
+def download_blob(blob_client, local_file_name):
+    with open(local_file_name, "wb") as file:
+        file.write(blob_client.download_blob().readall())
 
 def main():
     agency = pd.read_csv('UserAgencies.csv')

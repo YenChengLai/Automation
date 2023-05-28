@@ -7,9 +7,9 @@ import requests
 from azure.storage.blob import BlobServiceClient
 
 auth = Authorization(
-  'data.wa.gov',
-  os.environ['MY_SOCRATA_USERNAME'],
-  os.environ['MY_SOCRATA_PASSWORD']
+    'data.wa.gov',
+    os.environ['MY_SOCRATA_USERNAME'],
+    os.environ['MY_SOCRATA_PASSWORD']
 )
 
 socrata = Socrata(auth)
@@ -17,23 +17,23 @@ view = socrata.views.lookup('dc4r-6qu4')
 
 # These are the fields you want to update
 dataset_name = 'GAUserAndDevice_05-28-2023_4d9a'
-metadata = { 'name': dataset_name }
+metadata = {'name': dataset_name}
 action_type = 'update'
 permission = 'private'
 
-revision_json = json.dumps({ 
-    'metadata': metadata, 
-    'action': { 
-        'type': action_type, 
-        'permission': permission 
-    } 
+revision_json = json.dumps({
+    'metadata': metadata,
+    'action': {
+        'type': action_type,
+        'permission': permission
+    }
 })
 
 # Connection string for Azure Blob Storage
 connect_str = os.getenv('AZURE_STORAGE_CONNECTION_STRING')
 
 # Blob container name
-container_name = os.environ['CONTAINER_NAME']
+container_name = os.getenv('CONTAINER_NAME')
 
 # Blob file name
 blob_name = 'GAUserAndDevice.csv'

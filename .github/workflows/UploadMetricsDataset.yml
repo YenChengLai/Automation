@@ -7,7 +7,6 @@ on:
 
 jobs:
   build:
-
     runs-on: ubuntu-latest
 
     steps:
@@ -20,8 +19,18 @@ jobs:
       run: |
         python -m pip install --upgrade pip
         pip install pandas requests azure-storage-blob
-    - name: Run script
+
+    # First script
+    - name: Run Metrics Visualization Script
       run: python metricsVisualization.py
       env:
         AZURE_STORAGE_CONNECTION_STRING: ${{ secrets.AZURE_STORAGE_CONNECTION_STRING }}
         CONTAINER_NAME: ${{ secrets.CONTAINER_NAME }}
+
+    # Second script
+    - name: Run Google Analytics Script
+      run: python googleAnalysisUpdate.py
+      env:
+        AZURE_STORAGE_CONNECTION_STRING: ${{ secrets.AZURE_STORAGE_CONNECTION_STRING }}
+        CONTAINER_NAME: ${{ secrets.CONTAINER_NAME }}
+        # Add any other environment variables specific to the second script if needed

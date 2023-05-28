@@ -131,7 +131,7 @@ def download_blob(blob_client, local_file_name):
         file.write(blob_client.download_blob().readall())
 
 def main():
-    agency = pd.read_csv('UserAgencies.csv')
+    agency = pd.read_csv('/UserAgencies.csv')
     agency = agency.fillna('')
     url = "http://api.us.socrata.com/api/catalog/v1?domains=data.wa.gov&limit=9000"
     response = requests.get(url)

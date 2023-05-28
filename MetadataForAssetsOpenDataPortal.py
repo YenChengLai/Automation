@@ -45,7 +45,7 @@ blob_service_client = BlobServiceClient.from_connection_string(connect_str)
 blob_client = blob_service_client.get_blob_client(container=container_name, blob=blob_name)
 
 # Download the file locally
-local_file_name = 'GAUserAndDevice.csv'
+local_file_name = 'Metric3.csv'
 with open(local_file_name, 'wb') as file:
     file.write(blob_client.download_blob().readall())
 

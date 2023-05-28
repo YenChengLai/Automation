@@ -19,6 +19,7 @@ jobs:
       run: |
         python -m pip install --upgrade pip
         pip install pandas requests azure-storage-blob
+        pip install google-analytics-data
 
     # First script
     - name: Run Metrics Visualization Script

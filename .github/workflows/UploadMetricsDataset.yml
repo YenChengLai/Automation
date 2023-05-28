@@ -21,17 +21,17 @@ jobs:
         pip install pandas requests azure-storage-blob
         pip install google-analytics-data
 
-    # First script
+    # Update Metric3 and Metric4 csv files
     - name: Run Metrics Visualization Script
-      run: python metricsVisualization.py
+      run: "${{ github.workspace }}/UpdateCSV/metricsVisualization.py"
       env:
         AZURE_STORAGE_CONNECTION_STRING: ${{ secrets.AZURE_STORAGE_CONNECTION_STRING }}
         CONTAINER_NAME: ${{ secrets.CONTAINER_NAME }}
 
-    # Second script
+    # Update Google Analysis csv files
     - name: Run Google Analytics Script
-      run: python googleAnalysisUpdate.py
+      run: python "${{ github.workspace }}/UpdateCSV/googleAnalysisUpdate.py"
       env:
         AZURE_STORAGE_CONNECTION_STRING: ${{ secrets.AZURE_STORAGE_CONNECTION_STRING }}
         CONTAINER_NAME: ${{ secrets.CONTAINER_NAME }}
-        # Add any other environment variables specific to the second script if needed
+

@@ -11,8 +11,10 @@ from google.analytics.data_v1beta.types import RunReportRequest
 from google.analytics.data_v1beta.types import OrderBy
 
 ## Set up global variables
+current_directory = os.path.dirname(os.path.abspath(__file__))
+credentials_file_path = os.path.join(current_directory, 'waopendata_api_access_key.json')
 
-os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = 'waopendata_api_access_key.json'
+os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = credentials_file_path
 PROPERTY_ID = '331807331'
 
 client = BetaAnalyticsDataClient()

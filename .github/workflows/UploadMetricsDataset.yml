@@ -29,13 +29,13 @@ jobs:
         chmod +x "/UpdateCSV/googleAnalysisUpdate.py"
 
     - name: Run Metrics Visualization Script
-      run: "$/UpdateCSV/metricsVisualization.py"
+      run: "/UpdateCSV/metricsVisualization.py"
       env:
         AZURE_STORAGE_CONNECTION_STRING: ${{ secrets.AZURE_STORAGE_CONNECTION_STRING }}
         CONTAINER_NAME: ${{ secrets.CONTAINER_NAME }}
 
     - name: Run Google Analytics Script
-      run: python "$/UpdateCSV/googleAnalysisUpdate.py"
+      run: python "/UpdateCSV/googleAnalysisUpdate.py"
       env:
         AZURE_STORAGE_CONNECTION_STRING: ${{ secrets.AZURE_STORAGE_CONNECTION_STRING }}
         CONTAINER_NAME: ${{ secrets.CONTAINER_NAME }}

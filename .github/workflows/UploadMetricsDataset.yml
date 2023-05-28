@@ -25,17 +25,17 @@ jobs:
 
     - name: Set execute permission for the scripts
       run: |
-        chmod +x "${{ github.workspace }}/UpdateCSV/metricsVisualization.py"
-        chmod +x "${{ github.workspace }}/UpdateCSV/googleAnalysisUpdate.py"
+        chmod +x "/UpdateCSV/metricsVisualization.py"
+        chmod +x "/UpdateCSV/googleAnalysisUpdate.py"
 
     - name: Run Metrics Visualization Script
-      run: "${{ github.workspace }}/UpdateCSV/metricsVisualization.py"
+      run: "$/UpdateCSV/metricsVisualization.py"
       env:
         AZURE_STORAGE_CONNECTION_STRING: ${{ secrets.AZURE_STORAGE_CONNECTION_STRING }}
         CONTAINER_NAME: ${{ secrets.CONTAINER_NAME }}
 
     - name: Run Google Analytics Script
-      run: python "${{ github.workspace }}/UpdateCSV/googleAnalysisUpdate.py"
+      run: python "$/UpdateCSV/googleAnalysisUpdate.py"
       env:
         AZURE_STORAGE_CONNECTION_STRING: ${{ secrets.AZURE_STORAGE_CONNECTION_STRING }}
         CONTAINER_NAME: ${{ secrets.CONTAINER_NAME }}

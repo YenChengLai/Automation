@@ -68,7 +68,7 @@ blob_client = blob_service_client.get_blob_client(container_name, output_csv_fil
 
 # Upload the output CSV file
 with open(output_csv_filename, "rb") as data:
-    blob_client.upload_blob(data)
+    blob_client.upload_blob(data, overwrite=True)
 
 # Remove the local output CSV file
 os.remove(output_csv_filename)

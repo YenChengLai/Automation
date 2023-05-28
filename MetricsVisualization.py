@@ -138,30 +138,42 @@ def main():
     else:
         raise Exception(f"Failed to retrieve data with status code: {response.status_code}")
 
-    """ fetch Asset Parents """
+    #fetch Asset Parents
     AssetParents = fetchAssetParents(data)
 
-    """ Add Agency Data """
+    #Add Agency Data
     merge_AssetParents = merge_DF(AssetParents, agency)
 
-    """ Adding variables for metric2: Number of datasets with visualizations """
+    #Adding variables for metric2: Number of datasets with visualizations
     df_metric2 = metric2(merge_AssetParents)
-
-    """ 
-    Adding variables for metric3: Number of datasets with stories
-    df_metric3 is the final version for the dataset/asset for the first 3 metrics 
-
-    """
+    
+    #Adding variables for metric3: Number of datasets with stories
+    #df_metric3 is the final version for the dataset/asset for the first 3 metrics 
     df_metric3 = metric3(df_metric2, merge_AssetParents)
-    """
-    For the 4th metric, we need to create another asset for "Asset ACcess vs Category"
-    """
-    pd_access = pd.read_csv('SiteAnalytics_AssetAccess_test.csv')
+    
+    #For the 4th metric, we need to create another asset for "Asset ACcess vs Category"
+    
+    # Download the AssetAccess file from Azure Blob Storage
+    connect_str = os.getenv('AZURE_STORAGE_CONNECTION_STRING')
+    blob_service_client = BlobServiceClient.from_connection_string(connect_str)
+    container_name = os.getenv('CONTAINER_NAME')  # Get the container name from the environment variable
+    asset_access_file_name = 'SiteAnalytics_AssetAccess_test.csv'  # The name of the file in Azure Blob Storage
+
+    blob_client = blob_service_client.get_blob_client(container_name, asset_access_file_name)
+
+    # Download the file locally
+    local_file_name = 'AssetAccess.csv'
+    download_blob(blob_client, local_file_name)
+
+    # Read the downloaded file using pandas
+    pd_access = pd.read_csv(local_file_name)
+
+    # Remove the downloaded file
+    os.remove(local_file_name)
+
     df_metric4 = metric4(pd_access)
 
-    """
-    write to csv
-    """
+    # Write metric3 and metric4 to CSV files
     df_metric3.to_csv('Metric3.csv', index=False)
     df_metric4.to_csv('Metric4.csv', index=False)
     
@@ -170,10 +182,8 @@ def main():
     blob_service_client = BlobServiceClient.from_connection_string(connect_str)
     container_name = os.getenv('CONTAINER_NAME')  # Get the container name from the environment variable
 
-    # Choose local file names
-    file_names = ['Metric3.csv', 'Metric4.csv']
-
-    for file_name in file_names:
+    # Upload the generated files to Azure Blob Storage
+    for file_name in ['Metric3.csv', 'Metric4.csv']:
         # Create a blob client using the local file name as the name for the blob
         blob_client = blob_service_client.get_blob_client(container_name, file_name)
 

@@ -30,5 +30,10 @@ jobs:
         git config --global user.email "github-actions-bot@users.noreply.github.com"
 
     - name: Run Python script
+      env:
+        MY_SOCRATA_USERNAME: ${{ secrets.MY_SOCRATA_USERNAME }}
+        MY_SOCRATA_PASSWORD: ${{ secrets.MY_SOCRATA_PASSWORD }}
+        AZURE_STORAGE_CONNECTION_STRING: ${{ secrets.AZURE_STORAGE_CONNECTION_STRING }}
+        CONTAINER_NAME: ${{ secrets.CONTAINER_NAME }}
       run: |
         python "${{ github.workspace }}/MetadataForAssetsOpenDataPortal.py"

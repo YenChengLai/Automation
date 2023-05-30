@@ -3,7 +3,7 @@ name: Update Metadata for Assets on Open Data Portal Dataset
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 8 * * *' # runs at 08:00 AM in UTC time (01:00 AM in PDT)
+    - cron: '0 8 * * 0' # runs every Sunday at 1 AM in PDT time zone
 
 jobs:
   run-script:

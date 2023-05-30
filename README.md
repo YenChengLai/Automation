@@ -104,6 +104,7 @@ _***The container name here will directly influence your execution result. Be su
 | MY_SOCRATA_USERNAME | the username of the service account |
 | MY_SOCRATA_PASSWORD | the password of the service account |
 | AZURE_STORAGE_CONNECTION_STRING | the connection string retrieved from Azure service |
+| CONTAINER_NAME | the container name used on Azure Blob Storage |
 
 #### How to get your credentials:
 
@@ -111,6 +112,7 @@ _***The container name here will directly influence your execution result. Be su
 1. MY_SOCRATA_USERNAME: this is the username of the service account
 2. MY_SOCRATA_PASSWORD: this is the password of the service account
 3. AZURE_STORAGE_CONNECTION_STRING: this is the access key under your Azure Storage Account
+4. CONTAINER_NAME: this is the container name you created and used for storage
 
 ![Alt text](./Pictures/Find_Connection_String.png)
 

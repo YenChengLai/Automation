@@ -3,37 +3,32 @@ name: Update Metrics source dataset and store to Azure Blob Storage
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 7 * * *' # runs at 07:00 AM in UTC time (00:00 AM in PDT)
+    - cron: '0 0 * * *' # runs every day at midnight
 
 jobs:
-  run-script:
+  build:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v2
-
+    - uses: actions/checkout@v2
     - name: Set up Python
       uses: actions/setup-python@v2
       with:
-        python-version: 3.x
-
+        python-version: '3.x'
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        pip install sodapy socrata-py~=1.1.0
-        pip install azure-storage-blob
+        pip install pandas requests azure-storage-blob
+        pip install google-analytics-data
 
-    - name: Set up Git user
-      run: |
-        git config --global user.name "GitHub Actions Bot"
-        git config --global user.email "github-actions-bot@users.noreply.github.com"
-
-    - name: Run Python script
+    - name: Run Metrics Visualization Script
+      run: python UpdateCSV/metricsVisualization.py
       env:
-        MY_SOCRATA_USERNAME: ${{ secrets.MY_SOCRATA_USERNAME }}
-        MY_SOCRATA_PASSWORD: ${{ secrets.MY_SOCRATA_PASSWORD }}
         AZURE_STORAGE_CONNECTION_STRING: ${{ secrets.AZURE_STORAGE_CONNECTION_STRING }}
         CONTAINER_NAME: ${{ secrets.CONTAINER_NAME }}
-      run: |
-        python "${{ github.workspace }}/MetadataForAssetsOpenDataPortal.py"
+
+    - name: Run Google Analytics Script
+      run: python UpdateCSV/googleAnalysisUpdate.py
+      env:
+        AZURE_STORAGE_CONNECTION_STRING: ${{ secrets.AZURE_STORAGE_CONNECTION_STRING }}
+        CONTAINER_NAME: ${{ secrets.CONTAINER_NAME }}

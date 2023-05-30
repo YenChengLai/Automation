@@ -36,4 +36,4 @@ jobs:
         AZURE_STORAGE_CONNECTION_STRING: ${{ secrets.AZURE_STORAGE_CONNECTION_STRING }}
         CONTAINER_NAME: ${{ secrets.CONTAINER_NAME }}
       run: |
-        python "${{ github.workspace }}/MetadataForAssetsOpenDataPortal.py"
+        python "${{ github.workspace }}/metadataForAssetsOpenDataPortal.py"

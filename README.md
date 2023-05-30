@@ -90,7 +90,7 @@ Once your storage account is created, you can find your access keys by clicking 
 
 To store data in blob storage, you'll need to create a container. From your storage account page, click on "Containers" under the "Blob service" section, then click "+ Container" to create a new container.
 
-_***The container name here will directly influence your execution result. Be sure to use the same container name in the script as the one you created.***_
+_***The container name here will directly influence your execution result. Be sure to use the same container name in the following step for credentials.***_
 
 ![Alt text](./Pictures/Container.png)
 

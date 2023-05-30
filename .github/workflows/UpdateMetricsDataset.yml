@@ -1,4 +1,4 @@
-name: Update Metrics source dataset and store to Azure Blob Storage
+name: Generate and Update Metric3.csv, Metric4.csv, and GAUserAndDevice.csv
 
 on:
   workflow_dispatch:

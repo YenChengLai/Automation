@@ -1,4 +1,4 @@
-name: Run Python Script and Upload to Azure Blob
+name: Generate and Update MetadataFromAPI_py.csv
 
 on:
   workflow_dispatch:

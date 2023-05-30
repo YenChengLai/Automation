@@ -7,7 +7,8 @@ This Documentation will guide you on how to set up the automation pipeline to up
 
 
 ## Flow Chart
-![Alt text](./Pictures/FlowChart.png)
+![Alt text](./Pictures/Flow_Chart_1.png)
+![Alt text](./Pictures/Flow_Chart_2.png)
 
 1. Execute MetadataFromAPI.py to retrieve the latest Metadata and generate a file (MetadataFromAPI_py.xlsx) to Azure data storage.
 2. Execute MetricVisualization.py, which will generate two new csv files (Metric3.csv and Metric4.csv).

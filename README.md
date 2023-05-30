@@ -38,7 +38,17 @@ Make sure the files on Azure Blob Storage is already updated.
 | ------------------ | ----------| ----------------------| ---------------------------|
 | metadataForAssetsOpenDataPortal.py | Metric3.csv | Metadata for Assets on Open Data Portal | Number of assets hosted on data.wa.gov(Measure) </br> Number of datasets with visualizations(Metric) </br> Number of datasets with stories(Metric) |
 | openDataProtalByAccessCategory.py | Metric4.csv | Open data portal access by category | Access of assets hosted on data.wa.gov & Most popular assets(Measure) |
-| update-GAUserAndDevice.py | GAUserAndDevice.csv | GA_User and Device-related Information | Access of assets hosted on data.wa.gov& Most popular assets(Measure) |
+| update-GAUserAndDevice.py | GAUserAndDevice.csv | GA_User and Device-related Information | Access of assets hosted on data.wa.gov & Most popular assets(Measure) |
+
+### Workflow Name and Task Details
+
+| Workflow Name | YAML File Name | Corresponding Script | Task Detail |
+| ------------- | -------------- | -------------------- | ----------- |
+| Generate and Update MetadataFromAPI_py.csv | UpdateCSVtoAzure.yml | metadataFromAPI.py | Run python script to retrieve new data and generate new MetaDataFromAPI in excel form |
+| Generate and Update Metric3.csv, Metric4.csv, and GAUserAndDevice.csv | UpdateMetricsDataset.yml | metricVisualization.py <br/> googleAnalysisUpdate.py | Run two python scripts to generate and and update 3 csv files for dataset updates |
+| Update GA_User and Device-related Information Dataset | Update_GA_Device_Dataset.yml | googleAnalysisUpdate.py | Run python script to update GA_User and Device-related Information dataset |
+| Update Metadata for Assets on Open Data Portal Dataset | Update_Metadata_Asset_Dataset.yml | metadataForAssetsOpenDataPortal.py | Run python script to update Metadata for Assets on Open Data Portal dataset |
+| Update Open Data Protal Access By Category Dataset | Update_Open_Data_Portal_Access.yml | openDataProtalByAccessCategory.py | Run python script to update Open data portal access by category dataset |
 
 ## Setup
 

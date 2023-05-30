@@ -10,16 +10,35 @@ This Documentation will guide you on how to set up the automation pipeline to up
 ![Alt text](./Pictures/Flow_Chart_1.png)
 ![Alt text](./Pictures/Flow_Chart_2.png)
 
-1. Execute MetadataFromAPI.py to retrieve the latest Metadata and generate a file (MetadataFromAPI_py.xlsx) to Azure data storage.
-2. Execute MetricVisualization.py, which will generate two new csv files (Metric3.csv and Metric4.csv).
-3. Execute SiteAnalyticsCSV.py to merge data to the existing file (SiteAnalytics_AssetAccess_test.csv) in Azure.
-4. Execute three update scripts to update the data corresponding to three datasets.
+### Update CSV
 
-| File name | Corresponding Dataset | Corresponding Metrics Name |
-| ----------| ----------------------| ---------------------------|
-| Metric3.csv | Metadata for Assets on Open Data Portal | Number of assets hosted on data.wa.gov(Measure) </br> Number of datasets with visualizations(Metric) </br> Number of datasets with stories(Metric) |
-| Metric4.csv | Open data portal access by category | Access of assets hosted on data.wa.gov& Most popular assets(Measure) |
-| SiteAnalytics_AssetAccess_test.csv | Asset Access Data | Access of assets hosted on data.wa.gov& Most popular assets(Measure) |
+***Prerequisites*** <br/>
+You need to have the SiteAnalytics_AssetAccess_test.csv file under the destination Azure Blob Storage container.
+
+1. Execute metadataFromAPI.py to retrieve the latest Metadata and generate an excel file (MetadataFromAPI_py.xlsx) to Azure data storage.
+2. Execute metricVisualization.py, which will generate two new csv files (Metric3.csv and Metric4.csv) and also update the one in Azure.
+3. Execute googleAnalysisUpdate.py to fetch data from Google Analysis and generate a new csv file (GAUserAndDevice.csv) to replace the old one in Azure.
+
+| Python Script Name | GeneratedData | Required Setting File |
+| ------------------ | ------------- | --------------------- |
+| metadataFromAPI.py | MetadataFromAPI_py.xslx | N/A |
+| metricVisualization.py | Metrics3.csv <br/> Metrics4.csv | UserAgencies.csv (on GitHub) |
+| googleAnalysisUpdate.py | GAUserAndDevice.csv | waopendata_api_access_key.json (on GitHub) <br/> SiteAnalytics_AssetAccess_test.csv (on Azure Blob Storage) |
+
+### Update Dataset
+
+***Prerequisites*** <br/>
+Make sure the files on Azure Blob Storage is already updated.
+
+1. Execute metadataForAssetsOpenDataPortal.py to update dataset Metadata for Assets on Open Data Portal.
+2. Execute openDataProtalByAccessCategory.py to update dataset Open data portal access by category.
+3. Execute update-GAUserAndDevice.py to update dataset GA_User and Device-related Information
+
+| Python Script Name | File name | Corresponding Dataset | Corresponding Metrics Name |
+| ------------------ | ----------| ----------------------| ---------------------------|
+| metadataForAssetsOpenDataPortal.py | Metric3.csv | Metadata for Assets on Open Data Portal | Number of assets hosted on data.wa.gov(Measure) </br> Number of datasets with visualizations(Metric) </br> Number of datasets with stories(Metric) |
+| openDataProtalByAccessCategory.py | Metric4.csv | Open data portal access by category | Access of assets hosted on data.wa.gov & Most popular assets(Measure) |
+| update-GAUserAndDevice.py | GAUserAndDevice.csv | GA_User and Device-related Information | Access of assets hosted on data.wa.gov& Most popular assets(Measure) |
 
 ## Setup
 

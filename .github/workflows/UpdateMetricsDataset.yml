@@ -3,7 +3,7 @@ name: Generate and Update Metric3.csv, Metric4.csv, and GAUserAndDevice.csv
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 0 * * *' # runs every day at midnight
+    - cron: '0 7 * * 0' # runs every Sunday at 12 AM in PDT time zone
 
 jobs:
   build:

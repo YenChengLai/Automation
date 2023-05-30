@@ -203,7 +203,7 @@ def main():
     else:
         raise Exception(f"Failed to retrieve data with status code: {response.status_code}")
 
-    # only used by pageViews
+    # only used by pageViews and assetParents
     url2 = "http://api.us.socrata.com/api/catalog/v1?domains=data.wa.gov&limit=9000"
     response2 = requests.get(url2)
     

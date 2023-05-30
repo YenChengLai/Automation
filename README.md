@@ -94,7 +94,7 @@ _***The container name here will directly influence your execution result. Be su
 
 ![Alt text](./Pictures/Container.png)
 
-![Alt text](./Pictures/Script_Container_Name.png)
+![Alt text](./Pictures/Secret_Container_Name.png)
 
 
 ### Credentials

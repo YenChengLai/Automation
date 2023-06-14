@@ -13,7 +13,7 @@ This Documentation will guide you on how to set up the automation pipeline to up
 ### Update CSV
 
 ***Prerequisites*** <br/>
-You need to have the SiteAnalytics_AssetAccess_test.csv file under the destination Azure Blob Storage container.
+You need to have the SiteAnalytics_AssetAccess_test.csv and waopendata_api_access_key.json files under the destination Azure Blob Storage container.
 
 1. Execute metadataFromAPI.py to retrieve the latest Metadata and generate an excel file (MetadataFromAPI_py.xlsx) to Azure data storage.
 2. Execute metricVisualization.py, which will generate two new csv files (Metric3.csv and Metric4.csv) and also update the one in Azure.
@@ -23,7 +23,7 @@ You need to have the SiteAnalytics_AssetAccess_test.csv file under the destinati
 | ------------------ | ------------- | --------------------- |
 | metadataFromAPI.py | MetadataFromAPI_py.xslx | N/A |
 | metricVisualization.py | Metrics3.csv <br/> Metrics4.csv | UserAgencies.csv (on GitHub) |
-| googleAnalysisUpdate.py | GAUserAndDevice.csv | waopendata_api_access_key.json (on GitHub) <br/> SiteAnalytics_AssetAccess_test.csv (on Azure Blob Storage) |
+| googleAnalysisUpdate.py | GAUserAndDevice.csv | waopendata_api_access_key.json (on Azure Blob Storage) <br/> SiteAnalytics_AssetAccess_test.csv (on Azure Blob Storage) |
 
 ### Update Dataset
 

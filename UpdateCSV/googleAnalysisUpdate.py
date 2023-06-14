@@ -11,8 +11,18 @@ from google.analytics.data_v1beta.types import RunReportRequest
 from google.analytics.data_v1beta.types import OrderBy
 
 ## Set up global variables
-current_directory = os.path.dirname(os.path.abspath(__file__))
-credentials_file_path = os.path.join(current_directory, 'waopendata_api_access_key.json')
+connect_str = os.getenv('AZURE_STORAGE_CONNECTION_STRING')
+container_name = os.getenv('CONTAINER_NAME')  # The container where your credentials file is stored
+
+# Create a blob client for your credentials file
+blob_service_client = BlobServiceClient.from_connection_string(connect_str)
+credentials_blob_client = blob_service_client.get_blob_client(container_name, 'waopendata_api_access_key.json')
+
+# Download the credentials file to a temporary file
+with tempfile.NamedTemporaryFile(delete=False) as temp:
+    data = credentials_blob_client.download_blob().readall()
+    temp.write(data)
+    credentials_file_path = temp.name
 
 os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = credentials_file_path
 PROPERTY_ID = '331807331'
@@ -61,9 +71,7 @@ output_csv_filename = 'GAUserAndDevice.csv'
 output_df.to_csv(output_csv_filename)
 
 # Upload the output CSV file to Azure Blob Storage
-connect_str = os.getenv('AZURE_STORAGE_CONNECTION_STRING')
 blob_service_client = BlobServiceClient.from_connection_string(connect_str)
-container_name = os.getenv('CONTAINER_NAME')  # Get the container name from the environment variable
 
 # Create a blob client using the output CSV file name as the name for the blob
 blob_client = blob_service_client.get_blob_client(container_name, output_csv_filename)
@@ -74,3 +82,6 @@ with open(output_csv_filename, "rb") as data:
 
 # Remove the local output CSV file
 os.remove(output_csv_filename)
+
+# Remove the temporary credentials file
+os.remove(credentials_file_path)
